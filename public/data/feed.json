@@ -1,0 +1,580 @@
+{
+  "updatedAt": "2026-07-25T13:54:55.047958+00:00",
+  "matches": [
+    {
+      "id": "demo-nba",
+      "sport": "nba",
+      "competition": "NBA",
+      "home": "主队",
+      "away": "客队",
+      "status": "upcoming",
+      "time": "明日 08:00",
+      "demo": true
+    },
+    {
+      "id": "demo-football",
+      "sport": "football",
+      "competition": "欧洲足球",
+      "home": "主队",
+      "away": "客队",
+      "status": "upcoming",
+      "time": "明日 02:45",
+      "demo": true
+    },
+    {
+      "id": "demo-lol",
+      "sport": "lol",
+      "competition": "职业联赛",
+      "home": "蓝色方",
+      "away": "红色方",
+      "status": "upcoming",
+      "time": "今日 17:00",
+      "demo": true
+    }
+  ],
+  "articles": [
+    {
+      "id": "ef075f66bbe79f1a",
+      "sport": "nba",
+      "title": "Why Philly? Why not Cleveland or Miami? Here's eve...",
+      "summary": "This decision creates massive questions for several teams and the legend who once again just rocked the NBA.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49443519/lebron-76ers-cavaliers-heat-everything-windhorst-knows-stunning-decision",
+      "publishedAt": "2026-07-25T09:41:05-05:00",
+      "featured": true
+    },
+    {
+      "id": "eb14354cdd066d1d",
+      "sport": "football",
+      "title": "Darke: Premier League race promises to be a classi...",
+      "summary": "It is too early for title race predictions, but even a month ahead of the new season, it is clear that the storylines are intriguing and fascinating.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
+      "publishedAt": "2026-07-25T09:05:57-05:00",
+      "featured": true
+    },
+    {
+      "id": "6c4b8e3c45da88e9",
+      "sport": "football",
+      "title": "5 reasons the USWNT will (or won't) be in the Wome...",
+      "summary": "As we hit the one-year mark until the 2027 Women's World Cup final, we have to ask: Will the USWNT be there?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49435317/5-reasons-uswnt-in-women-world-cup-final-one-year",
+      "publishedAt": "2026-07-25T09:05:35-05:00"
+    },
+    {
+      "id": "b85723de067fa912",
+      "sport": "football",
+      "title": "Transfer rumors, news: Could Arsenal's Gyökeres jo...",
+      "summary": "Arsenal are reportedly interested in signing Real Madrid star Vinícius Júnior. Transfer Talk has the latest.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
+      "publishedAt": "2026-07-25T08:48:54-05:00"
+    },
+    {
+      "id": "190054558ac3fc3c",
+      "sport": "football",
+      "title": "Men's transfer grades: Man City get B- for club-re...",
+      "summary": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "publishedAt": "2026-07-25T08:47:32-05:00"
+    },
+    {
+      "id": "267019ae542296b6",
+      "sport": "football",
+      "title": "USWNT's Sonnett stretchered off for Gotham FC",
+      "summary": "Gotham FC and United States women's national team defender Emily Sonnett was stretchered off the field in the opening minutes of Gotham's 2-2 draw with the Portland Thorns on Friday after a non-contact knee injury.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49444838/uswnt-gotham-fc-portland-thorns-emily-sonnett",
+      "publishedAt": "2026-07-25T07:45:51-05:00"
+    },
+    {
+      "id": "d8b7b6eff0d160be",
+      "sport": "football",
+      "title": "Which South American players used the World Cup to...",
+      "summary": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "publishedAt": "2026-07-25T07:32:04-05:00"
+    },
+    {
+      "id": "0be87b2bea4a1fae",
+      "sport": "football",
+      "title": "Grading FIFA's changes to the World Cup, from expa...",
+      "summary": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
+      "publishedAt": "2026-07-25T07:32:04-05:00"
+    },
+    {
+      "id": "73bf14cc574ed04c",
+      "sport": "football",
+      "title": "Can MLS capitalize on World Cup fervor in the U.S.?",
+      "summary": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
+      "publishedAt": "2026-07-25T07:27:56-05:00"
+    },
+    {
+      "id": "c21816147b3a44c0",
+      "sport": "nba",
+      "title": "LeBron's final decision: Why he chose Philly and w...",
+      "summary": "Everything we know about James' decision to join Brown and the 76ers.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49440496/answering-biggest-questions-lebron-james-philadelphia-76ers-jaylen-brown",
+      "publishedAt": "2026-07-25T07:17:46-05:00"
+    },
+    {
+      "id": "08eb463588d5321a",
+      "sport": "football",
+      "title": "Klopp starts Germany stint with a threat to quit",
+      "summary": "Jürgen Klopp started his tenure as Germany's head coach with a threat to leave the job if the media don't respect his family's privacy.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49438468/jurgen-klopp-germany-manager-press-conference-threat-quit",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "388a7976facd3d88",
+      "sport": "football",
+      "title": "IOC won't investigate Infantino-Trump allegations",
+      "summary": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49440317/ioc-not-investigate-infantino-trump-interference-allegations",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "cec8d6dd16c56743",
+      "sport": "football",
+      "title": "Source: Pep turns down Italy, will take year off",
+      "summary": "Pep Guardiola's intention remains to take \"at least one year\" out of the game despite being approached to take over the vacant Italy coaching job, a source told ESPN.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49438651/pep-guardiola-turns-italy-take-year-source",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "716ea2ec20e34be4",
+      "sport": "football",
+      "title": "Maresca: 'Privilege' to succeed Pep at Man City",
+      "summary": "Enzo Maresca has said it's a \"privilege\" to succeed Pep Guardiola at Manchester City.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49439075/enzo-maresca-man-city-manager-rodri-transfer-news",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "2f381ee85db336da",
+      "sport": "football",
+      "title": "Liga MX announce Iturbide as new president",
+      "summary": "Liga MX announced on Friday that Francisco Iturbide will replace Mikel Arriola as the new president of the Mexican top-flight, thereby leaving Arriola as commissioner of the Mexican Football Federation (FMF) after he recently held both role",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49442372/liga-mx-announce-francisco-iturbide-new-president",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "11bf9e6ff025400e",
+      "sport": "football",
+      "title": "Van Bommel to replace Garcia as Belgium coach",
+      "summary": "Former Netherlands international Mark van Bommel has taken over as head coach of Belgium's national team following their run to the World Cup quarterfinals.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49439835/belgium-name-mark-van-bommel-replace-rudi-garcia-manager",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "c54328201d38dadb",
+      "sport": "football",
+      "title": "Liga MX Femenil rebrands, changes season format",
+      "summary": "Mexican women's top-flight side Liga MX Femenil announced a rebrand to Liga Femenil BBVA, along with a change in the competition's regular season format.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49440979/liga-mx-femenil-rebrands-changes-season-format",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "42810b1415894c6b",
+      "sport": "football",
+      "title": "👀 Barcelona, Kobe brand collab for new away kit",
+      "summary": "Barcelona have unveiled their 2026-27 away kit in what is the second chapter of the club's collaborative partnership with Kobe Bryant's signature brand.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49437979/barcelona-reveal-fresh-kobe-brand-collab-new-2026-27-away-kit",
+      "publishedAt": "2026-07-25T03:25:28-05:00"
+    },
+    {
+      "id": "f1a11fc77a205d36",
+      "sport": "nba",
+      "title": "Five stars, one ball: LeBron James' fantasy value ...",
+      "summary": "LeBron James makes the 76ers a strong championship contender, but the individual Sixers' fantasy values take a hit.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/fantasy/basketball/story/_/id/49441754/lebron-james-philadelphia-76ers",
+      "publishedAt": "2026-07-24T17:00:22-05:00"
+    },
+    {
+      "id": "814e6d2b5d61e451",
+      "sport": "football",
+      "title": "How Spain built historic dominance in men's, women...",
+      "summary": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
+      "publishedAt": "2026-07-24T15:04:33-05:00"
+    },
+    {
+      "id": "225dcc8bb1c5570f",
+      "sport": "football",
+      "title": "Spain didn't have a Messi, Mbappé or Haaland: How ...",
+      "summary": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "publishedAt": "2026-07-24T15:04:32-05:00"
+    },
+    {
+      "id": "777a36ecaa36ad9a",
+      "sport": "football",
+      "title": "Copy of Forget whether Germany need Klopp. Does Klopp need...",
+      "summary": "Jürgen Klopp ended his nine-year spell as Liverpool manager by saying he was too tired to carry on. Now, as Germany boss, is he game to coach again?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
+      "publishedAt": "2026-07-24T14:10:01-05:00"
+    },
+    {
+      "id": "0d8503b0e48b45f7",
+      "sport": "nba",
+      "title": "LeBron chooses 76ers, calls it his 'last decision'...",
+      "summary": "LeBron James, after considering retirement, is continuing his NBA career with the 76ers. James is taking a two-year, $8 million deal, Klutch Sports Group CEO Rich Paul told ESPN's Shams Charania.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49440164/lebron-chooses-76ers-sign-2-year-8-million-contract",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "9b35e7f4a13d26b2",
+      "sport": "nba",
+      "title": "Curry first active player to have own wing in HOF",
+      "summary": "Stephen Curry will become the first active player to be honored at the Naismith Basketball Hall of Fame with his own exhibit when it opens to the public Friday.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49420676/stephen-curry-first-active-player-own-exhibit-hof",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "17aa402346a72073",
+      "sport": "nba",
+      "title": "Sources: Walsh, C's agree to 3-year, $15M deal",
+      "summary": "Boston Celtics forward Jordan Walsh has agreed to a three-year, $15 million contract extension through the 2029-30 season, sources tell ESPN's Shams Charania.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49433371/sources-walsh-agrees-3-year-15m-extension-celtics",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "0f996f99458c5cb4",
+      "sport": "nba",
+      "title": "Suns GM confident Bridges' off-court issues in pas...",
+      "summary": "Suns GM Brian Gregory said the franchise felt comfortable bringing in veteran forward Miles Bridges despite his \"unacceptable conduct that has occurred in the past.\"",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49428106/suns-gm-gregory-confident-bridges-court-issues-past",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "d69ecff595d4f813",
+      "sport": "nba",
+      "title": "Sources: Thybulle, Lakers agree to 1-year deal",
+      "summary": "Free agent forward Matisse Thybulle has agreed on a one-year, $3.3 million deal to sign with the Los Angeles Lakers, sources told ESPN.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49411523/sources-matisse-thybulle-agrees-1-year-deal-lakers",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "2ff87589e1000aa2",
+      "sport": "nba",
+      "title": "Wilt's warm-up jacket, Goodwill find, sells for $8...",
+      "summary": "A Wilt Chamberlain warmup jacket originally found in a Portland, Oregon, Goodwill by Quinn Brown, 19, sold for $89,600, including the buyer's premium, at Sotheby's on Monday.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49413869/wilt-chamberlain-lakers-warm-jacket-sells-89600",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "9a2e1a423ce740c6",
+      "sport": "nba",
+      "title": "🏀 LeBron to Philly! Brown, Barkley, others react",
+      "summary": "LeBron James is taking his talents to the City of Brotherly Love and the sports world reacted accordingly.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49429256/lebron-james-signs-philadelphia-76ers-nba-social-media-sports-world-reactions",
+      "publishedAt": "2026-07-24T13:56:32-05:00"
+    },
+    {
+      "id": "82ce83fcf1032147",
+      "sport": "nba",
+      "title": "Lendeborg outduels Boozer; Dubs win Vegas title",
+      "summary": "Yaxel Lendeborg helped the Warriors to their second summer league championship, becoming just the second player to win a Division I NCAA championship and a summer league title in the same year.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49407474/lendeborg-outduels-boozer-dubs-claim-summer-league-title",
+      "publishedAt": "2026-07-24T13:56:31-05:00"
+    },
+    {
+      "id": "7d5b1855981732c4",
+      "sport": "nba",
+      "title": "NBA futures: Sixers' championship odds shorten to +900 following signing of LeBron",
+      "summary": "An updated look at the odds to win the 2027 NBA Finals following Philadelphia's signing of LeBron James.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49062262/2027-nba-finals-odds-mvp-2026-27-championship-betting",
+      "publishedAt": "2026-07-24T12:53:55-05:00"
+    },
+    {
+      "id": "8fd4f708b9a35ee8",
+      "sport": "nba",
+      "title": "30 things we learned in the NBA this offseason, on...",
+      "summary": "There are lessons to be taken from every team's moves, big and small, and we break them all down.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49425930/what-learned-all-30-nba-teams-offseason",
+      "publishedAt": "2026-07-24T11:48:57-05:00"
+    },
+    {
+      "id": "d6d366ac58e03fee",
+      "sport": "nba",
+      "title": "Copy of NBA Power Rankings: Where all 30 teams land after ...",
+      "summary": "Let's see where all 30 teams stand after a flurry of free agency and trade moves this offseason.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49359567/free-agency-nba-power-rankings-2026-offseason-all-30-teams",
+      "publishedAt": "2026-07-24T11:48:47-05:00"
+    },
+    {
+      "id": "75a8105214e42bb4",
+      "sport": "nba",
+      "title": "NBA offseason buzz: Latest free agency and trade u...",
+      "summary": "We're tracking deals, trades and buzz across the NBA, including the latest on LeBron James and the rest of offseason free agency.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+      "publishedAt": "2026-07-24T11:38:54-05:00"
+    },
+    {
+      "id": "8b8edf5fc252f0bd",
+      "sport": "football",
+      "title": "Meet Liverpool's new boss: Iraola opens up on visi...",
+      "summary": "Andoni Iraola explains why Spanish coaches are faring so well, the similarities between Athletic Club and Liverpool, and what he will demand in his debut season at Anfield.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49430196/meet-liverpool-new-boss-andoni-iraola-opens-vision-unite-anfield-fanbase",
+      "publishedAt": "2026-07-24T08:15:36-05:00"
+    },
+    {
+      "id": "dd7adf293e9642de",
+      "sport": "football",
+      "title": "What to expect from Arsenal's new $45.7M winger Ch...",
+      "summary": "Here's what Arsenal can expect from Greece winger Christos Tzolis.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49405006/what-expect-arsenal-new-40m-winger-christos-tzolis",
+      "publishedAt": "2026-07-24T08:15:36-05:00"
+    },
+    {
+      "id": "2997dd3b26f1992c",
+      "sport": "football",
+      "title": "Arsenal's new away kit brings back cult 'bruised b...",
+      "summary": "Arsenal have unveiled their 2026-27 away kit and once more the inspiration for the design is their old \"Bruised Banana\" jersey of the early 1990s.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49437804/premier-league-champions-arsenal-2026-27-away-kit-brings-back-cult-bruised-banana-design-again",
+      "publishedAt": "2026-07-24T08:12:50-05:00"
+    },
+    {
+      "id": "3311a1bbcc6582b8",
+      "sport": "football",
+      "title": "Real Madrid's new away kit first green jersey sinc...",
+      "summary": "Real Madrid hope José Mourinho can bring the green shoots of recovery to the Bernabéu, so it's fitting the team have a new green away kit to match.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49430168/real-madrid-2026-27-away-kit-first-green-jersey-jose-mourinho-was-last-bernabeu",
+      "publishedAt": "2026-07-24T08:12:49-05:00"
+    },
+    {
+      "id": "01c06873475c333b",
+      "sport": "lol",
+      "title": "How to watch EWC 2026 League of Legends: Stream, schedule, results, teams",
+      "summary": "The 2026 Esports World Cup is making history with the kickoff of its League of Legends tournament. Here’s everything you need to know about who might take home the $600,000 top prize.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/how-to-watch-ewc-2026-league-of-legends-stream-schedule-results-teams-3387307/",
+      "publishedAt": "2026-07-14T15:15:37+00:00",
+      "featured": true
+    },
+    {
+      "id": "3d5f3a6e40616731",
+      "sport": "lol",
+      "title": "Riot sends incredible gift to couple getting married after meeting in League of Legends",
+      "summary": "A couple who first met while playing League of Legends 12 years ago received a touching wedding gift from Riot Games.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/riot-sends-incredible-gift-to-couple-getting-married-after-meeting-in-league-of-legends-3374872/",
+      "publishedAt": "2026-06-11T15:42:20+00:00"
+    },
+    {
+      "id": "646426494cd7853b",
+      "sport": "lol",
+      "title": "League of Legends pro Bin fined $22K for not giving fans high-fives after match",
+      "summary": "Billibilli Gaming toplaner Bin was fined $22K for not high-fiving fans after his team’s match against EDWard Gaming on June 3.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-pro-bin-fined-22k-for-not-giving-fans-high-fives-after-match-3371939/",
+      "publishedAt": "2026-06-04T19:42:05+00:00"
+    },
+    {
+      "id": "1aeaa6eb25e79698",
+      "sport": "lol",
+      "title": "Playing League of Legends can improve your brain, study finds",
+      "summary": "A new study has suggested that playing League of Legends can improve brain function, with some effects still showing 10 weeks later.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/gaming/playing-league-of-legends-can-improve-your-brain-study-finds-3357773/",
+      "publishedAt": "2026-04-28T14:42:58+00:00"
+    },
+    {
+      "id": "9c0d13bd88b3d74a",
+      "sport": "lol",
+      "title": "Riot Games gift Jynxzi a League of Legends account after banning him for buying one",
+      "summary": "Twitch streamer Jynxzi was permanently banned from League of Legends after buying a leveled account, before quickly being given a replacement account by a Riot Games employee.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/twitch/riot-games-gift-jynxzi-a-league-of-legends-account-after-banning-him-for-buying-one-3357607/",
+      "publishedAt": "2026-04-28T10:32:19+00:00"
+    },
+    {
+      "id": "c1013e7162ffd120",
+      "sport": "lol",
+      "title": "LoL player uses actual steering wheel to play the game",
+      "summary": "A League of Legends streamer has managed to set up and play the game with a steering wheel.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/lol-player-uses-actual-steering-wheel-to-play-the-game-3357537/",
+      "publishedAt": "2026-04-28T03:26:03+00:00"
+    },
+    {
+      "id": "2c62015fa6cd67b6",
+      "sport": "lol",
+      "title": "Riot dev roasts LoL booster allegedly earning $10K+ a month",
+      "summary": "A Riot dev caught a League of Legends player offering boosting services and shut it down in an unexpected way.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/riot-dev-roasts-lol-booster-allegedly-earning-10k-a-month-3356197/",
+      "publishedAt": "2026-04-24T06:55:11+00:00"
+    },
+    {
+      "id": "b3a64aa18735afe9",
+      "sport": "lol",
+      "title": "League of Legends’ JD Gaming unveils official team pet and it’s already viral",
+      "summary": "League of Legends team JD GAMING have unveiled their official team pet, Duobao, a less than six-month-old puppy, and he’s already brought “joy” to the squad.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/gaming/league-of-legends-jd-gaming-unveils-official-team-pet-and-its-already-viral-3354563/",
+      "publishedAt": "2026-04-21T09:29:14+00:00"
+    },
+    {
+      "id": "ee5cb27412bf519f",
+      "sport": "lol",
+      "title": "League of Legends players can soon vote to quickly end games ruined by griefing trolls",
+      "summary": "Riot are adding a vote to end League of Legends games early when a troll ruins them, and only the offender gets punished.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-players-can-now-vote-to-quickly-end-games-ruined-by-griefing-trolls-3352299/",
+      "publishedAt": "2026-04-15T14:20:58+00:00"
+    },
+    {
+      "id": "8ad8060ed3f3cc17",
+      "sport": "lol",
+      "title": "League of Legends coach goes viral for tracking duo’s menstrual cycle to improve winrate",
+      "summary": "A League of Legends coach has gone viral after claiming he tracks his duo partner’s menstrual cycle to improve their win rate.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-coach-goes-viral-for-tracking-duos-menstrual-cycle-to-improve-winrate-3351064/",
+      "publishedAt": "2026-04-13T15:39:58+00:00"
+    },
+    {
+      "id": "1553033a190dda0e",
+      "sport": "lol",
+      "title": "Faker honored by South Korean government with his own postage stamp",
+      "summary": "League of Legends pro ‘Faker’ is being honored by the South Korean government with his very own postage stamp.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/faker-honored-by-south-korean-government-with-his-own-commemorative-postage-stamp-3347480/",
+      "publishedAt": "2026-04-06T23:03:56+00:00"
+    },
+    {
+      "id": "ed65fc92b2031dbb",
+      "sport": "lol",
+      "title": "Riot Games job listings suggest a secret LoL ARPG is in development",
+      "summary": "Riot Games job listings suggest a League of Legends ARPG is in early development at the company’s Shanghai studio.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/riot-games-job-listings-suggest-a-secret-lol-arpg-is-in-development-3342274/",
+      "publishedAt": "2026-03-27T21:05:44+00:00"
+    },
+    {
+      "id": "77e65c8d24bbabb5",
+      "sport": "lol",
+      "title": "Why Logitech G’s PRO X2 SUPERSTRIKE is a complete game-changer",
+      "summary": "Logitech G’s PRO X2 SUPERSTRIKE was built with one goal in mind: Remove every possible delay between intent and action. And it succeeds.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/tech/why-logitech-gs-pro-x2-superstrike-is-a-complete-game-changer-3318844/",
+      "publishedAt": "2026-02-13T15:41:38+00:00"
+    },
+    {
+      "id": "0b2eac538d4bc96b",
+      "sport": "lol",
+      "title": "Riot confirms 2XKO layoffs as player numbers fall short",
+      "summary": "Riot Games announced layoffs for a number of staff working on 2XKO just two weeks after releasing the title on consoles.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/gaming/riot-confirms-2xko-layoffs-as-player-numbers-fall-short-3316372/",
+      "publishedAt": "2026-02-09T22:23:03+00:00"
+    },
+    {
+      "id": "ee1c22e2e46a9d0c",
+      "sport": "lol",
+      "title": "League of Legends streamer muted by Riot after maine coon cat flops on her desk",
+      "summary": "A LoL streamer and pro player was muted and received an official warning after she mentioned how her cat flopped on her desk.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-streamer-muted-by-riot-after-maine-coon-cat-flops-on-her-desk-3309891/",
+      "publishedAt": "2026-01-26T21:51:53+00:00"
+    },
+    {
+      "id": "d337c5bc1d939953",
+      "sport": "lol",
+      "title": "Ex-WoW lead joins Riot Games in massive boost for League MMO",
+      "summary": "A former World of Warcraft dev has officially joined Riot Games, stepping into a Senior Game Producer role on the studio’s long-awaited MMO.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/ex-wow-lead-joins-riot-games-in-massive-boost-for-league-mmo-3306788/",
+      "publishedAt": "2026-01-20T12:19:36+00:00"
+    },
+    {
+      "id": "f88f0e49a7b475ce",
+      "sport": "lol",
+      "title": "LoL streamer Drututt banned on Twitch for joke about how he gets “no women”",
+      "summary": "Twitch has banned League of Legends streamer Drututt for a “misogynistic” hashtag, but the creator says it’s being taken out of context.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/twitch/lol-streamer-drututt-banned-on-twitch-for-joke-about-how-he-gets-no-women-3304131/",
+      "publishedAt": "2026-01-13T20:30:58+00:00"
+    },
+    {
+      "id": "0cf4d93363ea7286",
+      "sport": "lol",
+      "title": "Razer’s Project AVA lets you summon Faker as an AI hologram assistant on your desk",
+      "summary": "Razer has unveiled a new AI-powered desk companion designed to bring virtual assistants off the screen and into the physical world.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/entertainment/razers-project-ava-lets-you-summon-faker-as-an-ai-hologram-assistant-on-your-desk-3301278/",
+      "publishedAt": "2026-01-06T19:44:43+00:00"
+    },
+    {
+      "id": "87e2eab6b53b034b",
+      "sport": "lol",
+      "title": "League of Legends gets turned off for everyone after 2016 error repeats 10 years later",
+      "summary": "League of Legends was unavailable for many players on January 4, 2026, after the game experienced issues linked to an expired SSL certificate.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-gets-turned-off-for-everyone-after-2016-error-repeats-10-years-later-3300648/",
+      "publishedAt": "2026-01-05T16:26:15+00:00"
+    },
+    {
+      "id": "2da2bb188e0109cd",
+      "sport": "lol",
+      "title": "Riot confirms plans for LoL shakeup in 2027 with new visuals & client",
+      "summary": "Riot Games has confirmed plans for a big League of Legends shakeup in 2027, including a new client and a visual overhaul.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/riot-confirms-plans-for-lol-shakeup-in-2027-with-new-visuals-client-3296182/",
+      "publishedAt": "2025-12-18T23:30:53+00:00"
+    },
+    {
+      "id": "9ac21f068b415140",
+      "sport": "lol",
+      "title": "League of Legends finally gets WASD controls but not everyone is a fan",
+      "summary": "The League of Legends community is left divided after Riot added WASD controls to the game after sixteen years.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-finally-gets-wasd-controls-but-not-everyone-is-a-fan-3291819/",
+      "publishedAt": "2025-12-10T02:59:37+00:00"
+    },
+    {
+      "id": "c0835e4a93d45b87",
+      "sport": "lol",
+      "title": "Romance novel accused of basing protagonist on LoL icon Faker gets taken down",
+      "summary": "A South Korean “boy love” novel has been suspended after readers accused the author of modeling its main character on LoL superstar Faker.",
+      "source": "Dexerto LoL",
+      "url": "https://www.dexerto.com/league-of-legends/erotic-novel-accused-of-basing-protagonist-on-lol-icon-faker-gets-taken-down-3288205/",
+      "publishedAt": "2025-11-28T18:50:56+00:00"
+    }
+  ]
+}

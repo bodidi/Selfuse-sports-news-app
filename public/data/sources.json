@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ESPN NBA",
+    "sport": "nba",
+    "url": "https://www.espn.com/espn/rss/nba/news",
+    "enabled": true
+  },
+  {
+    "name": "ESPN Football",
+    "sport": "football",
+    "url": "https://www.espn.com/espn/rss/soccer/news",
+    "enabled": true
+  },
+  {
+    "name": "Dexerto LoL",
+    "sport": "lol",
+    "url": "https://www.dexerto.com/league-of-legends/feed/",
+    "enabled": true
+  }
+]
