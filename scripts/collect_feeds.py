@@ -428,11 +428,35 @@ def fetch_nba_match_details(event_id: str, league_slug: str) -> dict[str, object
     return parse_nba_match_details(payload)
 
 
+def select_nba_matches(
+    matches: list[dict[str, object]],
+    *,
+    now: datetime | None = None,
+    limit: int = 12,
+) -> list[dict[str, object]]:
+    reference = (now or datetime.now(timezone.utc)).astimezone(SHANGHAI)
+    today = reference.date()
+
+    def priority(item: dict[str, object]) -> tuple[int, float]:
+        start_time = datetime.fromisoformat(str(item["startTime"]).replace("Z", "+00:00"))
+        local_time = start_time.astimezone(SHANGHAI)
+        timestamp = start_time.timestamp()
+        if local_time.date() == today:
+            return (0, timestamp)
+        if local_time.date() > today:
+            return (1, timestamp)
+        return (2, -timestamp)
+
+    selected = sorted(matches, key=priority)[:limit]
+    return sorted(selected, key=lambda item: str(item["startTime"]))
+
+
 def fetch_nba_matches() -> list[dict[str, object]]:
     now = datetime.now(timezone.utc)
     date_from = (now - timedelta(days=7)).strftime("%Y%m%d")
     date_to = (now + timedelta(days=30)).strftime("%Y%m%d")
     matches_by_id: dict[str, dict[str, object]] = {}
+    league_by_event_id: dict[str, str] = {}
     successful_sources = 0
     errors: list[str] = []
 
@@ -493,17 +517,21 @@ def fetch_nba_matches() -> list[dict[str, object]]:
                     item["awayScore"] = int(float(str(away_team.get("score", 0))))
                 except ValueError:
                     pass
-            try:
-                details = fetch_nba_match_details(event_id, league_slug)
-                if details:
-                    item["details"] = details
-            except Exception as exc:
-                print(f"NBA 比赛详情读取失败：{event_id}：{exc}", file=sys.stderr)
             matches_by_id[event_id] = item
+            league_by_event_id[event_id] = league_slug
 
     if successful_sources == 0:
         raise RuntimeError("; ".join(errors) or "NBA 赛程来源均不可用")
-    return sorted(matches_by_id.values(), key=lambda item: str(item["startTime"]))[:12]
+    selected_matches = select_nba_matches(list(matches_by_id.values()))
+    for item in selected_matches:
+        event_id = str(item["id"]).removeprefix("nba-")
+        try:
+            details = fetch_nba_match_details(event_id, league_by_event_id[event_id])
+            if details:
+                item["details"] = details
+        except Exception as exc:
+            print(f"NBA 比赛详情读取失败：{event_id}：{exc}", file=sys.stderr)
+    return selected_matches
 
 
 def fetch_football_matches() -> list[dict[str, object]]:
@@ -920,8 +948,15 @@ def main() -> int:
         deduped.setdefault(re.sub(r"\W+", "", str(article["title"]).lower()), article)
     result = sorted(deduped.values(), key=lambda article: str(article["publishedAt"]), reverse=True)[:60]
     if not result:
-        print("所有资讯来源均未返回数据，保留现有 feed.json。", file=sys.stderr)
-        return 1
+        result = [
+            item
+            for item in old_feed.get("articles", [])
+            if isinstance(item, dict) and not item.get("demo")
+        ]
+        print(
+            f"所有资讯来源均未返回数据，保留 {len(result)} 条旧资讯并继续更新赛事。",
+            file=sys.stderr,
+        )
 
     for sport in ("nba", "football"):
         first = next((item for item in result if item["sport"] == sport), None)

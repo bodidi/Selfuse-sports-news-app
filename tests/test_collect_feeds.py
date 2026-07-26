@@ -1,7 +1,8 @@
 import importlib.util
 import json
+import tempfile
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from unittest.mock import patch
 
@@ -61,6 +62,25 @@ class CommunityCollectionTests(unittest.TestCase):
 
 
 class NbaScheduleTests(unittest.TestCase):
+    def test_today_games_are_kept_before_older_games_when_limited(self) -> None:
+        now = datetime(2026, 7, 26, 4, 0, tzinfo=timezone.utc)
+        matches = [
+            {
+                "id": f"old-{index}",
+                "startTime": (now - timedelta(days=index + 1)).isoformat(),
+            }
+            for index in range(12)
+        ]
+        matches.append({
+            "id": "today",
+            "startTime": (now + timedelta(hours=2)).isoformat(),
+        })
+
+        selected = collect_feeds.select_nba_matches(matches, now=now, limit=12)
+
+        self.assertIn("today", {item["id"] for item in selected})
+        self.assertNotIn("old-11", {item["id"] for item in selected})
+
     def test_parses_finished_game_and_scores(self) -> None:
         start_time = datetime.now(timezone.utc).isoformat()
         payload = {
@@ -188,6 +208,51 @@ class FootballScheduleTests(unittest.TestCase):
             return_value=b'{"events":[]}',
         ):
             self.assertEqual(collect_feeds.fetch_football_matches(), [])
+
+
+class FeedRefreshTests(unittest.TestCase):
+    def test_rss_failure_keeps_cached_articles_and_still_updates_matches(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            sources_path = root / "sources.json"
+            feed_path = root / "feed.json"
+            sources_path.write_text(
+                json.dumps([{
+                    "name": "Unavailable",
+                    "sport": "nba",
+                    "url": "https://example.com",
+                }]),
+                encoding="utf-8",
+            )
+            feed_path.write_text(
+                json.dumps({
+                    "updatedAt": "2026-07-25T00:00:00+00:00",
+                    "articles": [{"id": "cached", "sport": "nba", "demo": False}],
+                    "matches": [],
+                    "communityPosts": [],
+                }),
+                encoding="utf-8",
+            )
+            nba_match = {
+                "id": "nba-new",
+                "sport": "nba",
+                "startTime": "2026-07-26T12:00:00+00:00",
+            }
+            with (
+                patch.object(collect_feeds, "SOURCES_PATH", sources_path),
+                patch.object(collect_feeds, "FEED_PATH", feed_path),
+                patch.object(collect_feeds, "fetch_source", side_effect=RuntimeError("blocked")),
+                patch.object(collect_feeds, "fetch_nba_matches", return_value=[nba_match]),
+                patch.object(collect_feeds, "fetch_football_matches", return_value=[]),
+                patch.object(collect_feeds, "fetch_lol_matches", return_value=[]),
+                patch.object(collect_feeds, "collect_community_posts", return_value=[]),
+            ):
+                exit_code = collect_feeds.main()
+
+            refreshed = json.loads(feed_path.read_text(encoding="utf-8"))
+            self.assertEqual(exit_code, 0)
+            self.assertEqual(refreshed["articles"][0]["id"], "cached")
+            self.assertEqual(refreshed["matches"][0]["id"], "nba-new")
 
 
 class LolDetailsTests(unittest.TestCase):
