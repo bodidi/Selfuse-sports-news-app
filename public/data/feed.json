@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-07-25T13:54:55.047958+00:00",
+  "updatedAt": "2026-07-26T10:08:26.792235+00:00",
   "matches": [
-    {
-      "id": "demo-nba",
-      "sport": "nba",
-      "competition": "NBA",
-      "home": "主队",
-      "away": "客队",
-      "status": "upcoming",
-      "time": "明日 08:00",
-      "demo": true
-    },
     {
       "id": "demo-football",
       "sport": "football",
@@ -22,26 +12,4283 @@
       "demo": true
     },
     {
-      "id": "demo-lol",
+      "id": "nba-401881720",
+      "sport": "nba",
+      "competition": "NBA 夏季联赛",
+      "home": "OKC",
+      "away": "BKN",
+      "status": "finished",
+      "time": "7月20日 04:30",
+      "startTime": "2026-07-19T20:30:00+00:00",
+      "source": "ESPN",
+      "homeScore": 90,
+      "awayScore": 108,
+      "details": {
+        "venue": "Thomas & Mack Center",
+        "broadcasts": [
+          "ESPN"
+        ],
+        "teamStats": [
+          {
+            "team": "BKN",
+            "values": {
+              "FG": "41-79",
+              "FG%": "52",
+              "3PT": "9-27",
+              "3P%": "33",
+              "FT": "10-16",
+              "FT%": "63",
+              "REB": "46",
+              "AST": "24",
+              "STL": "14",
+              "BLK": "7",
+              "TO": "19"
+            }
+          },
+          {
+            "team": "OKC",
+            "values": {
+              "FG": "29-77",
+              "FG%": "38",
+              "3PT": "12-40",
+              "3P%": "30",
+              "FT": "12-14",
+              "FT%": "86",
+              "REB": "35",
+              "AST": "19",
+              "STL": "12",
+              "BLK": "6",
+              "TO": "19"
+            }
+          }
+        ],
+        "playerStats": [
+          {
+            "team": "BKN",
+            "athletes": [
+              {
+                "name": "Dain Dainja",
+                "jersey": "44",
+                "position": "C",
+                "starter": true,
+                "stats": {
+                  "MIN": "24",
+                  "PTS": "14",
+                  "FG": "7-9",
+                  "3PT": "0-0",
+                  "FT": "0-2",
+                  "REB": "8",
+                  "AST": "0",
+                  "TO": "2",
+                  "STL": "3",
+                  "BLK": "3",
+                  "PF": "4",
+                  "+/-": "+18"
+                }
+              },
+              {
+                "name": "Ben Humrichous",
+                "jersey": "12",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "26",
+                  "PTS": "6",
+                  "FG": "2-6",
+                  "3PT": "2-6",
+                  "FT": "0-0",
+                  "REB": "6",
+                  "AST": "2",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "1",
+                  "PF": "1",
+                  "+/-": "+28"
+                }
+              },
+              {
+                "name": "Dion Brown",
+                "jersey": "33",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "31",
+                  "PTS": "16",
+                  "FG": "5-12",
+                  "3PT": "2-3",
+                  "FT": "2-2",
+                  "REB": "10",
+                  "AST": "11",
+                  "TO": "5",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "+4"
+                }
+              },
+              {
+                "name": "Hunter Sallis",
+                "jersey": "55",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "28",
+                  "PTS": "12",
+                  "FG": "4-9",
+                  "3PT": "0-2",
+                  "FT": "2-3",
+                  "REB": "1",
+                  "AST": "3",
+                  "TO": "4",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "-4"
+                }
+              },
+              {
+                "name": "Dwight Murray Jr.",
+                "jersey": "26",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "30",
+                  "PTS": "10",
+                  "FG": "4-12",
+                  "3PT": "2-5",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "3",
+                  "TO": "4",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "+18"
+                }
+              },
+              {
+                "name": "Duke Brennan",
+                "jersey": "42",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "16",
+                  "PTS": "12",
+                  "FG": "4-7",
+                  "3PT": "0-1",
+                  "FT": "2-2",
+                  "REB": "4",
+                  "AST": "1",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "0"
+                }
+              },
+              {
+                "name": "Aaron Scott",
+                "jersey": "10",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "21",
+                  "PTS": "15",
+                  "FG": "6-8",
+                  "3PT": "0-2",
+                  "FT": "2-2",
+                  "REB": "5",
+                  "AST": "2",
+                  "TO": "0",
+                  "STL": "5",
+                  "BLK": "1",
+                  "PF": "1",
+                  "+/-": "+13"
+                }
+              },
+              {
+                "name": "John Ukomadu",
+                "jersey": "7",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "24",
+                  "PTS": "23",
+                  "FG": "9-16",
+                  "3PT": "3-8",
+                  "FT": "2-5",
+                  "REB": "9",
+                  "AST": "2",
+                  "TO": "3",
+                  "STL": "2",
+                  "BLK": "2",
+                  "PF": "1",
+                  "+/-": "+13"
+                }
+              }
+            ]
+          },
+          {
+            "team": "OKC",
+            "athletes": [
+              {
+                "name": "Sam Alexis",
+                "jersey": "40",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "19",
+                  "PTS": "6",
+                  "FG": "2-3",
+                  "3PT": "1-1",
+                  "FT": "1-2",
+                  "REB": "6",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "3",
+                  "PF": "3",
+                  "+/-": "-1"
+                }
+              },
+              {
+                "name": "Bryce Harris",
+                "jersey": "41",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "24",
+                  "PTS": "13",
+                  "FG": "3-9",
+                  "3PT": "1-5",
+                  "FT": "4-4",
+                  "REB": "10",
+                  "AST": "3",
+                  "TO": "2",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-11"
+                }
+              },
+              {
+                "name": "Lamar Wilkerson",
+                "jersey": "42",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "26",
+                  "PTS": "6",
+                  "FG": "3-16",
+                  "3PT": "0-5",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "5",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "-7"
+                }
+              },
+              {
+                "name": "Steven Ashworth",
+                "jersey": "18",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "21",
+                  "PTS": "22",
+                  "FG": "5-9",
+                  "3PT": "4-8",
+                  "FT": "4-5",
+                  "REB": "2",
+                  "AST": "4",
+                  "TO": "4",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "-7"
+                }
+              },
+              {
+                "name": "Buddy Boeheim",
+                "jersey": "27",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "19",
+                  "PTS": "3",
+                  "FG": "1-4",
+                  "3PT": "1-2",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "2",
+                  "TO": "4",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-26"
+                }
+              },
+              {
+                "name": "Nate Johnson",
+                "jersey": "31",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "21",
+                  "PTS": "6",
+                  "FG": "2-7",
+                  "3PT": "0-4",
+                  "FT": "1-1",
+                  "REB": "2",
+                  "AST": "3",
+                  "TO": "4",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-21"
+                }
+              },
+              {
+                "name": "Elijah Mahi",
+                "jersey": "28",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "20",
+                  "PTS": "3",
+                  "FG": "1-3",
+                  "3PT": "1-2",
+                  "FT": "0-0",
+                  "REB": "2",
+                  "AST": "1",
+                  "TO": "2",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "+3"
+                }
+              },
+              {
+                "name": "Andrew Holifield",
+                "jersey": "29",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "26",
+                  "PTS": "14",
+                  "FG": "5-10",
+                  "3PT": "2-6",
+                  "FT": "1-1",
+                  "REB": "4",
+                  "AST": "1",
+                  "TO": "2",
+                  "STL": "3",
+                  "BLK": "3",
+                  "PF": "5",
+                  "+/-": "-15"
+                }
+              },
+              {
+                "name": "Jabri Abdur-Rahim",
+                "jersey": "33",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "24",
+                  "PTS": "17",
+                  "FG": "7-16",
+                  "3PT": "2-7",
+                  "FT": "1-1",
+                  "REB": "3",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-5"
+                }
+              }
+            ]
+          }
+        ],
+        "leaders": [
+          {
+            "team": "OKC",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "Steven Ashworth",
+                "value": "22"
+              },
+              {
+                "label": "Assists",
+                "athlete": "Lamar Wilkerson",
+                "value": "5"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Bryce Harris",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "team": "BKN",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "John Ukomadu",
+                "value": "23"
+              },
+              {
+                "label": "Assists",
+                "athlete": "Dion Brown",
+                "value": "11"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Dion Brown",
+                "value": "10"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba-401881721",
+      "sport": "nba",
+      "competition": "NBA 夏季联赛",
+      "home": "TOR",
+      "away": "DEN",
+      "status": "finished",
+      "time": "7月20日 06:30",
+      "startTime": "2026-07-19T22:30:00+00:00",
+      "source": "ESPN",
+      "homeScore": 89,
+      "awayScore": 96,
+      "details": {
+        "venue": "Thomas & Mack Center",
+        "broadcasts": [
+          "ESPN2",
+          "NBATV Canada"
+        ],
+        "teamStats": [
+          {
+            "team": "DEN",
+            "values": {
+              "FG": "31-75",
+              "FG%": "41",
+              "3PT": "11-34",
+              "3P%": "32",
+              "FT": "13-16",
+              "FT%": "81",
+              "REB": "38",
+              "AST": "16",
+              "STL": "10",
+              "BLK": "4",
+              "TO": "10"
+            }
+          },
+          {
+            "team": "TOR",
+            "values": {
+              "FG": "36-78",
+              "FG%": "46",
+              "3PT": "7-29",
+              "3P%": "24",
+              "FT": "5-11",
+              "FT%": "45",
+              "REB": "42",
+              "AST": "21",
+              "STL": "4",
+              "BLK": "10",
+              "TO": "15"
+            }
+          }
+        ],
+        "playerStats": [
+          {
+            "team": "DEN",
+            "athletes": [
+              {
+                "name": "Efe Abogidi",
+                "jersey": "18",
+                "position": "C",
+                "starter": true,
+                "stats": {
+                  "MIN": "14",
+                  "PTS": "11",
+                  "FG": "5-8",
+                  "3PT": "1-3",
+                  "FT": "0-0",
+                  "REB": "4",
+                  "AST": "1",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "1",
+                  "PF": "0",
+                  "+/-": "-1"
+                }
+              },
+              {
+                "name": "Mark Sears",
+                "jersey": "19",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "28",
+                  "PTS": "17",
+                  "FG": "2-11",
+                  "3PT": "1-3",
+                  "FT": "7-7",
+                  "REB": "1",
+                  "AST": "6",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "+10"
+                }
+              },
+              {
+                "name": "Mark Mitchell Jr.",
+                "jersey": "26",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "21",
+                  "PTS": "6",
+                  "FG": "1-6",
+                  "3PT": "0-1",
+                  "FT": "2-2",
+                  "REB": "1",
+                  "AST": "0",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "+1"
+                }
+              },
+              {
+                "name": "Jahmi'us Ramsey",
+                "jersey": "37",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "22",
+                  "PTS": "20",
+                  "FG": "9-9",
+                  "3PT": "2-2",
+                  "FT": "0-1",
+                  "REB": "8",
+                  "AST": "1",
+                  "TO": "1",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "0",
+                  "+/-": "+6"
+                }
+              },
+              {
+                "name": "Erik Stevenson",
+                "jersey": "20",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "28",
+                  "PTS": "12",
+                  "FG": "4-10",
+                  "3PT": "2-7",
+                  "FT": "1-1",
+                  "REB": "4",
+                  "AST": "2",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "1",
+                  "PF": "2",
+                  "+/-": "+9"
+                }
+              },
+              {
+                "name": "EJ Anosike",
+                "jersey": "24",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "13",
+                  "PTS": "3",
+                  "FG": "1-2",
+                  "3PT": "0-1",
+                  "FT": "1-2",
+                  "REB": "3",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-3"
+                }
+              },
+              {
+                "name": "TJ Bamba",
+                "jersey": "5",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "12",
+                  "PTS": "5",
+                  "FG": "2-8",
+                  "3PT": "1-5",
+                  "FT": "0-1",
+                  "REB": "1",
+                  "AST": "0",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "+1"
+                }
+              },
+              {
+                "name": "Coleman Hawkins",
+                "jersey": "43",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "16",
+                  "PTS": "3",
+                  "FG": "1-3",
+                  "3PT": "1-2",
+                  "FT": "0-0",
+                  "REB": "6",
+                  "AST": "3",
+                  "TO": "0",
+                  "STL": "1",
+                  "BLK": "2",
+                  "PF": "1",
+                  "+/-": "0"
+                }
+              },
+              {
+                "name": "Osayi Osifo",
+                "jersey": "34",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "9",
+                  "PTS": "0",
+                  "FG": "0-0",
+                  "3PT": "0-0",
+                  "FT": "0-0",
+                  "REB": "5",
+                  "AST": "2",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "+10"
+                }
+              },
+              {
+                "name": "Aaron Nkrumah",
+                "jersey": "30",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "11",
+                  "PTS": "7",
+                  "FG": "3-7",
+                  "3PT": "1-3",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "0"
+                }
+              },
+              {
+                "name": "Matthew Murrell",
+                "jersey": "16",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "17",
+                  "PTS": "12",
+                  "FG": "3-9",
+                  "3PT": "2-5",
+                  "FT": "2-2",
+                  "REB": "1",
+                  "AST": "1",
+                  "TO": "2",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "0",
+                  "+/-": "+4"
+                }
+              },
+              {
+                "name": "Rylan Griffen",
+                "jersey": "99",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "9",
+                  "PTS": "0",
+                  "FG": "0-2",
+                  "3PT": "0-2",
+                  "FT": "0-0",
+                  "REB": "1",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "-2"
+                }
+              }
+            ]
+          },
+          {
+            "team": "TOR",
+            "athletes": [
+              {
+                "name": "Jamarion Sharp",
+                "jersey": "33",
+                "position": "C",
+                "starter": true,
+                "stats": {
+                  "MIN": "25",
+                  "PTS": "8",
+                  "FG": "4-6",
+                  "3PT": "0-0",
+                  "FT": "0-0",
+                  "REB": "10",
+                  "AST": "1",
+                  "TO": "4",
+                  "STL": "1",
+                  "BLK": "3",
+                  "PF": "1",
+                  "+/-": "-9"
+                }
+              },
+              {
+                "name": "Tyson Degenhart",
+                "jersey": "20",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "22",
+                  "PTS": "7",
+                  "FG": "3-7",
+                  "3PT": "1-4",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "3",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "+1"
+                }
+              },
+              {
+                "name": "Nimari Burnett",
+                "jersey": "25",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "20",
+                  "PTS": "15",
+                  "FG": "4-10",
+                  "3PT": "1-5",
+                  "FT": "3-3",
+                  "REB": "9",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "0"
+                }
+              },
+              {
+                "name": "Jaden Bradley",
+                "jersey": "8",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "23",
+                  "PTS": "8",
+                  "FG": "3-7",
+                  "3PT": "0-0",
+                  "FT": "1-4",
+                  "REB": "3",
+                  "AST": "5",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "1",
+                  "PF": "3",
+                  "+/-": "-3"
+                }
+              },
+              {
+                "name": "Tyreke Key",
+                "jersey": "11",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "21",
+                  "PTS": "7",
+                  "FG": "3-7",
+                  "3PT": "1-3",
+                  "FT": "0-1",
+                  "REB": "3",
+                  "AST": "2",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-2"
+                }
+              },
+              {
+                "name": "Aziz Bandaogo",
+                "jersey": "35",
+                "position": "C",
+                "starter": false,
+                "stats": {
+                  "MIN": "15",
+                  "PTS": "6",
+                  "FG": "3-3",
+                  "3PT": "0-0",
+                  "FT": "0-0",
+                  "REB": "8",
+                  "AST": "0",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "6",
+                  "PF": "2",
+                  "+/-": "+2"
+                }
+              },
+              {
+                "name": "Jalen Celestine",
+                "jersey": "18",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "19",
+                  "PTS": "9",
+                  "FG": "3-5",
+                  "3PT": "3-5",
+                  "FT": "0-0",
+                  "REB": "2",
+                  "AST": "1",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "5",
+                  "+/-": "-5"
+                }
+              },
+              {
+                "name": "Brandon Angel",
+                "jersey": "21",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "14",
+                  "PTS": "10",
+                  "FG": "5-7",
+                  "3PT": "0-1",
+                  "FT": "0-1",
+                  "REB": "3",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "-7"
+                }
+              },
+              {
+                "name": "Malik Thomas",
+                "jersey": "41",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "22",
+                  "PTS": "13",
+                  "FG": "6-14",
+                  "3PT": "1-7",
+                  "FT": "0-0",
+                  "REB": "0",
+                  "AST": "0",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-5"
+                }
+              },
+              {
+                "name": "AJ Hoggard",
+                "jersey": "16",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "19",
+                  "PTS": "6",
+                  "FG": "2-12",
+                  "3PT": "0-4",
+                  "FT": "1-2",
+                  "REB": "1",
+                  "AST": "9",
+                  "TO": "1",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "0",
+                  "+/-": "-7"
+                }
+              }
+            ]
+          }
+        ],
+        "leaders": [
+          {
+            "team": "TOR",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "Nimari Burnett",
+                "value": "15"
+              },
+              {
+                "label": "Assists",
+                "athlete": "AJ Hoggard",
+                "value": "9"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Jamarion Sharp",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "team": "DEN",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "Jahmi'us Ramsey",
+                "value": "20"
+              },
+              {
+                "label": "Assists",
+                "athlete": "Mark Sears",
+                "value": "6"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Jahmi'us Ramsey",
+                "value": "8"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba-401881722",
+      "sport": "nba",
+      "competition": "NBA 夏季联赛",
+      "home": "MEM",
+      "away": "GS",
+      "status": "finished",
+      "time": "7月20日 09:00",
+      "startTime": "2026-07-20T01:00:00+00:00",
+      "source": "ESPN",
+      "homeScore": 90,
+      "awayScore": 94,
+      "details": {
+        "venue": "Thomas & Mack Center",
+        "broadcasts": [
+          "ESPN"
+        ],
+        "teamStats": [
+          {
+            "team": "GS",
+            "values": {
+              "FG": "37-75",
+              "FG%": "49",
+              "3PT": "9-30",
+              "3P%": "30",
+              "FT": "8-12",
+              "FT%": "67",
+              "REB": "42",
+              "AST": "16",
+              "STL": "6",
+              "BLK": "3",
+              "TO": "14"
+            }
+          },
+          {
+            "team": "MEM",
+            "values": {
+              "FG": "34-76",
+              "FG%": "45",
+              "3PT": "14-37",
+              "3P%": "38",
+              "FT": "4-8",
+              "FT%": "50",
+              "REB": "33",
+              "AST": "22",
+              "STL": "6",
+              "BLK": "1",
+              "TO": "10"
+            }
+          }
+        ],
+        "playerStats": [
+          {
+            "team": "GS",
+            "athletes": [
+              {
+                "name": "Yaxel Lendeborg",
+                "jersey": "1",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "32",
+                  "PTS": "21",
+                  "FG": "9-18",
+                  "3PT": "2-6",
+                  "FT": "1-1",
+                  "REB": "10",
+                  "AST": "2",
+                  "TO": "3",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "+7"
+                }
+              },
+              {
+                "name": "Malevy Leons",
+                "jersey": "33",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "22",
+                  "PTS": "10",
+                  "FG": "4-9",
+                  "3PT": "0-5",
+                  "FT": "1-1",
+                  "REB": "3",
+                  "AST": "1",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "1",
+                  "PF": "0",
+                  "+/-": "-1"
+                }
+              },
+              {
+                "name": "Will Richard",
+                "jersey": "3",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "29",
+                  "PTS": "13",
+                  "FG": "5-10",
+                  "3PT": "3-6",
+                  "FT": "0-0",
+                  "REB": "4",
+                  "AST": "1",
+                  "TO": "1",
+                  "STL": "2",
+                  "BLK": "1",
+                  "PF": "2",
+                  "+/-": "+9"
+                }
+              },
+              {
+                "name": "Graham Ike",
+                "jersey": "45",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "24",
+                  "PTS": "6",
+                  "FG": "1-4",
+                  "3PT": "0-0",
+                  "FT": "2-3",
+                  "REB": "9",
+                  "AST": "3",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "1",
+                  "PF": "3",
+                  "+/-": "+12"
+                }
+              },
+              {
+                "name": "LJ Cryer",
+                "jersey": "18",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "29",
+                  "PTS": "15",
+                  "FG": "5-10",
+                  "3PT": "4-8",
+                  "FT": "1-2",
+                  "REB": "3",
+                  "AST": "6",
+                  "TO": "3",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "+12"
+                }
+              },
+              {
+                "name": "Lajae Jones",
+                "jersey": "25",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "11",
+                  "PTS": "4",
+                  "FG": "2-5",
+                  "3PT": "0-2",
+                  "FT": "0-0",
+                  "REB": "0",
+                  "AST": "0",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-5"
+                }
+              },
+              {
+                "name": "Chance McMillian",
+                "jersey": "55",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "14",
+                  "PTS": "2",
+                  "FG": "1-4",
+                  "3PT": "0-2",
+                  "FT": "0-0",
+                  "REB": "1",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-3"
+                }
+              },
+              {
+                "name": "Deivon Smith",
+                "jersey": "36",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "23",
+                  "PTS": "21",
+                  "FG": "9-14",
+                  "3PT": "0-1",
+                  "FT": "3-4",
+                  "REB": "9",
+                  "AST": "3",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "0",
+                  "+/-": "-2"
+                }
+              },
+              {
+                "name": "Lachlan Olbrich",
+                "jersey": "47",
+                "position": "C",
+                "starter": false,
+                "stats": {
+                  "MIN": "16",
+                  "PTS": "2",
+                  "FG": "1-1",
+                  "3PT": "0-0",
+                  "FT": "0-1",
+                  "REB": "3",
+                  "AST": "0",
+                  "TO": "2",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "-9"
+                }
+              }
+            ]
+          },
+          {
+            "team": "MEM",
+            "athletes": [
+              {
+                "name": "Cameron Boozer",
+                "jersey": "27",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "35",
+                  "PTS": "19",
+                  "FG": "7-17",
+                  "3PT": "3-7",
+                  "FT": "1-3",
+                  "REB": "8",
+                  "AST": "4",
+                  "TO": "4",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "4",
+                  "+/-": "-1"
+                }
+              },
+              {
+                "name": "Cedric Coward",
+                "jersey": "23",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "27",
+                  "PTS": "19",
+                  "FG": "6-10",
+                  "3PT": "5-5",
+                  "FT": "1-1",
+                  "REB": "6",
+                  "AST": "4",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "1",
+                  "PF": "0",
+                  "+/-": "+7"
+                }
+              },
+              {
+                "name": "Taylor Hendricks",
+                "jersey": "22",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "28",
+                  "PTS": "13",
+                  "FG": "5-10",
+                  "3PT": "3-7",
+                  "FT": "0-0",
+                  "REB": "5",
+                  "AST": "2",
+                  "TO": "1",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "0",
+                  "+/-": "-7"
+                }
+              },
+              {
+                "name": "Olivier-Maxence Prosper",
+                "jersey": "18",
+                "position": "F",
+                "starter": true,
+                "stats": {
+                  "MIN": "27",
+                  "PTS": "8",
+                  "FG": "4-12",
+                  "3PT": "0-7",
+                  "FT": "0-0",
+                  "REB": "3",
+                  "AST": "2",
+                  "TO": "3",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "-7"
+                }
+              },
+              {
+                "name": "Javon Small",
+                "jersey": "10",
+                "position": "G",
+                "starter": true,
+                "stats": {
+                  "MIN": "30",
+                  "PTS": "10",
+                  "FG": "3-11",
+                  "3PT": "2-7",
+                  "FT": "1-1",
+                  "REB": "4",
+                  "AST": "8",
+                  "TO": "1",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "2",
+                  "+/-": "-15"
+                }
+              },
+              {
+                "name": "Carson Cooper",
+                "jersey": "20",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "17",
+                  "PTS": "16",
+                  "FG": "7-8",
+                  "3PT": "0-0",
+                  "FT": "1-2",
+                  "REB": "1",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "2",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "+5"
+                }
+              },
+              {
+                "name": "Lawson Lovering",
+                "jersey": "34",
+                "position": "C",
+                "starter": false,
+                "stats": {
+                  "MIN": "11",
+                  "PTS": "0",
+                  "FG": "0-0",
+                  "3PT": "0-0",
+                  "FT": "0-0",
+                  "REB": "2",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "-3"
+                }
+              },
+              {
+                "name": "Jahmai Mashack",
+                "jersey": "21",
+                "position": "G",
+                "starter": false,
+                "stats": {
+                  "MIN": "23",
+                  "PTS": "5",
+                  "FG": "2-8",
+                  "3PT": "1-4",
+                  "FT": "0-1",
+                  "REB": "4",
+                  "AST": "2",
+                  "TO": "0",
+                  "STL": "1",
+                  "BLK": "0",
+                  "PF": "3",
+                  "+/-": "-1"
+                }
+              },
+              {
+                "name": "Tyler Burton",
+                "jersey": "3",
+                "position": "F",
+                "starter": false,
+                "stats": {
+                  "MIN": "2",
+                  "PTS": "0",
+                  "FG": "0-0",
+                  "3PT": "0-0",
+                  "FT": "0-0",
+                  "REB": "0",
+                  "AST": "0",
+                  "TO": "0",
+                  "STL": "0",
+                  "BLK": "0",
+                  "PF": "1",
+                  "+/-": "+2"
+                }
+              }
+            ]
+          }
+        ],
+        "leaders": [
+          {
+            "team": "MEM",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "Cameron Boozer",
+                "value": "19"
+              },
+              {
+                "label": "Assists",
+                "athlete": "Javon Small",
+                "value": "8"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Cameron Boozer",
+                "value": "8"
+              }
+            ]
+          },
+          {
+            "team": "GS",
+            "categories": [
+              {
+                "label": "Points",
+                "athlete": "Yaxel Lendeborg",
+                "value": "21"
+              },
+              {
+                "label": "Assists",
+                "athlete": "LJ Cryer",
+                "value": "6"
+              },
+              {
+                "label": "Rebounds",
+                "athlete": "Yaxel Lendeborg",
+                "value": "10"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lol-116566854547769564",
       "sport": "lol",
-      "competition": "职业联赛",
-      "home": "蓝色方",
-      "away": "红色方",
+      "competition": "LPL · Split 3 2026",
+      "home": "BLG",
+      "away": "EDG",
+      "status": "finished",
+      "time": "7月24日 19:00",
+      "startTime": "2026-07-24T11:00:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 2,
+      "awayScore": 1,
+      "details": {
+        "kind": "lol",
+        "format": "BO3",
+        "games": [
+          {
+            "gameId": "116566854547769565",
+            "gameNumber": 1,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 2247,
+            "teams": [
+              {
+                "id": "99566404853854212",
+                "name": "BLG",
+                "side": "blue",
+                "gold": 70221,
+                "kills": 15,
+                "towers": 5,
+                "dragons": 3,
+                "dragonTypes": [
+                  "hextech",
+                  "infernal",
+                  "infernal"
+                ],
+                "barons": 1,
+                "inhibitors": 0
+              },
+              {
+                "id": "98767991882270868",
+                "name": "EDG",
+                "side": "red",
+                "gold": 72057,
+                "kills": 17,
+                "towers": 8,
+                "dragons": 3,
+                "dragonTypes": [
+                  "cloud",
+                  "infernal",
+                  "infernal"
+                ],
+                "barons": 1,
+                "inhibitors": 1
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGWenbo",
+                "role": "top",
+                "champion": "Ambessa",
+                "level": 17,
+                "kills": 2,
+                "deaths": 5,
+                "assists": 4,
+                "gold": 12099,
+                "cs": 236,
+                "killParticipation": 0.4,
+                "damageShare": 0.16921162392967773,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 5,
+                "items": [
+                  6692,
+                  3047,
+                  3364,
+                  3161,
+                  3155,
+                  1037,
+                  3133
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGXun",
+                "role": "jungle",
+                "champion": "JarvanIV",
+                "level": 17,
+                "kills": 4,
+                "deaths": 3,
+                "assists": 9,
+                "gold": 14005,
+                "cs": 254,
+                "killParticipation": 0.8666666666666667,
+                "damageShare": 0.15387395934978493,
+                "wardsPlaced": 11,
+                "wardsDestroyed": 12,
+                "items": [
+                  6610,
+                  3071,
+                  3111,
+                  3026,
+                  2019,
+                  3133
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGKnight",
+                "role": "mid",
+                "champion": "Cassiopeia",
+                "level": 18,
+                "kills": 2,
+                "deaths": 3,
+                "assists": 7,
+                "gold": 13785,
+                "cs": 314,
+                "killParticipation": 0.6,
+                "damageShare": 0.20949953921914086,
+                "wardsPlaced": 8,
+                "wardsDestroyed": 20,
+                "items": [
+                  3364,
+                  6657,
+                  3152,
+                  3116,
+                  2522,
+                  1026
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGViper",
+                "role": "bottom",
+                "champion": "Lucian",
+                "level": 18,
+                "kills": 7,
+                "deaths": 2,
+                "assists": 6,
+                "gold": 20369,
+                "cs": 433,
+                "killParticipation": 0.8666666666666667,
+                "damageShare": 0.39843102427454613,
+                "wardsPlaced": 23,
+                "wardsDestroyed": 20,
+                "items": [
+                  3508,
+                  3363,
+                  6675,
+                  3031,
+                  3047,
+                  3026,
+                  3036
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGON",
+                "role": "support",
+                "champion": "Milio",
+                "level": 14,
+                "kills": 0,
+                "deaths": 4,
+                "assists": 14,
+                "gold": 9963,
+                "cs": 32,
+                "killParticipation": 0.9333333333333333,
+                "damageShare": 0.06898385322685038,
+                "wardsPlaced": 96,
+                "wardsDestroyed": 20,
+                "items": [
+                  3364,
+                  3504,
+                  3158,
+                  6620,
+                  3109,
+                  2139,
+                  2055
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGZdz",
+                "role": "top",
+                "champion": "Vayne",
+                "level": 20,
+                "kills": 9,
+                "deaths": 3,
+                "assists": 1,
+                "gold": 17512,
+                "cs": 305,
+                "killParticipation": 0.5882352941176471,
+                "damageShare": 0.2310951498532622,
+                "wardsPlaced": 20,
+                "wardsDestroyed": 17,
+                "items": [
+                  3047,
+                  3073,
+                  3363,
+                  3508,
+                  2512,
+                  3031
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGXiaohao",
+                "role": "jungle",
+                "champion": "LeeSin",
+                "level": 17,
+                "kills": 2,
+                "deaths": 4,
+                "assists": 9,
+                "gold": 13993,
+                "cs": 257,
+                "killParticipation": 0.6470588235294118,
+                "damageShare": 0.15777523048991238,
+                "wardsPlaced": 24,
+                "wardsDestroyed": 16,
+                "items": [
+                  3340,
+                  6610,
+                  3071,
+                  3047,
+                  3026,
+                  3155,
+                  3133
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGBuLLDoG",
+                "role": "mid",
+                "champion": "Syndra",
+                "level": 18,
+                "kills": 3,
+                "deaths": 1,
+                "assists": 8,
+                "gold": 14895,
+                "cs": 344,
+                "killParticipation": 0.6470588235294118,
+                "damageShare": 0.26582125856968547,
+                "wardsPlaced": 22,
+                "wardsDestroyed": 6,
+                "items": [
+                  2503,
+                  3363,
+                  3152,
+                  3135,
+                  3157,
+                  2055,
+                  2055
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGLeave",
+                "role": "bottom",
+                "champion": "Ziggs",
+                "level": 17,
+                "kills": 3,
+                "deaths": 2,
+                "assists": 7,
+                "gold": 16117,
+                "cs": 341,
+                "killParticipation": 0.5882352941176471,
+                "damageShare": 0.30205983447613116,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 4,
+                "items": [
+                  6655,
+                  1082,
+                  3363,
+                  4645,
+                  3020,
+                  3135,
+                  1058
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGParukia",
+                "role": "support",
+                "champion": "Rell",
+                "level": 14,
+                "kills": 0,
+                "deaths": 5,
+                "assists": 11,
+                "gold": 9540,
+                "cs": 29,
+                "killParticipation": 0.6470588235294118,
+                "damageShare": 0.04324852661100878,
+                "wardsPlaced": 95,
+                "wardsDestroyed": 16,
+                "items": [
+                  3364,
+                  3050,
+                  3158,
+                  3222,
+                  2055,
+                  2055,
+                  1028
+                ]
+              }
+            ]
+          },
+          {
+            "gameId": "116566854547769566",
+            "gameNumber": 2,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 2077,
+            "teams": [
+              {
+                "id": "98767991882270868",
+                "name": "EDG",
+                "side": "blue",
+                "gold": 66033,
+                "kills": 20,
+                "towers": 2,
+                "dragons": 2,
+                "dragonTypes": [
+                  "infernal",
+                  "ocean"
+                ],
+                "barons": 0,
+                "inhibitors": 0
+              },
+              {
+                "id": "99566404853854212",
+                "name": "BLG",
+                "side": "red",
+                "gold": 77252,
+                "kills": 28,
+                "towers": 10,
+                "dragons": 3,
+                "dragonTypes": [
+                  "hextech",
+                  "ocean",
+                  "ocean"
+                ],
+                "barons": 2,
+                "inhibitors": 1
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "EDG",
+                "side": "blue",
+                "name": "EDGZdz",
+                "role": "top",
+                "champion": "Rumble",
+                "level": 18,
+                "kills": 10,
+                "deaths": 7,
+                "assists": 2,
+                "gold": 13918,
+                "cs": 247,
+                "killParticipation": 0.6,
+                "damageShare": 0.26991683664676996,
+                "wardsPlaced": 17,
+                "wardsDestroyed": 4,
+                "items": [
+                  3916,
+                  6653,
+                  3020,
+                  3364,
+                  4645,
+                  3135,
+                  1058
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "EDG",
+                "side": "blue",
+                "name": "EDGXiaohao",
+                "role": "jungle",
+                "champion": "MonkeyKing",
+                "level": 16,
+                "kills": 5,
+                "deaths": 4,
+                "assists": 9,
+                "gold": 13647,
+                "cs": 220,
+                "killParticipation": 0.7,
+                "damageShare": 0.1501136441929504,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 11,
+                "items": [
+                  3078,
+                  6610,
+                  3047,
+                  3026,
+                  3155,
+                  2055,
+                  2055
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "EDG",
+                "side": "blue",
+                "name": "EDGBuLLDoG",
+                "role": "mid",
+                "champion": "Taliyah",
+                "level": 17,
+                "kills": 2,
+                "deaths": 5,
+                "assists": 11,
+                "gold": 13266,
+                "cs": 304,
+                "killParticipation": 0.65,
+                "damageShare": 0.2564424232749982,
+                "wardsPlaced": 25,
+                "wardsDestroyed": 9,
+                "items": [
+                  2503,
+                  3363,
+                  3152,
+                  3137,
+                  1058,
+                  3916
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "EDG",
+                "side": "blue",
+                "name": "EDGLeave",
+                "role": "bottom",
+                "champion": "Varus",
+                "level": 17,
+                "kills": 2,
+                "deaths": 6,
+                "assists": 13,
+                "gold": 16669,
+                "cs": 318,
+                "killParticipation": 0.75,
+                "damageShare": 0.2642700672235567,
+                "wardsPlaced": 15,
+                "wardsDestroyed": 10,
+                "items": [
+                  3087,
+                  3008,
+                  3363,
+                  2510,
+                  3302,
+                  2420,
+                  2055,
+                  2055
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "EDG",
+                "side": "blue",
+                "name": "EDGParukia",
+                "role": "support",
+                "champion": "Nautilus",
+                "level": 13,
+                "kills": 1,
+                "deaths": 6,
+                "assists": 13,
+                "gold": 8533,
+                "cs": 40,
+                "killParticipation": 0.7,
+                "damageShare": 0.05925702866172466,
+                "wardsPlaced": 80,
+                "wardsDestroyed": 19,
+                "items": [
+                  3364,
+                  3190,
+                  3158,
+                  3050,
+                  1028
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "BLG",
+                "side": "red",
+                "name": "BLGWenbo",
+                "role": "top",
+                "champion": "Yorick",
+                "level": 20,
+                "kills": 10,
+                "deaths": 2,
+                "assists": 6,
+                "gold": 18566,
+                "cs": 323,
+                "killParticipation": 0.5714285714285714,
+                "damageShare": 0.2573905170407316,
+                "wardsPlaced": 10,
+                "wardsDestroyed": 6,
+                "items": [
+                  3078,
+                  3111,
+                  3364,
+                  3156,
+                  3161,
+                  3071,
+                  2019
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "BLG",
+                "side": "red",
+                "name": "BLGXun",
+                "role": "jungle",
+                "champion": "Nocturne",
+                "level": 17,
+                "kills": 0,
+                "deaths": 8,
+                "assists": 11,
+                "gold": 12446,
+                "cs": 233,
+                "killParticipation": 0.39285714285714285,
+                "damageShare": 0.09073183423064846,
+                "wardsPlaced": 8,
+                "wardsDestroyed": 5,
+                "items": [
+                  3364,
+                  3073,
+                  6631,
+                  3111,
+                  2055,
+                  3026
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "BLG",
+                "side": "red",
+                "name": "BLGKnight",
+                "role": "mid",
+                "champion": "Ryze",
+                "level": 18,
+                "kills": 9,
+                "deaths": 2,
+                "assists": 10,
+                "gold": 16595,
+                "cs": 313,
+                "killParticipation": 0.6785714285714286,
+                "damageShare": 0.2412755224482978,
+                "wardsPlaced": 7,
+                "wardsDestroyed": 17,
+                "items": [
+                  3364,
+                  6657,
+                  3152,
+                  3157,
+                  1058
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "BLG",
+                "side": "red",
+                "name": "BLGViper",
+                "role": "bottom",
+                "champion": "Ezreal",
+                "level": 18,
+                "kills": 9,
+                "deaths": 3,
+                "assists": 9,
+                "gold": 19740,
+                "cs": 348,
+                "killParticipation": 0.6428571428571429,
+                "damageShare": 0.34529446056426166,
+                "wardsPlaced": 20,
+                "wardsDestroyed": 11,
+                "items": [
+                  3078,
+                  3008,
+                  3363,
+                  3161,
+                  3156,
+                  3026
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "BLG",
+                "side": "red",
+                "name": "BLGON",
+                "role": "support",
+                "champion": "Bard",
+                "level": 14,
+                "kills": 0,
+                "deaths": 5,
+                "assists": 16,
+                "gold": 9905,
+                "cs": 39,
+                "killParticipation": 0.5714285714285714,
+                "damageShare": 0.06530766571606042,
+                "wardsPlaced": 87,
+                "wardsDestroyed": 27,
+                "items": [
+                  3364,
+                  3190,
+                  3158,
+                  3222,
+                  3067,
+                  1031
+                ]
+              }
+            ]
+          },
+          {
+            "gameId": "116566854547769567",
+            "gameNumber": 3,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 1939,
+            "teams": [
+              {
+                "id": "99566404853854212",
+                "name": "BLG",
+                "side": "blue",
+                "gold": 67518,
+                "kills": 21,
+                "towers": 9,
+                "dragons": 3,
+                "dragonTypes": [
+                  "cloud",
+                  "mountain",
+                  "mountain"
+                ],
+                "barons": 1,
+                "inhibitors": 1
+              },
+              {
+                "id": "98767991882270868",
+                "name": "EDG",
+                "side": "red",
+                "gold": 55858,
+                "kills": 10,
+                "towers": 0,
+                "dragons": 1,
+                "dragonTypes": [
+                  "chemtech"
+                ],
+                "barons": 0,
+                "inhibitors": 0
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGWenbo",
+                "role": "top",
+                "champion": "Renekton",
+                "level": 19,
+                "kills": 3,
+                "deaths": 0,
+                "assists": 10,
+                "gold": 13177,
+                "cs": 284,
+                "killParticipation": 0.6190476190476191,
+                "damageShare": 0.22242388334074667,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 5,
+                "items": [
+                  3071,
+                  3047,
+                  3364,
+                  3161,
+                  3156
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGXun",
+                "role": "jungle",
+                "champion": "Trundle",
+                "level": 17,
+                "kills": 3,
+                "deaths": 1,
+                "assists": 15,
+                "gold": 14005,
+                "cs": 238,
+                "killParticipation": 0.8571428571428571,
+                "damageShare": 0.11703958089161468,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 14,
+                "items": [
+                  3078,
+                  3065,
+                  3111,
+                  3075,
+                  2021,
+                  3044
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGKnight",
+                "role": "mid",
+                "champion": "Akali",
+                "level": 17,
+                "kills": 12,
+                "deaths": 4,
+                "assists": 6,
+                "gold": 15769,
+                "cs": 262,
+                "killParticipation": 0.8571428571428571,
+                "damageShare": 0.29700243571094304,
+                "wardsPlaced": 4,
+                "wardsDestroyed": 11,
+                "items": [
+                  3364,
+                  3146,
+                  3020,
+                  3916,
+                  4645,
+                  3157,
+                  3041
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGViper",
+                "role": "bottom",
+                "champion": "Xerath",
+                "level": 17,
+                "kills": 3,
+                "deaths": 3,
+                "assists": 6,
+                "gold": 15492,
+                "cs": 311,
+                "killParticipation": 0.42857142857142855,
+                "damageShare": 0.27130476473537596,
+                "wardsPlaced": 22,
+                "wardsDestroyed": 2,
+                "items": [
+                  1056,
+                  6655,
+                  3363,
+                  4645,
+                  4628,
+                  3135
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "BLG",
+                "side": "blue",
+                "name": "BLGON",
+                "role": "support",
+                "champion": "Seraphine",
+                "level": 12,
+                "kills": 0,
+                "deaths": 2,
+                "assists": 13,
+                "gold": 9075,
+                "cs": 58,
+                "killParticipation": 0.6190476190476191,
+                "damageShare": 0.09222933532131959,
+                "wardsPlaced": 80,
+                "wardsDestroyed": 25,
+                "items": [
+                  3070,
+                  3364,
+                  2065,
+                  3158,
+                  4005,
+                  2055,
+                  2055,
+                  1028
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGZdz",
+                "role": "top",
+                "champion": "Olaf",
+                "level": 17,
+                "kills": 1,
+                "deaths": 5,
+                "assists": 1,
+                "gold": 10837,
+                "cs": 288,
+                "killParticipation": 0.2,
+                "damageShare": 0.30719242060477725,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 5,
+                "items": [
+                  3047,
+                  6631,
+                  3364,
+                  3073,
+                  3155,
+                  2055,
+                  1036
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGXiaohao",
+                "role": "jungle",
+                "champion": "Vi",
+                "level": 15,
+                "kills": 3,
+                "deaths": 4,
+                "assists": 5,
+                "gold": 11860,
+                "cs": 223,
+                "killParticipation": 0.8,
+                "damageShare": 0.17992927335030529,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 14,
+                "items": [
+                  3364,
+                  6610,
+                  3071,
+                  3111,
+                  3026,
+                  1036,
+                  2055
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGBuLLDoG",
+                "role": "mid",
+                "champion": "Locke",
+                "level": 16,
+                "kills": 5,
+                "deaths": 5,
+                "assists": 2,
+                "gold": 12565,
+                "cs": 255,
+                "killParticipation": 0.7,
+                "damageShare": 0.2877609386899462,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 8,
+                "items": [
+                  3152,
+                  3020,
+                  3364,
+                  3100,
+                  3135,
+                  3916,
+                  1052
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGLeave",
+                "role": "bottom",
+                "champion": "Mel",
+                "level": 17,
+                "kills": 1,
+                "deaths": 2,
+                "assists": 3,
+                "gold": 13416,
+                "cs": 353,
+                "killParticipation": 0.4,
+                "damageShare": 0.17120030699315322,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 6,
+                "items": [
+                  6655,
+                  1082,
+                  3363,
+                  4645,
+                  3089,
+                  4630
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "EDG",
+                "side": "red",
+                "name": "EDGParukia",
+                "role": "support",
+                "champion": "Alistar",
+                "level": 10,
+                "kills": 0,
+                "deaths": 5,
+                "assists": 4,
+                "gold": 7180,
+                "cs": 26,
+                "killParticipation": 0.4,
+                "damageShare": 0.053917060361818064,
+                "wardsPlaced": 92,
+                "wardsDestroyed": 12,
+                "items": [
+                  3364,
+                  3050,
+                  3111,
+                  3067,
+                  1029,
+                  2055,
+                  2055
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lol-115548681803406275",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "MKOI",
+      "away": "G2",
+      "status": "finished",
+      "time": "7月24日 22:30",
+      "startTime": "2026-07-24T14:30:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "id": "lol-115548681803406199",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "KC",
+      "away": "VIT",
+      "status": "finished",
+      "time": "昨日 01:30",
+      "startTime": "2026-07-24T17:30:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": "lol-116566854547769604",
+      "sport": "lol",
+      "competition": "LPL · Split 3 2026",
+      "home": "WE",
+      "away": "LGD",
+      "status": "finished",
+      "time": "昨日 15:00",
+      "startTime": "2026-07-25T07:00:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 2,
+      "awayScore": 0,
+      "details": {
+        "kind": "lol",
+        "format": "BO3",
+        "games": [
+          {
+            "gameId": "116566854547769605",
+            "gameNumber": 1,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 1694,
+            "teams": [
+              {
+                "id": "98767991887166787",
+                "name": "WE",
+                "side": "blue",
+                "gold": 58531,
+                "kills": 12,
+                "towers": 8,
+                "dragons": 4,
+                "dragonTypes": [
+                  "infernal",
+                  "chemtech",
+                  "mountain",
+                  "mountain"
+                ],
+                "barons": 1,
+                "inhibitors": 1
+              },
+              {
+                "id": "99566404846951820",
+                "name": "LGD",
+                "side": "red",
+                "gold": 48332,
+                "kills": 3,
+                "towers": 2,
+                "dragons": 0,
+                "dragonTypes": [],
+                "barons": 0,
+                "inhibitors": 0
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "WE",
+                "side": "blue",
+                "name": "WECube",
+                "role": "top",
+                "champion": "Rumble",
+                "level": 16,
+                "kills": 3,
+                "deaths": 0,
+                "assists": 5,
+                "gold": 10726,
+                "cs": 230,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.14492919827254908,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 5,
+                "items": [
+                  1056,
+                  3340,
+                  6653,
+                  8010,
+                  3009,
+                  1052,
+                  1058,
+                  2139
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEMonki",
+                "role": "jungle",
+                "champion": "Qiyana",
+                "level": 16,
+                "kills": 4,
+                "deaths": 0,
+                "assists": 8,
+                "gold": 12556,
+                "cs": 217,
+                "killParticipation": 1.0,
+                "damageShare": 0.24104748035747675,
+                "wardsPlaced": 8,
+                "wardsDestroyed": 7,
+                "items": [
+                  6698,
+                  6695,
+                  2422,
+                  6694,
+                  1036
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEKaris",
+                "role": "mid",
+                "champion": "Ryze",
+                "level": 17,
+                "kills": 2,
+                "deaths": 0,
+                "assists": 7,
+                "gold": 13312,
+                "cs": 307,
+                "killParticipation": 0.75,
+                "damageShare": 0.2146720424489682,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 6,
+                "items": [
+                  6657,
+                  3363,
+                  3009,
+                  3152,
+                  3802
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEAbout",
+                "role": "bottom",
+                "champion": "Ezreal",
+                "level": 16,
+                "kills": 3,
+                "deaths": 1,
+                "assists": 4,
+                "gold": 14547,
+                "cs": 314,
+                "killParticipation": 0.5833333333333334,
+                "damageShare": 0.3513222087426885,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 19,
+                "items": [
+                  1086,
+                  3078,
+                  3363,
+                  3161,
+                  3158,
+                  1036
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEErha",
+                "role": "support",
+                "champion": "Nautilus",
+                "level": 11,
+                "kills": 0,
+                "deaths": 2,
+                "assists": 11,
+                "gold": 7390,
+                "cs": 28,
+                "killParticipation": 0.9166666666666666,
+                "damageShare": 0.048029070178317465,
+                "wardsPlaced": 66,
+                "wardsDestroyed": 10,
+                "items": [
+                  3364,
+                  3190,
+                  3067,
+                  3111,
+                  2055,
+                  2055,
+                  1011
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDBurdol",
+                "role": "top",
+                "champion": "Yorick",
+                "level": 16,
+                "kills": 0,
+                "deaths": 2,
+                "assists": 0,
+                "gold": 10817,
+                "cs": 268,
+                "killParticipation": 0.0,
+                "damageShare": 0.183845872811872,
+                "wardsPlaced": 11,
+                "wardsDestroyed": 5,
+                "items": [
+                  3111,
+                  3078,
+                  3161,
+                  3363,
+                  1057,
+                  1031,
+                  1028
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDHeng",
+                "role": "jungle",
+                "champion": "XinZhao",
+                "level": 14,
+                "kills": 1,
+                "deaths": 4,
+                "assists": 1,
+                "gold": 9517,
+                "cs": 197,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.18791504647711904,
+                "wardsPlaced": 6,
+                "wardsDestroyed": 14,
+                "items": [
+                  6610,
+                  3364,
+                  3111,
+                  3071,
+                  2055,
+                  2019
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDTangyuan",
+                "role": "mid",
+                "champion": "Anivia",
+                "level": 16,
+                "kills": 0,
+                "deaths": 3,
+                "assists": 2,
+                "gold": 9908,
+                "cs": 267,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.3338947934798526,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 9,
+                "items": [
+                  1082,
+                  6657,
+                  3363,
+                  3158,
+                  3118,
+                  1058,
+                  1058
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDShaoye",
+                "role": "bottom",
+                "champion": "Lucian",
+                "level": 13,
+                "kills": 1,
+                "deaths": 2,
+                "assists": 1,
+                "gold": 11190,
+                "cs": 257,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.24108542989886977,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 13,
+                "items": [
+                  1086,
+                  3508,
+                  3363,
+                  6675,
+                  3031,
+                  1036,
+                  1036
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDCrisp",
+                "role": "support",
+                "champion": "Milio",
+                "level": 11,
+                "kills": 1,
+                "deaths": 1,
+                "assists": 1,
+                "gold": 6900,
+                "cs": 31,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.053258857332286566,
+                "wardsPlaced": 65,
+                "wardsDestroyed": 14,
+                "items": [
+                  3364,
+                  6620,
+                  3158,
+                  2055,
+                  2055,
+                  6617
+                ]
+              }
+            ]
+          },
+          {
+            "gameId": "116566854547769606",
+            "gameNumber": 2,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 2023,
+            "teams": [
+              {
+                "id": "98767991887166787",
+                "name": "WE",
+                "side": "blue",
+                "gold": 70199,
+                "kills": 27,
+                "towers": 9,
+                "dragons": 3,
+                "dragonTypes": [
+                  "infernal",
+                  "infernal",
+                  "infernal"
+                ],
+                "barons": 1,
+                "inhibitors": 2
+              },
+              {
+                "id": "99566404846951820",
+                "name": "LGD",
+                "side": "red",
+                "gold": 61327,
+                "kills": 11,
+                "towers": 3,
+                "dragons": 2,
+                "dragonTypes": [
+                  "ocean",
+                  "hextech"
+                ],
+                "barons": 1,
+                "inhibitors": 0
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "WE",
+                "side": "blue",
+                "name": "WECube",
+                "role": "top",
+                "champion": "Vayne",
+                "level": 17,
+                "kills": 1,
+                "deaths": 3,
+                "assists": 2,
+                "gold": 11824,
+                "cs": 253,
+                "killParticipation": 0.1111111111111111,
+                "damageShare": 0.1309931559928759,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 11,
+                "items": [
+                  3073,
+                  3047,
+                  3364,
+                  3508,
+                  2512,
+                  2055
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEMonki",
+                "role": "jungle",
+                "champion": "Nocturne",
+                "level": 18,
+                "kills": 9,
+                "deaths": 2,
+                "assists": 11,
+                "gold": 16315,
+                "cs": 268,
+                "killParticipation": 0.7407407407407407,
+                "damageShare": 0.22079628075665286,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 17,
+                "items": [
+                  3073,
+                  3111,
+                  6631,
+                  3026,
+                  3155
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEKaris",
+                "role": "mid",
+                "champion": "Sylas",
+                "level": 17,
+                "kills": 11,
+                "deaths": 3,
+                "assists": 10,
+                "gold": 16232,
+                "cs": 266,
+                "killParticipation": 0.7777777777777778,
+                "damageShare": 0.22745731566125,
+                "wardsPlaced": 7,
+                "wardsDestroyed": 7,
+                "items": [
+                  3152,
+                  3364,
+                  3111,
+                  4633,
+                  8010,
+                  3041,
+                  2420,
+                  2139
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEAbout",
+                "role": "bottom",
+                "champion": "Varus",
+                "level": 17,
+                "kills": 4,
+                "deaths": 2,
+                "assists": 16,
+                "gold": 16008,
+                "cs": 307,
+                "killParticipation": 0.7407407407407407,
+                "damageShare": 0.3445396043106876,
+                "wardsPlaced": 21,
+                "wardsDestroyed": 10,
+                "items": [
+                  3142,
+                  3363,
+                  3814,
+                  3009,
+                  6695,
+                  2420
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "WE",
+                "side": "blue",
+                "name": "WEErha",
+                "role": "support",
+                "champion": "Poppy",
+                "level": 13,
+                "kills": 2,
+                "deaths": 1,
+                "assists": 16,
+                "gold": 9820,
+                "cs": 28,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.07621364327853371,
+                "wardsPlaced": 79,
+                "wardsDestroyed": 15,
+                "items": [
+                  3364,
+                  3222,
+                  3111,
+                  3190,
+                  1011,
+                  3067,
+                  2055
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDBurdol",
+                "role": "top",
+                "champion": "Aurora",
+                "level": 17,
+                "kills": 2,
+                "deaths": 3,
+                "assists": 1,
+                "gold": 11872,
+                "cs": 264,
+                "killParticipation": 0.2727272727272727,
+                "damageShare": 0.3001102519140463,
+                "wardsPlaced": 15,
+                "wardsDestroyed": 8,
+                "items": [
+                  1056,
+                  3158,
+                  3152,
+                  4645,
+                  3363,
+                  3135,
+                  1052,
+                  2139
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDHeng",
+                "role": "jungle",
+                "champion": "Naafiri",
+                "level": 17,
+                "kills": 4,
+                "deaths": 4,
+                "assists": 5,
+                "gold": 14931,
+                "cs": 274,
+                "killParticipation": 0.8181818181818182,
+                "damageShare": 0.22145132217693206,
+                "wardsPlaced": 9,
+                "wardsDestroyed": 15,
+                "items": [
+                  3161,
+                  3364,
+                  3071,
+                  2517,
+                  3111,
+                  2055,
+                  2055,
+                  6692
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDTangyuan",
+                "role": "mid",
+                "champion": "Gnar",
+                "level": 17,
+                "kills": 2,
+                "deaths": 7,
+                "assists": 4,
+                "gold": 12990,
+                "cs": 284,
+                "killParticipation": 0.5454545454545454,
+                "damageShare": 0.2447732310490051,
+                "wardsPlaced": 15,
+                "wardsDestroyed": 9,
+                "items": [
+                  3078,
+                  3123,
+                  3053,
+                  3363,
+                  3091,
+                  1031
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDShaoye",
+                "role": "bottom",
+                "champion": "Jhin",
+                "level": 15,
+                "kills": 2,
+                "deaths": 6,
+                "assists": 2,
+                "gold": 12733,
+                "cs": 280,
+                "killParticipation": 0.36363636363636365,
+                "damageShare": 0.1413457034259135,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 5,
+                "items": [
+                  1086,
+                  3142,
+                  3009,
+                  3363,
+                  3097,
+                  2055,
+                  3036,
+                  1037
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "LGD",
+                "side": "red",
+                "name": "LGDCrisp",
+                "role": "support",
+                "champion": "Leona",
+                "level": 13,
+                "kills": 1,
+                "deaths": 7,
+                "assists": 6,
+                "gold": 8801,
+                "cs": 42,
+                "killParticipation": 0.6363636363636364,
+                "damageShare": 0.0923194914341031,
+                "wardsPlaced": 69,
+                "wardsDestroyed": 20,
+                "items": [
+                  3364,
+                  3050,
+                  3111,
+                  3190,
+                  3067,
+                  2055,
+                  3114
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lol-116566854547835312",
+      "sport": "lol",
+      "competition": "LPL · Split 3 2026",
+      "home": "IG",
+      "away": "WBG",
+      "status": "finished",
+      "time": "昨日 17:00",
+      "startTime": "2026-07-25T09:00:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 2,
+      "awayScore": 1,
+      "details": {
+        "kind": "lol",
+        "format": "BO3",
+        "games": [
+          {
+            "gameId": "116566854547835313",
+            "gameNumber": 1,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 1947,
+            "teams": [
+              {
+                "id": "99566404853058754",
+                "name": "WBG",
+                "side": "blue",
+                "gold": 70976,
+                "kills": 26,
+                "towers": 10,
+                "dragons": 3,
+                "dragonTypes": [
+                  "mountain",
+                  "hextech",
+                  "hextech"
+                ],
+                "barons": 2,
+                "inhibitors": 2
+              },
+              {
+                "id": "99566404848691211",
+                "name": "IG",
+                "side": "red",
+                "gold": 56502,
+                "kills": 7,
+                "towers": 2,
+                "dragons": 2,
+                "dragonTypes": [
+                  "ocean",
+                  "hextech"
+                ],
+                "barons": 0,
+                "inhibitors": 0
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGZika",
+                "role": "top",
+                "champion": "Jax",
+                "level": 19,
+                "kills": 6,
+                "deaths": 1,
+                "assists": 7,
+                "gold": 13289,
+                "cs": 231,
+                "killParticipation": 0.5,
+                "damageShare": 0.14691776344164365,
+                "wardsPlaced": 15,
+                "wardsDestroyed": 5,
+                "items": [
+                  3078,
+                  6610,
+                  3047,
+                  3157,
+                  1033
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGJiejie",
+                "role": "jungle",
+                "champion": "JarvanIV",
+                "level": 18,
+                "kills": 5,
+                "deaths": 1,
+                "assists": 20,
+                "gold": 15338,
+                "cs": 246,
+                "killParticipation": 0.9615384615384616,
+                "damageShare": 0.24195024935484902,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 9,
+                "items": [
+                  6610,
+                  3071,
+                  3047,
+                  3156,
+                  2019,
+                  1038
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGXiaohu",
+                "role": "mid",
+                "champion": "Cassiopeia",
+                "level": 17,
+                "kills": 3,
+                "deaths": 0,
+                "assists": 14,
+                "gold": 13304,
+                "cs": 242,
+                "killParticipation": 0.6538461538461539,
+                "damageShare": 0.2010738485288395,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 7,
+                "items": [
+                  1082,
+                  6657,
+                  3111,
+                  3363,
+                  3152,
+                  8010,
+                  2420
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGElk",
+                "role": "bottom",
+                "champion": "Sivir",
+                "level": 18,
+                "kills": 9,
+                "deaths": 2,
+                "assists": 14,
+                "gold": 19659,
+                "cs": 348,
+                "killParticipation": 0.8846153846153846,
+                "damageShare": 0.3487587381232973,
+                "wardsPlaced": 14,
+                "wardsDestroyed": 15,
+                "items": [
+                  3508,
+                  3363,
+                  3006,
+                  6675,
+                  3031,
+                  3036,
+                  3026,
+                  2055
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGJwei",
+                "role": "support",
+                "champion": "Shen",
+                "level": 12,
+                "kills": 3,
+                "deaths": 3,
+                "assists": 17,
+                "gold": 9386,
+                "cs": 40,
+                "killParticipation": 0.7692307692307693,
+                "damageShare": 0.06129940055137057,
+                "wardsPlaced": 84,
+                "wardsDestroyed": 16,
+                "items": [
+                  3364,
+                  3190,
+                  3050,
+                  3158,
+                  3067,
+                  1031,
+                  2138
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "IG",
+                "side": "red",
+                "name": "IGTheShy",
+                "role": "top",
+                "champion": "Ambessa",
+                "level": 17,
+                "kills": 1,
+                "deaths": 5,
+                "assists": 2,
+                "gold": 11276,
+                "cs": 296,
+                "killParticipation": 0.42857142857142855,
+                "damageShare": 0.2247940962556789,
+                "wardsPlaced": 9,
+                "wardsDestroyed": 4,
+                "items": [
+                  1120,
+                  6692,
+                  3111,
+                  3071,
+                  3364,
+                  3161,
+                  1029
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "IG",
+                "side": "red",
+                "name": "IGWei",
+                "role": "jungle",
+                "champion": "LeeSin",
+                "level": 15,
+                "kills": 1,
+                "deaths": 4,
+                "assists": 3,
+                "gold": 10838,
+                "cs": 228,
+                "killParticipation": 0.5714285714285714,
+                "damageShare": 0.13266235675719792,
+                "wardsPlaced": 28,
+                "wardsDestroyed": 8,
+                "items": [
+                  3340,
+                  6692,
+                  6610,
+                  3111,
+                  2019,
+                  1037
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "IG",
+                "side": "red",
+                "name": "IGRookie",
+                "role": "mid",
+                "champion": "Locke",
+                "level": 15,
+                "kills": 3,
+                "deaths": 6,
+                "assists": 1,
+                "gold": 12492,
+                "cs": 260,
+                "killParticipation": 0.5714285714285714,
+                "damageShare": 0.1561192248797074,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 9,
+                "items": [
+                  1082,
+                  3152,
+                  3364,
+                  3020,
+                  4645,
+                  2420,
+                  1058
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "IG",
+                "side": "red",
+                "name": "IGAssum",
+                "role": "bottom",
+                "champion": "Ziggs",
+                "level": 16,
+                "kills": 1,
+                "deaths": 3,
+                "assists": 4,
+                "gold": 13902,
+                "cs": 326,
+                "killParticipation": 0.7142857142857143,
+                "damageShare": 0.38135829622970324,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 8,
+                "items": [
+                  1056,
+                  6655,
+                  3363,
+                  4645,
+                  3020,
+                  3089,
+                  4630,
+                  1026
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "IG",
+                "side": "red",
+                "name": "IGMeiko",
+                "role": "support",
+                "champion": "Camille",
+                "level": 11,
+                "kills": 1,
+                "deaths": 8,
+                "assists": 4,
+                "gold": 7994,
+                "cs": 39,
+                "killParticipation": 0.7142857142857143,
+                "damageShare": 0.10506602587771256,
+                "wardsPlaced": 67,
+                "wardsDestroyed": 23,
+                "items": [
+                  3364,
+                  6610,
+                  3047,
+                  2021,
+                  2055,
+                  2055,
+                  1028
+                ]
+              }
+            ]
+          },
+          {
+            "gameId": "116566854547835314",
+            "gameNumber": 2,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 1748,
+            "teams": [
+              {
+                "id": "99566404853058754",
+                "name": "WBG",
+                "side": "blue",
+                "gold": 52018,
+                "kills": 9,
+                "towers": 2,
+                "dragons": 0,
+                "dragonTypes": [],
+                "barons": 0,
+                "inhibitors": 0
+              },
+              {
+                "id": "99566404848691211",
+                "name": "IG",
+                "side": "red",
+                "gold": 59925,
+                "kills": 20,
+                "towers": 7,
+                "dragons": 3,
+                "dragonTypes": [
+                  "hextech",
+                  "infernal",
+                  "chemtech"
+                ],
+                "barons": 1,
+                "inhibitors": 1
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGZika",
+                "role": "top",
+                "champion": "Renekton",
+                "level": 16,
+                "kills": 3,
+                "deaths": 1,
+                "assists": 1,
+                "gold": 11824,
+                "cs": 254,
+                "killParticipation": 0.4444444444444444,
+                "damageShare": 0.2987685253196741,
+                "wardsPlaced": 10,
+                "wardsDestroyed": 6,
+                "items": [
+                  1054,
+                  3047,
+                  3071,
+                  3364,
+                  3161,
+                  3156,
+                  2055
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGJiejie",
+                "role": "jungle",
+                "champion": "Jayce",
+                "level": 15,
+                "kills": 3,
+                "deaths": 6,
+                "assists": 3,
+                "gold": 12930,
+                "cs": 231,
+                "killParticipation": 0.6666666666666666,
+                "damageShare": 0.3268722858894541,
+                "wardsPlaced": 7,
+                "wardsDestroyed": 12,
+                "items": [
+                  1001,
+                  3142,
+                  6699,
+                  6695,
+                  6694,
+                  2055
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGXiaohu",
+                "role": "mid",
+                "champion": "Anivia",
+                "level": 16,
+                "kills": 1,
+                "deaths": 4,
+                "assists": 4,
+                "gold": 9764,
+                "cs": 236,
+                "killParticipation": 0.5555555555555556,
+                "damageShare": 0.17027573694839596,
+                "wardsPlaced": 15,
+                "wardsDestroyed": 3,
+                "items": [
+                  1056,
+                  6657,
+                  3363,
+                  2420
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGElk",
+                "role": "bottom",
+                "champion": "Syndra",
+                "level": 14,
+                "kills": 2,
+                "deaths": 5,
+                "assists": 2,
+                "gold": 11090,
+                "cs": 265,
+                "killParticipation": 0.4444444444444444,
+                "damageShare": 0.15284950229803165,
+                "wardsPlaced": 9,
+                "wardsDestroyed": 6,
+                "items": [
+                  1056,
+                  2503,
+                  3363,
+                  1082,
+                  3152,
+                  3137
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "WBG",
+                "side": "blue",
+                "name": "WBGJwei",
+                "role": "support",
+                "champion": "Nautilus",
+                "level": 11,
+                "kills": 0,
+                "deaths": 4,
+                "assists": 4,
+                "gold": 6410,
+                "cs": 37,
+                "killParticipation": 0.4444444444444444,
+                "damageShare": 0.05123394954444413,
+                "wardsPlaced": 48,
+                "wardsDestroyed": 12,
+                "items": [
+                  3364,
+                  3190,
+                  3111,
+                  2055,
+                  3067
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "IG",
+                "side": "red",
+                "name": "IGTheShy",
+                "role": "top",
+                "champion": "Olaf",
+                "level": 18,
+                "kills": 5,
+                "deaths": 3,
+                "assists": 3,
+                "gold": 12253,
+                "cs": 259,
+                "killParticipation": 0.4,
+                "damageShare": 0.3083570302025921,
+                "wardsPlaced": 9,
+                "wardsDestroyed": 4,
+                "items": [
+                  3047,
+                  6631,
+                  3073,
+                  3364,
+                  2019,
+                  3133,
+                  2055
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "IG",
+                "side": "red",
+                "name": "IGWei",
+                "role": "jungle",
+                "champion": "Naafiri",
+                "level": 16,
+                "kills": 6,
+                "deaths": 1,
+                "assists": 8,
+                "gold": 12987,
+                "cs": 217,
+                "killParticipation": 0.7,
+                "damageShare": 0.20556235885605562,
+                "wardsPlaced": 10,
+                "wardsDestroyed": 7,
+                "items": [
+                  6699,
+                  3364,
+                  3071,
+                  6333,
+                  3111,
+                  1036
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "IG",
+                "side": "red",
+                "name": "IGRookie",
+                "role": "mid",
+                "champion": "Ryze",
+                "level": 17,
+                "kills": 5,
+                "deaths": 1,
+                "assists": 11,
+                "gold": 13393,
+                "cs": 270,
+                "killParticipation": 0.8,
+                "damageShare": 0.252586980792064,
+                "wardsPlaced": 13,
+                "wardsDestroyed": 2,
+                "items": [
+                  6657,
+                  3363,
+                  2522,
+                  2055
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "IG",
+                "side": "red",
+                "name": "IGAssum",
+                "role": "bottom",
+                "champion": "Seraphine",
+                "level": 16,
+                "kills": 3,
+                "deaths": 1,
+                "assists": 10,
+                "gold": 13258,
+                "cs": 271,
+                "killParticipation": 0.65,
+                "damageShare": 0.18162739702222594,
+                "wardsPlaced": 16,
+                "wardsDestroyed": 7,
+                "items": [
+                  1056,
+                  2503,
+                  3158,
+                  3363,
+                  3116,
+                  4005,
+                  1058,
+                  2055
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "IG",
+                "side": "red",
+                "name": "IGMeiko",
+                "role": "support",
+                "champion": "Rell",
+                "level": 12,
+                "kills": 1,
+                "deaths": 3,
+                "assists": 11,
+                "gold": 8034,
+                "cs": 37,
+                "killParticipation": 0.6,
+                "damageShare": 0.0518662331270624,
+                "wardsPlaced": 47,
+                "wardsDestroyed": 18,
+                "items": [
+                  3364,
+                  3111,
+                  3190,
+                  2055,
+                  2055,
+                  3050,
+                  1028
+                ]
+              }
+            ]
+          },
+          {
+            "gameId": "116566854547835315",
+            "gameNumber": 3,
+            "state": "finished",
+            "patch": "16.14",
+            "duration": 1464,
+            "teams": [
+              {
+                "id": "99566404848691211",
+                "name": "IG",
+                "side": "blue",
+                "gold": 52325,
+                "kills": 14,
+                "towers": 10,
+                "dragons": 2,
+                "dragonTypes": [
+                  "hextech",
+                  "infernal"
+                ],
+                "barons": 1,
+                "inhibitors": 1
+              },
+              {
+                "id": "99566404853058754",
+                "name": "WBG",
+                "side": "red",
+                "gold": 41224,
+                "kills": 5,
+                "towers": 1,
+                "dragons": 1,
+                "dragonTypes": [
+                  "chemtech"
+                ],
+                "barons": 0,
+                "inhibitors": 0
+              }
+            ],
+            "players": [
+              {
+                "participantId": 1,
+                "team": "IG",
+                "side": "blue",
+                "name": "IGTheShy",
+                "role": "top",
+                "champion": "Yorick",
+                "level": 16,
+                "kills": 2,
+                "deaths": 0,
+                "assists": 5,
+                "gold": 11701,
+                "cs": 226,
+                "killParticipation": 0.5,
+                "damageShare": 0.2544891772926876,
+                "wardsPlaced": 9,
+                "wardsDestroyed": 2,
+                "items": [
+                  1054,
+                  3078,
+                  3111,
+                  3161,
+                  2021,
+                  3364,
+                  1037
+                ]
+              },
+              {
+                "participantId": 2,
+                "team": "IG",
+                "side": "blue",
+                "name": "IGWei",
+                "role": "jungle",
+                "champion": "Trundle",
+                "level": 14,
+                "kills": 4,
+                "deaths": 0,
+                "assists": 5,
+                "gold": 11047,
+                "cs": 178,
+                "killParticipation": 0.6428571428571429,
+                "damageShare": 0.1309736131470561,
+                "wardsPlaced": 8,
+                "wardsDestroyed": 12,
+                "items": [
+                  3078,
+                  3111,
+                  3066,
+                  1031,
+                  3065
+                ]
+              },
+              {
+                "participantId": 3,
+                "team": "IG",
+                "side": "blue",
+                "name": "IGRookie",
+                "role": "mid",
+                "champion": "Viktor",
+                "level": 14,
+                "kills": 6,
+                "deaths": 2,
+                "assists": 2,
+                "gold": 11114,
+                "cs": 233,
+                "killParticipation": 0.5714285714285714,
+                "damageShare": 0.33531649979842726,
+                "wardsPlaced": 11,
+                "wardsDestroyed": 6,
+                "items": [
+                  1082,
+                  2503,
+                  3364,
+                  3152,
+                  2055,
+                  1058
+                ]
+              },
+              {
+                "participantId": 4,
+                "team": "IG",
+                "side": "blue",
+                "name": "IGAssum",
+                "role": "bottom",
+                "champion": "Ezreal",
+                "level": 14,
+                "kills": 2,
+                "deaths": 1,
+                "assists": 7,
+                "gold": 11827,
+                "cs": 239,
+                "killParticipation": 0.6428571428571429,
+                "damageShare": 0.22518721856914048,
+                "wardsPlaced": 12,
+                "wardsDestroyed": 3,
+                "items": [
+                  1086,
+                  3078,
+                  3363,
+                  3008,
+                  2055,
+                  3161,
+                  1036
+                ]
+              },
+              {
+                "participantId": 5,
+                "team": "IG",
+                "side": "blue",
+                "name": "IGMeiko",
+                "role": "support",
+                "champion": "Leona",
+                "level": 11,
+                "kills": 0,
+                "deaths": 2,
+                "assists": 7,
+                "gold": 6636,
+                "cs": 36,
+                "killParticipation": 0.5,
+                "damageShare": 0.05403349119268858,
+                "wardsPlaced": 49,
+                "wardsDestroyed": 12,
+                "items": [
+                  3364,
+                  2031,
+                  3190,
+                  3111,
+                  1029,
+                  1028
+                ]
+              },
+              {
+                "participantId": 6,
+                "team": "WBG",
+                "side": "red",
+                "name": "WBGZika",
+                "role": "top",
+                "champion": "Rumble",
+                "level": 15,
+                "kills": 0,
+                "deaths": 3,
+                "assists": 3,
+                "gold": 8223,
+                "cs": 220,
+                "killParticipation": 0.6,
+                "damageShare": 0.2033459233999081,
+                "wardsPlaced": 11,
+                "wardsDestroyed": 0,
+                "items": [
+                  1056,
+                  6653,
+                  3009,
+                  8010,
+                  3364,
+                  1052,
+                  2055
+                ]
+              },
+              {
+                "participantId": 7,
+                "team": "WBG",
+                "side": "red",
+                "name": "WBGJiejie",
+                "role": "jungle",
+                "champion": "MonkeyKing",
+                "level": 13,
+                "kills": 3,
+                "deaths": 2,
+                "assists": 2,
+                "gold": 9499,
+                "cs": 162,
+                "killParticipation": 1.0,
+                "damageShare": 0.1885968062729114,
+                "wardsPlaced": 7,
+                "wardsDestroyed": 5,
+                "items": [
+                  3364,
+                  3078,
+                  6610,
+                  2055,
+                  3111,
+                  3044
+                ]
+              },
+              {
+                "participantId": 8,
+                "team": "WBG",
+                "side": "red",
+                "name": "WBGXiaohu",
+                "role": "mid",
+                "champion": "Sylas",
+                "level": 13,
+                "kills": 2,
+                "deaths": 3,
+                "assists": 2,
+                "gold": 8448,
+                "cs": 194,
+                "killParticipation": 0.8,
+                "damageShare": 0.16861218212896165,
+                "wardsPlaced": 10,
+                "wardsDestroyed": 3,
+                "items": [
+                  1056,
+                  3152,
+                  3363,
+                  8010,
+                  1052,
+                  1082
+                ]
+              },
+              {
+                "participantId": 9,
+                "team": "WBG",
+                "side": "red",
+                "name": "WBGElk",
+                "role": "bottom",
+                "champion": "Varus",
+                "level": 13,
+                "kills": 0,
+                "deaths": 4,
+                "assists": 2,
+                "gold": 9305,
+                "cs": 230,
+                "killParticipation": 0.4,
+                "damageShare": 0.3232252818632718,
+                "wardsPlaced": 8,
+                "wardsDestroyed": 4,
+                "items": [
+                  1086,
+                  3070,
+                  3142,
+                  3363,
+                  3009,
+                  3814,
+                  3133,
+                  1036
+                ]
+              },
+              {
+                "participantId": 10,
+                "team": "WBG",
+                "side": "red",
+                "name": "WBGJwei",
+                "role": "support",
+                "champion": "Bard",
+                "level": 10,
+                "kills": 0,
+                "deaths": 2,
+                "assists": 4,
+                "gold": 5749,
+                "cs": 35,
+                "killParticipation": 0.8,
+                "damageShare": 0.11621980633494709,
+                "wardsPlaced": 47,
+                "wardsDestroyed": 13,
+                "items": [
+                  3364,
+                  3222,
+                  3111,
+                  2055,
+                  2055,
+                  3067,
+                  1033
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lol-115548681803406203",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "G2",
+      "away": "VIT",
+      "status": "finished",
+      "time": "昨日 22:30",
+      "startTime": "2026-07-25T14:30:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "lol-115548681803406271",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "MKOI",
+      "away": "KC",
+      "status": "finished",
+      "time": "今日 01:30",
+      "startTime": "2026-07-25T17:30:00+00:00",
+      "source": "LoL Esports",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "lol-116566854547835316",
+      "sport": "lol",
+      "competition": "LPL · Split 3 2026",
+      "home": "LNG",
+      "away": "NIP",
+      "status": "upcoming",
+      "time": "今日 15:00",
+      "startTime": "2026-07-26T07:00:00+00:00",
+      "source": "LoL Esports"
+    },
+    {
+      "id": "lol-116566854547769652",
+      "sport": "lol",
+      "competition": "LPL · Split 3 2026",
+      "home": "EDG",
+      "away": "TT",
       "status": "upcoming",
       "time": "今日 17:00",
-      "demo": true
+      "startTime": "2026-07-26T09:00:00+00:00",
+      "source": "LoL Esports"
+    },
+    {
+      "id": "lol-116566854547769552",
+      "sport": "lol",
+      "competition": "LPL · Split 3 2026",
+      "home": "BLG",
+      "away": "AL",
+      "status": "upcoming",
+      "time": "今日 19:00",
+      "startTime": "2026-07-26T11:00:00+00:00",
+      "source": "LoL Esports"
+    },
+    {
+      "id": "lol-115548681803406191",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "VIT",
+      "away": "MKOI",
+      "status": "upcoming",
+      "time": "今日 22:30",
+      "startTime": "2026-07-26T14:30:00+00:00",
+      "source": "LoL Esports"
+    },
+    {
+      "id": "lol-115548681803406287",
+      "sport": "lol",
+      "competition": "LEC · Summer 2026",
+      "home": "KC",
+      "away": "G2",
+      "status": "upcoming",
+      "time": "明日 01:30",
+      "startTime": "2026-07-26T17:30:00+00:00",
+      "source": "LoL Esports"
     }
   ],
   "articles": [
     {
-      "id": "ef075f66bbe79f1a",
-      "sport": "nba",
-      "title": "Why Philly? Why not Cleveland or Miami? Here's eve...",
-      "summary": "This decision creates massive questions for several teams and the legend who once again just rocked the NBA.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49443519/lebron-76ers-cavaliers-heat-everything-windhorst-knows-stunning-decision",
-      "publishedAt": "2026-07-25T09:41:05-05:00",
+      "id": "4f7d1b1abace0cff",
+      "sport": "football",
+      "title": "Inter Miami's Berterame okay after head collision",
+      "summary": "Inter Miami manager assured forward German Berterame is okay after being transported to the hospital in an ambulance amid the game against CF Montreal on Saturday night in Canada.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49453132/inter-miami-guillermo-hoyos-german-berterame-mls",
+      "publishedAt": "2026-07-26T05:16:29-05:00",
       "featured": true
+    },
+    {
+      "id": "d4de2675b36a7783",
+      "sport": "football",
+      "title": "Sources: Arsenal explore move for Vinícius Júnior",
+      "summary": "Arsenal are interested in Real Madrid forward Vinícius Júnior but the situation is at a very tentative stage, sources have told ESPN.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49447014/arsenal-vinicius-junior-real-madrid-premier-league-transfers",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "7ee6247325ed0866",
+      "sport": "football",
+      "title": "Iraola: Gomez injury is 'worst news' for Liverpool...",
+      "summary": "Liverpool head coach Andoni Iraola has admitted losing defender Joe Gomez to injury in Saturday's 4-2 preseason victory over Sunderland is \"the worst news.\"",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49450799/joe-gomez-injured-liverpools-preseason-win-sunderland",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "24f1912206024871",
+      "sport": "football",
+      "title": "Worker dies at Camp Nou, Barça to support family",
+      "summary": "Barcelona have pledged to support the family of a worker who died during renovations at their Camp Nou stadium.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49447597/barcelona-support-family-worker-died-camp-nou-renovation",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "16fbf33054f72a53",
+      "sport": "football",
+      "title": "Barcelona sign U.S. goalkeeper Tyler McCamey",
+      "summary": "BARCELONA, Spain -- Barcelona has signed American goalkeeper Tyler McCamey for its European-champion women's team, the Spanish club said Saturday.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49447813/barcelona-sign-us-goalkeeper-tyler-mccamey",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "2cab2e3398843077",
+      "sport": "football",
+      "title": "Vozinha to sign for Chile's Colo Colo - president",
+      "summary": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "08eb463588d5321a",
+      "sport": "football",
+      "title": "Klopp starts Germany stint with a threat to quit",
+      "summary": "Jürgen Klopp started his tenure as Germany's head coach with a threat to leave the job if the media don't respect his family's privacy.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49438468/jurgen-klopp-germany-manager-press-conference-threat-quit",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "267019ae542296b6",
+      "sport": "football",
+      "title": "USWNT's Sonnett stretchered off for Gotham FC",
+      "summary": "Gotham FC and United States women's national team defender Emily Sonnett was stretchered off the field in the opening minutes of Gotham's 2-2 draw with the Portland Thorns on Friday after a non-contact knee injury.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49444838/uswnt-gotham-fc-portland-thorns-emily-sonnett",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "42810b1415894c6b",
+      "sport": "football",
+      "title": "👀 Barcelona, Kobe brand collab for new away kit",
+      "summary": "Barcelona have unveiled their 2026-27 away kit in what is the second chapter of the club's collaborative partnership with Kobe Bryant's signature brand.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49437979/barcelona-reveal-fresh-kobe-brand-collab-new-2026-27-away-kit",
+      "publishedAt": "2026-07-26T05:16:29-05:00"
+    },
+    {
+      "id": "e958685773b7f36f",
+      "sport": "nba",
+      "title": "Sources: KCP to join 76ers after Grizzlies buyout",
+      "summary": "Kentavious Caldwell-Pope has agreed to a buyout with the Grizzlies and plans to sign a one-year deal with the 76ers after clearing waivers, sources tell ESPN.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49449509/sources-caldwell-pope-join-76ers-grizzlies-buyout",
+      "publishedAt": "2026-07-25T23:53:07-05:00",
+      "featured": true
+    },
+    {
+      "id": "8c2ea60992f02c3e",
+      "sport": "nba",
+      "title": "LeBron decision came down to wire, agent says",
+      "summary": "Rich Paul called the lead-up to LeBron James' decision to join the Sixers an \"emotional roller coaster\" that didn't end until early Friday morning.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49448932/lebron-james-rode-emotional-roller-coaster-decision",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "2938b86d848d1b66",
+      "sport": "nba",
+      "title": "Nuggets' Jones agrees to $12M offer from OKC",
+      "summary": "Restricted free agent Spencer Jones has agreed to a two-year, $12 million offer sheet with the Thunder, his agent told ESPN, with the Nuggets having the option to match the deal until Sunday night.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49447641/spencer-jones-agrees-thunder-offer-nuggets-get-option-match",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "9b35e7f4a13d26b2",
+      "sport": "nba",
+      "title": "Curry first active player to have own wing in HOF",
+      "summary": "Stephen Curry will become the first active player to be honored at the Naismith Basketball Hall of Fame with his own exhibit when it opens to the public Friday.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49420676/stephen-curry-first-active-player-own-exhibit-hof",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "17aa402346a72073",
+      "sport": "nba",
+      "title": "Sources: Walsh, C's agree to 3-year, $15M deal",
+      "summary": "Boston Celtics forward Jordan Walsh has agreed to a three-year, $15 million contract extension through the 2029-30 season, sources tell ESPN's Shams Charania.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49433371/sources-walsh-agrees-3-year-15m-extension-celtics",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "0f996f99458c5cb4",
+      "sport": "nba",
+      "title": "Suns GM confident Bridges' off-court issues in pas...",
+      "summary": "Suns GM Brian Gregory said the franchise felt comfortable bringing in veteran forward Miles Bridges despite his \"unacceptable conduct that has occurred in the past.\"",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49428106/suns-gm-gregory-confident-bridges-court-issues-past",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "9a2e1a423ce740c6",
+      "sport": "nba",
+      "title": "🏀 LeBron to Philly! Brown, Barkley, others react",
+      "summary": "LeBron James is taking his talents to the City of Brotherly Love and the sports world reacted accordingly.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49429256/lebron-james-signs-philadelphia-76ers-nba-social-media-sports-world-reactions",
+      "publishedAt": "2026-07-25T23:53:07-05:00"
+    },
+    {
+      "id": "d8b7b6eff0d160be",
+      "sport": "football",
+      "title": "Which South American players used the World Cup to...",
+      "summary": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "publishedAt": "2026-07-25T23:30:03-05:00"
+    },
+    {
+      "id": "0be87b2bea4a1fae",
+      "sport": "football",
+      "title": "Grading FIFA's changes to the World Cup, from expa...",
+      "summary": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
+      "publishedAt": "2026-07-25T23:30:03-05:00"
+    },
+    {
+      "id": "2997dd3b26f1992c",
+      "sport": "football",
+      "title": "Arsenal's new away kit brings back cult 'bruised b...",
+      "summary": "Arsenal have unveiled their 2026-27 away kit and once more the inspiration for the design is their old \"Bruised Banana\" jersey of the early 1990s.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49437804/premier-league-champions-arsenal-2026-27-away-kit-brings-back-cult-bruised-banana-design-again",
+      "publishedAt": "2026-07-25T22:38:24-05:00"
+    },
+    {
+      "id": "3311a1bbcc6582b8",
+      "sport": "football",
+      "title": "Real Madrid's new away kit first green jersey sinc...",
+      "summary": "Real Madrid hope José Mourinho can bring the green shoots of recovery to the Bernabéu, so it's fitting the team have a new green away kit to match.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49430168/real-madrid-2026-27-away-kit-first-green-jersey-jose-mourinho-was-last-bernabeu",
+      "publishedAt": "2026-07-25T22:38:24-05:00"
+    },
+    {
+      "id": "225dcc8bb1c5570f",
+      "sport": "football",
+      "title": "Spain didn't have a Messi, Mbappé or Haaland: How ...",
+      "summary": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "publishedAt": "2026-07-25T22:29:02-05:00"
+    },
+    {
+      "id": "814e6d2b5d61e451",
+      "sport": "football",
+      "title": "How Spain built historic dominance in men's, women...",
+      "summary": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
+      "publishedAt": "2026-07-25T22:29:02-05:00"
     },
     {
       "id": "eb14354cdd066d1d",
@@ -50,8 +4297,16 @@
       "summary": "It is too early for title race predictions, but even a month ahead of the new season, it is clear that the storylines are intriguing and fascinating.",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
-      "publishedAt": "2026-07-25T09:05:57-05:00",
-      "featured": true
+      "publishedAt": "2026-07-25T22:22:34-05:00"
+    },
+    {
+      "id": "08c5b5981059dade",
+      "sport": "football",
+      "title": "Liverpool's paucity of defensive options made clea...",
+      "summary": "If Andoni Iraola was dreaming of mounting a Premier League title challenge, his first game in charge of the Reds has already underlined one of the squad's major issues: depth in defence.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49451006/liverpools-paucity-defensive-options-made-clear-iraolas-first-game",
+      "publishedAt": "2026-07-25T22:22:06-05:00"
     },
     {
       "id": "6c4b8e3c45da88e9",
@@ -60,13 +4315,40 @@
       "summary": "As we hit the one-year mark until the 2027 Women's World Cup final, we have to ask: Will the USWNT be there?",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/49435317/5-reasons-uswnt-in-women-world-cup-final-one-year",
-      "publishedAt": "2026-07-25T09:05:35-05:00"
+      "publishedAt": "2026-07-25T19:34:25-05:00"
+    },
+    {
+      "id": "ef075f66bbe79f1a",
+      "sport": "nba",
+      "title": "Why Philly? Why not Cleveland or Miami? Here's eve...",
+      "summary": "This decision creates massive questions for several teams and the legend who once again just rocked the NBA.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49443519/lebron-76ers-cavaliers-heat-everything-windhorst-knows-stunning-decision",
+      "publishedAt": "2026-07-25T11:58:48-05:00"
+    },
+    {
+      "id": "c21816147b3a44c0",
+      "sport": "nba",
+      "title": "LeBron's final decision: Why he chose Philly and w...",
+      "summary": "Everything we know about James' decision to join Brown and the 76ers.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/49440496/answering-biggest-questions-lebron-james-philadelphia-76ers-jaylen-brown",
+      "publishedAt": "2026-07-25T11:58:48-05:00"
+    },
+    {
+      "id": "73bf14cc574ed04c",
+      "sport": "football",
+      "title": "Can MLS capitalize on World Cup fervor in the U.S.?",
+      "summary": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
+      "publishedAt": "2026-07-25T11:34:30-05:00"
     },
     {
       "id": "b85723de067fa912",
       "sport": "football",
       "title": "Transfer rumors, news: Could Arsenal's Gyökeres jo...",
-      "summary": "Arsenal are reportedly interested in signing Real Madrid star Vinícius Júnior. Transfer Talk has the latest.",
+      "summary": "Mohamed Salah is reportedly set to join Besiktas on a free transfer. Transfer Talk has the latest.",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
       "publishedAt": "2026-07-25T08:48:54-05:00"
@@ -81,123 +4363,6 @@
       "publishedAt": "2026-07-25T08:47:32-05:00"
     },
     {
-      "id": "267019ae542296b6",
-      "sport": "football",
-      "title": "USWNT's Sonnett stretchered off for Gotham FC",
-      "summary": "Gotham FC and United States women's national team defender Emily Sonnett was stretchered off the field in the opening minutes of Gotham's 2-2 draw with the Portland Thorns on Friday after a non-contact knee injury.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49444838/uswnt-gotham-fc-portland-thorns-emily-sonnett",
-      "publishedAt": "2026-07-25T07:45:51-05:00"
-    },
-    {
-      "id": "d8b7b6eff0d160be",
-      "sport": "football",
-      "title": "Which South American players used the World Cup to...",
-      "summary": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
-      "publishedAt": "2026-07-25T07:32:04-05:00"
-    },
-    {
-      "id": "0be87b2bea4a1fae",
-      "sport": "football",
-      "title": "Grading FIFA's changes to the World Cup, from expa...",
-      "summary": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
-      "publishedAt": "2026-07-25T07:32:04-05:00"
-    },
-    {
-      "id": "73bf14cc574ed04c",
-      "sport": "football",
-      "title": "Can MLS capitalize on World Cup fervor in the U.S.?",
-      "summary": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
-      "publishedAt": "2026-07-25T07:27:56-05:00"
-    },
-    {
-      "id": "c21816147b3a44c0",
-      "sport": "nba",
-      "title": "LeBron's final decision: Why he chose Philly and w...",
-      "summary": "Everything we know about James' decision to join Brown and the 76ers.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49440496/answering-biggest-questions-lebron-james-philadelphia-76ers-jaylen-brown",
-      "publishedAt": "2026-07-25T07:17:46-05:00"
-    },
-    {
-      "id": "08eb463588d5321a",
-      "sport": "football",
-      "title": "Klopp starts Germany stint with a threat to quit",
-      "summary": "Jürgen Klopp started his tenure as Germany's head coach with a threat to leave the job if the media don't respect his family's privacy.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49438468/jurgen-klopp-germany-manager-press-conference-threat-quit",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "388a7976facd3d88",
-      "sport": "football",
-      "title": "IOC won't investigate Infantino-Trump allegations",
-      "summary": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49440317/ioc-not-investigate-infantino-trump-interference-allegations",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "cec8d6dd16c56743",
-      "sport": "football",
-      "title": "Source: Pep turns down Italy, will take year off",
-      "summary": "Pep Guardiola's intention remains to take \"at least one year\" out of the game despite being approached to take over the vacant Italy coaching job, a source told ESPN.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49438651/pep-guardiola-turns-italy-take-year-source",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "716ea2ec20e34be4",
-      "sport": "football",
-      "title": "Maresca: 'Privilege' to succeed Pep at Man City",
-      "summary": "Enzo Maresca has said it's a \"privilege\" to succeed Pep Guardiola at Manchester City.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49439075/enzo-maresca-man-city-manager-rodri-transfer-news",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "2f381ee85db336da",
-      "sport": "football",
-      "title": "Liga MX announce Iturbide as new president",
-      "summary": "Liga MX announced on Friday that Francisco Iturbide will replace Mikel Arriola as the new president of the Mexican top-flight, thereby leaving Arriola as commissioner of the Mexican Football Federation (FMF) after he recently held both role",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49442372/liga-mx-announce-francisco-iturbide-new-president",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "11bf9e6ff025400e",
-      "sport": "football",
-      "title": "Van Bommel to replace Garcia as Belgium coach",
-      "summary": "Former Netherlands international Mark van Bommel has taken over as head coach of Belgium's national team following their run to the World Cup quarterfinals.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49439835/belgium-name-mark-van-bommel-replace-rudi-garcia-manager",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "c54328201d38dadb",
-      "sport": "football",
-      "title": "Liga MX Femenil rebrands, changes season format",
-      "summary": "Mexican women's top-flight side Liga MX Femenil announced a rebrand to Liga Femenil BBVA, along with a change in the competition's regular season format.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49440979/liga-mx-femenil-rebrands-changes-season-format",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
-      "id": "42810b1415894c6b",
-      "sport": "football",
-      "title": "👀 Barcelona, Kobe brand collab for new away kit",
-      "summary": "Barcelona have unveiled their 2026-27 away kit in what is the second chapter of the club's collaborative partnership with Kobe Bryant's signature brand.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49437979/barcelona-reveal-fresh-kobe-brand-collab-new-2026-27-away-kit",
-      "publishedAt": "2026-07-25T03:25:28-05:00"
-    },
-    {
       "id": "f1a11fc77a205d36",
       "sport": "nba",
       "title": "Five stars, one ball: LeBron James' fantasy value ...",
@@ -207,24 +4372,6 @@
       "publishedAt": "2026-07-24T17:00:22-05:00"
     },
     {
-      "id": "814e6d2b5d61e451",
-      "sport": "football",
-      "title": "How Spain built historic dominance in men's, women...",
-      "summary": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
-      "publishedAt": "2026-07-24T15:04:33-05:00"
-    },
-    {
-      "id": "225dcc8bb1c5570f",
-      "sport": "football",
-      "title": "Spain didn't have a Messi, Mbappé or Haaland: How ...",
-      "summary": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
-      "publishedAt": "2026-07-24T15:04:32-05:00"
-    },
-    {
       "id": "777a36ecaa36ad9a",
       "sport": "football",
       "title": "Copy of Forget whether Germany need Klopp. Does Klopp need...",
@@ -232,78 +4379,6 @@
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
       "publishedAt": "2026-07-24T14:10:01-05:00"
-    },
-    {
-      "id": "0d8503b0e48b45f7",
-      "sport": "nba",
-      "title": "LeBron chooses 76ers, calls it his 'last decision'...",
-      "summary": "LeBron James, after considering retirement, is continuing his NBA career with the 76ers. James is taking a two-year, $8 million deal, Klutch Sports Group CEO Rich Paul told ESPN's Shams Charania.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49440164/lebron-chooses-76ers-sign-2-year-8-million-contract",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "9b35e7f4a13d26b2",
-      "sport": "nba",
-      "title": "Curry first active player to have own wing in HOF",
-      "summary": "Stephen Curry will become the first active player to be honored at the Naismith Basketball Hall of Fame with his own exhibit when it opens to the public Friday.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49420676/stephen-curry-first-active-player-own-exhibit-hof",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "17aa402346a72073",
-      "sport": "nba",
-      "title": "Sources: Walsh, C's agree to 3-year, $15M deal",
-      "summary": "Boston Celtics forward Jordan Walsh has agreed to a three-year, $15 million contract extension through the 2029-30 season, sources tell ESPN's Shams Charania.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49433371/sources-walsh-agrees-3-year-15m-extension-celtics",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "0f996f99458c5cb4",
-      "sport": "nba",
-      "title": "Suns GM confident Bridges' off-court issues in pas...",
-      "summary": "Suns GM Brian Gregory said the franchise felt comfortable bringing in veteran forward Miles Bridges despite his \"unacceptable conduct that has occurred in the past.\"",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49428106/suns-gm-gregory-confident-bridges-court-issues-past",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "d69ecff595d4f813",
-      "sport": "nba",
-      "title": "Sources: Thybulle, Lakers agree to 1-year deal",
-      "summary": "Free agent forward Matisse Thybulle has agreed on a one-year, $3.3 million deal to sign with the Los Angeles Lakers, sources told ESPN.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49411523/sources-matisse-thybulle-agrees-1-year-deal-lakers",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "2ff87589e1000aa2",
-      "sport": "nba",
-      "title": "Wilt's warm-up jacket, Goodwill find, sells for $8...",
-      "summary": "A Wilt Chamberlain warmup jacket originally found in a Portland, Oregon, Goodwill by Quinn Brown, 19, sold for $89,600, including the buyer's premium, at Sotheby's on Monday.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49413869/wilt-chamberlain-lakers-warm-jacket-sells-89600",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "9a2e1a423ce740c6",
-      "sport": "nba",
-      "title": "🏀 LeBron to Philly! Brown, Barkley, others react",
-      "summary": "LeBron James is taking his talents to the City of Brotherly Love and the sports world reacted accordingly.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49429256/lebron-james-signs-philadelphia-76ers-nba-social-media-sports-world-reactions",
-      "publishedAt": "2026-07-24T13:56:32-05:00"
-    },
-    {
-      "id": "82ce83fcf1032147",
-      "sport": "nba",
-      "title": "Lendeborg outduels Boozer; Dubs win Vegas title",
-      "summary": "Yaxel Lendeborg helped the Warriors to their second summer league championship, becoming just the second player to win a Division I NCAA championship and a summer league title in the same year.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/49407474/lendeborg-outduels-boozer-dubs-claim-summer-league-title",
-      "publishedAt": "2026-07-24T13:56:31-05:00"
     },
     {
       "id": "7d5b1855981732c4",
@@ -358,223 +4433,1097 @@
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/49405006/what-expect-arsenal-new-40m-winger-christos-tzolis",
       "publishedAt": "2026-07-24T08:15:36-05:00"
-    },
+    }
+  ],
+  "communityPosts": [
     {
-      "id": "2997dd3b26f1992c",
+      "id": "hupu-641299235",
       "sport": "football",
-      "title": "Arsenal's new away kit brings back cult 'bruised b...",
-      "summary": "Arsenal have unveiled their 2026-27 away kit and once more the inspiration for the design is their old \"Bruised Banana\" jersey of the early 1990s.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49437804/premier-league-champions-arsenal-2026-27-away-kit-brings-back-cult-bruised-banana-design-again",
-      "publishedAt": "2026-07-24T08:12:50-05:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "张路：2034年国足进世界杯没问题，38年时弄好了能小组出线",
+      "excerpt": "来源：抖音",
+      "url": "https://bbs.hupu.com/641299235.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-07-26T02:32:24+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 50,
+      "replyCount": 247,
+      "viewCount": 69868,
+      "topComments": [
+        {
+          "text": "我也认为会在2034年看到国足重返世界杯，希望张指身体健康，见证这一天",
+          "score": 909
+        },
+        {
+          "text": "凭u系列在亚洲赛区的表现很出色",
+          "score": 484
+        },
+        {
+          "text": "英格兰大牌球员不泡妞吗？",
+          "score": 225
+        }
+      ],
+      "hotScore": 0.9422
     },
     {
-      "id": "3311a1bbcc6582b8",
+      "id": "hupu-641280718",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛后]IG 2-1 WBG：单带拉扯突破防线，IG让一追二拿下开门红",
+      "excerpt": "点击为双方选手评分>>> 虎扑07月25日讯 Game3：蓝色方IG；红色方WBG 【英雄BP】 IG禁用：蔚、发条、卢锡安、烬、潘森 IG选用：TheShy掘墓、Wei巨魔、Rookie维克托、Assum伊泽瑞尔、Meiko蕾欧娜 WBG禁用：梦魇、卡尔玛、女警、奇亚娜、纳尔 WBG选用：Zika兰博、Jiejie猴子、Xiaohu塞拉斯、Elk韦鲁斯、Jwei巴德 【选手符文】 【赛况简介】 6分钟：WBG先手蕾欧娜拿下一血，EZ维克托持续输出IG反杀两人 19分钟：WB",
+      "url": "https://bbs.hupu.com/641280718.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T11:38:35+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 50,
+      "replyCount": 399,
+      "viewCount": 169558,
+      "topComments": [
+        {
+          "text": "wbg的老人味无需多言了，虎帝塞拉稀，赵氏已烂勿念",
+          "score": 2077
+        },
+        {
+          "text": "码头这一个月打的排位比之前一年都多吧 真有用啊",
+          "score": 1373
+        },
+        {
+          "text": "不会真以为程璐是菜逼吧，ig这上中的对线强度绝对有的，要不然真以为世界冠军这么好拿",
+          "score": 874
+        }
+      ],
+      "hotScore": 0.9377
+    },
+    {
+      "id": "hupu-641287768",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛后]TES 2-1 TT：双C完美发挥团战兜底，TES有惊无险带走胜利",
+      "excerpt": "点击为双方选手评分>>> 虎扑07月25日讯 Game3：蓝色方TT；红色方TES 【英雄BP】 TT禁用：发条、辛德拉、卢锡安、梦魇、赵信 TT选用：Keshi杰斯、Junhao豹女、Heru兔子、Ahn烬、Feather巴德 TES禁用：波比、盲僧、炸弹人、薇恩、卡牌 TES选用：ZUIAN奎桑提、Tian猴子、Creme洛克、JackeyLove伊泽瑞尔、Zhuo卡尔玛 【选手符文】 【赛况简介】 5分钟：Junhao豹女拼惩拿下小龙，EZ击杀兔子拿下一血止损 9分钟：",
+      "url": "https://bbs.hupu.com/641287768.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T14:46:05+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 50,
+      "replyCount": 341,
+      "viewCount": 75417,
+      "topComments": [
+        {
+          "text": "天神不拿头就是好赢啊",
+          "score": 1042
+        },
+        {
+          "text": "总算知道训练赛到底谁在拿这个b洛克c了",
+          "score": 776
+        },
+        {
+          "text": "天神只要不想赢，TES就能赢，最怕天神想赢人头一顿K",
+          "score": 531
+        }
+      ],
+      "hotScore": 0.9279
+    },
+    {
+      "id": "hupu-641262167",
       "sport": "football",
-      "title": "Real Madrid's new away kit first green jersey sinc...",
-      "summary": "Real Madrid hope José Mourinho can bring the green shoots of recovery to the Bernabéu, so it's fitting the team have a new green away kit to match.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49430168/real-madrid-2026-27-away-kit-first-green-jersey-jose-mourinho-was-last-bernabeu",
-      "publishedAt": "2026-07-24T08:12:49-05:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "黄健翔：关于阿根廷的争论还在继续，可以看下《脏脸天使》",
+      "excerpt": "知名媒体人黄健翔在社媒写道：倒时差的人睡得乱七八糟的，于是在网上浏览，发现围绕阿根廷队本次世界杯的比赛的争论居然还在继续。我想，不论你在这场争论中立场如何，都可以看一下这本书：脏脸天使。这样可以增加对阿根廷足球的了解，同时，阅读使人平静。 来源：微博",
+      "url": "https://bbs.hupu.com/641262167.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-07-25T01:24:13+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 50,
+      "replyCount": 334,
+      "viewCount": 108165,
+      "topComments": [
+        {
+          "text": "人家叫Angels with Dirty Faces 脏脸是说的贫民窟 天使是说的技术 能别看个中文译名就在这里高潮吗",
+          "score": 1279
+        },
+        {
+          "text": "你都意大利万岁了，你赢了",
+          "score": 808
+        },
+        {
+          "text": "可能触发关键词了",
+          "score": 321
+        }
+      ],
+      "hotScore": 0.9092
     },
     {
-      "id": "01c06873475c333b",
-      "sport": "lol",
-      "title": "How to watch EWC 2026 League of Legends: Stream, schedule, results, teams",
-      "summary": "The 2026 Esports World Cup is making history with the kickoff of its League of Legends tournament. Here’s everything you need to know about who might take home the $600,000 top prize.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/how-to-watch-ewc-2026-league-of-legends-stream-schedule-results-teams-3387307/",
-      "publishedAt": "2026-07-14T15:15:37+00:00",
-      "featured": true
+      "id": "hupu-641307344",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "詹姆斯正在掀起暮年球星底薪抱团新浪潮",
+      "excerpt": "2010年，詹姆斯宣布将天赋带到南海岸，与韦德、波什组建热火三巨头。这一选择直接拉开巅峰超巨主动抱团的时代序幕，重塑了此后十余年NBA的建队思路与联赛竞争格局。 2026年，詹姆斯再度做出足以改变联盟风向的决定：41岁的他签下创造NBA历史最大降薪纪录的老将底薪奔赴76人。这支球队原本就拥有恩比德、杰伦·布朗、马克西三大核心，稳居争冠梯队；詹姆斯的加盟，以极低的薪资代价，为队伍补充了一名历史级持球组织者与大赛关键球核心，补齐了球队组织、关键攻坚的短板。 回顾詹姆斯数次改变生涯",
+      "url": "https://bbs.hupu.com/641307344.html",
+      "author": "朱小麦111",
+      "publishedAt": "2026-07-26T08:06:23+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 2,
+      "replyCount": 6,
+      "viewCount": 605,
+      "topComments": [
+        {
+          "text": "有一说一，暮年降薪抱团或者加入争冠希望较大的队，这不是一直都有的做法吗？这不能说是老詹带的吧？",
+          "score": 6
+        },
+        {
+          "text": "你主子掀了选秀报团躺冠浪潮。1995年湖人队内有四个已经夺冠的，53胜29负西部第四，还交易来了奥尼尔。 2002年骑士队17胜65负。请问到底谁在走捷径？",
+          "score": 6
+        },
+        {
+          "text": "什么叫暮年降薪抱团 以詹姆斯的成就原地退役都没问题 年龄大了 荣誉有了 钱也赚了 现在所做的一切都是做自己喜欢的 无非是能有战术地位 能赢球顺便看看能不能再拿个冠军",
+          "score": 2
+        }
+      ],
+      "hotScore": 0.8983
     },
     {
-      "id": "3d5f3a6e40616731",
+      "id": "hupu-641277343",
       "sport": "lol",
-      "title": "Riot sends incredible gift to couple getting married after meeting in League of Legends",
-      "summary": "A couple who first met while playing League of Legends 12 years ago received a touching wedding gift from Riot Games.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/riot-sends-incredible-gift-to-couple-getting-married-after-meeting-in-league-of-legends-3374872/",
-      "publishedAt": "2026-06-11T15:42:20+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛后]WBG 1-0 IG：多点开花全面压制，WBG轻取首局先拔头筹",
+      "excerpt": "点击为双方选手评分>>> 虎扑07月25日讯 Game1：蓝色方WBG；红色方IG 【英雄BP】 WBG禁用：杰斯、发条、蔚、辛德拉、纳尔 WBG选用：Zika武器、Jiejie皇子、Xiaohu蛇女、Elk希维尔、Jwei慎 IG禁用：波比、梦魇、卡莎、薇恩、鳄鱼 IG选用：TheShy狼母、Wei盲僧、Rookie洛克、Assum炸弹人、Meiko青钢影 【选手符文】 【赛况简介】 2分钟：Meiko青钢影闪现躲开嘲讽反打，成功拿下慎一血 5分钟：青钢影游走抓中，Rook",
+      "url": "https://bbs.hupu.com/641277343.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T09:53:43+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 50,
+      "replyCount": 311,
+      "viewCount": 92763,
+      "topComments": [
+        {
+          "text": "前面有模有样，后面装模作样。马兰头这把还行，糯米鸡不像个人，其他几个也不用说了",
+          "score": 862
+        },
+        {
+          "text": "这也能吹",
+          "score": 514
+        },
+        {
+          "text": "春风若有怜花意，能否让rk滚回家….",
+          "score": 322
+        }
+      ],
+      "hotScore": 0.896
     },
     {
-      "id": "646426494cd7853b",
+      "id": "hupu-641285375",
       "sport": "lol",
-      "title": "League of Legends pro Bin fined $22K for not giving fans high-fives after match",
-      "summary": "Billibilli Gaming toplaner Bin was fined $22K for not high-fiving fans after his team’s match against EDWard Gaming on June 3.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-pro-bin-fined-22k-for-not-giving-fans-high-fives-after-match-3371939/",
-      "publishedAt": "2026-06-04T19:42:05+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Rookie赛后更新个人社媒：感谢大家，后面比赛加油",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641285375.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T13:37:46+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 50,
+      "replyCount": 177,
+      "viewCount": 67822,
+      "topComments": [],
+      "hotScore": 0.8879
     },
     {
-      "id": "1aeaa6eb25e79698",
-      "sport": "lol",
-      "title": "Playing League of Legends can improve your brain, study finds",
-      "summary": "A new study has suggested that playing League of Legends can improve brain function, with some effects still showing 10 weeks later.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/gaming/playing-league-of-legends-can-improve-your-brain-study-finds-3357773/",
-      "publishedAt": "2026-04-28T14:42:58+00:00"
+      "id": "hupu-641251508",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 勒布朗去费城了：在追求什么？",
+      "excerpt": "勒布朗去费城了。两年800万。意味着勒布朗比上季降薪了4600万。也意味着下季可能依然不是他最后一年。 意味着勒布朗依然在 追求冠军。 当下勒布朗需要防守端让他站4。他仍可以扛人（只要对面不太快）、保护篮板，指挥防守：只要身边有锋线和移动。 进攻端， 当下勒布朗是个连接器。适合当第二持球者，而非持球核。他能空切、启动递手和接球进攻。第一步创造优势是难了，但依然可以利用身体对抗和阅读比赛。很擅长在空档中完成进攻终结，以及许多微小的工作。 他能 连接 一切：发动机、终结者与射手。",
+      "url": "https://bbs.hupu.com/641251508.html",
+      "author": "张佳玮·信陵",
+      "publishedAt": "2026-07-24T16:27:36+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 26,
+      "replyCount": 97,
+      "viewCount": 77832,
+      "topComments": [
+        {
+          "text": "非常感谢老张在湖人低谷时为球队奉献的一切，20年的总冠军太美妙了。 生涯尾声了，希望老张能再次夺冠，一队一冠保持自己的记录！！",
+          "score": 666
+        },
+        {
+          "text": "体面人，我都不知道现在湖区对老张哪来那么大恶意",
+          "score": 307
+        },
+        {
+          "text": "那都是借着湖区的黑子，大串串，真正的湖人球迷怎么会不感谢老詹呢，在最低谷的时候，所有人不愿意来的时候，加盟了这只湖人，还带来了总冠军。",
+          "score": 125
+        }
+      ],
+      "hotScore": 0.8844
     },
     {
-      "id": "9c0d13bd88b3d74a",
-      "sport": "lol",
-      "title": "Riot Games gift Jynxzi a League of Legends account after banning him for buying one",
-      "summary": "Twitch streamer Jynxzi was permanently banned from League of Legends after buying a leveled account, before quickly being given a replacement account by a Riot Games employee.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/twitch/riot-games-gift-jynxzi-a-league-of-legends-account-after-banning-him-for-buying-one-3357607/",
-      "publishedAt": "2026-04-28T10:32:19+00:00"
+      "id": "hupu-641271691",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "客观来说，如果没有裁判对阿根廷暴力犯规的容忍，阿根廷能走到哪儿？",
+      "excerpt": "先不讨论小组赛对手和淘汰赛对手较弱的客观情况， 就还是这个分组和淘汰赛对手， 阿根廷能不能过佛得角和埃及？",
+      "url": "https://bbs.hupu.com/641271691.html",
+      "author": "上海滩球迷",
+      "publishedAt": "2026-07-25T06:45:11+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 47,
+      "replyCount": 152,
+      "viewCount": 16250,
+      "topComments": [
+        {
+          "text": "也就梅西这个憨憨，奥亚萨瓦尔这下直接踢膝盖，半点拿球的可能都没有。当场抱腿倒下，其他哥们一围一看 VAR，这不就一张红牌下去了吗，何必等到后面",
+          "score": 267
+        },
+        {
+          "text": "这红色球衣的阿根廷怎么那么脏啊",
+          "score": 229
+        },
+        {
+          "text": "不是裁判保西班牙，阿根廷早夺冠了",
+          "score": 157
+        }
+      ],
+      "hotScore": 0.8214
     },
     {
-      "id": "c1013e7162ffd120",
-      "sport": "lol",
-      "title": "LoL player uses actual steering wheel to play the game",
-      "summary": "A League of Legends streamer has managed to set up and play the game with a steering wheel.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/lol-player-uses-actual-steering-wheel-to-play-the-game-3357537/",
-      "publishedAt": "2026-04-28T03:26:03+00:00"
+      "id": "hupu-641300483",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "深聊再次确认世界杯后C罗历史地位前4，大家怎么看？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641300483.html",
+      "author": "室友很懂球的",
+      "publishedAt": "2026-07-26T03:23:43+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 16,
+      "replyCount": 249,
+      "viewCount": 4707,
+      "topComments": [],
+      "hotScore": 0.7972
     },
     {
-      "id": "2c62015fa6cd67b6",
-      "sport": "lol",
-      "title": "Riot dev roasts LoL booster allegedly earning $10K+ a month",
-      "summary": "A Riot dev caught a League of Legends player offering boosting services and shut it down in an unexpected way.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/riot-dev-roasts-lol-booster-allegedly-earning-10k-a-month-3356197/",
-      "publishedAt": "2026-04-24T06:55:11+00:00"
+      "id": "hupu-641264053",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "詹姆斯还是报了理论上最粗的那条腿～",
+      "excerpt": "尘埃落定～ 1.终于可以不用纠结下赛季是不是还接着看库里的比赛了，继续[奸笑]话说回来忍不住想吐槽一下勇管，或者说拉科布：谁给你的勇气去追詹姆斯？梁静茹吗？做舔狗的感觉很好吗？纯纯的有病～ 2.世界杯也结束了，总裁也发话了，再不宣布实在是不合适了，不管老詹怎么解释，反正我一直认为老詹就是在吊大家胃口，倒不见得是为什么流量，被大家“尊重”的感觉，嗯，很不错～ 3.老詹说了，他还想再夺一冠，那么，西部的勇士，森林狼不说（我从头到尾就没信过老詹能去西部球队，不符合他的人设），热火字",
+      "url": "https://bbs.hupu.com/641264053.html",
+      "author": "虎扑JR1382654615",
+      "publishedAt": "2026-07-25T02:29:59+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 4,
+      "replyCount": 4,
+      "viewCount": 1074,
+      "topComments": [
+        {
+          "text": "酸酸的一点甜都没有的味道！",
+          "score": 10
+        },
+        {
+          "text": "看你的附加赛goat去吧",
+          "score": 4
+        },
+        {
+          "text": "妈呀，这种幼儿园水平哪来的脸发在这个板块",
+          "score": 4
+        }
+      ],
+      "hotScore": 0.7969
     },
     {
-      "id": "b3a64aa18735afe9",
-      "sport": "lol",
-      "title": "League of Legends’ JD Gaming unveils official team pet and it’s already viral",
-      "summary": "League of Legends team JD GAMING have unveiled their official team pet, Duobao, a less than six-month-old puppy, and he’s already brought “joy” to the squad.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/gaming/league-of-legends-jd-gaming-unveils-official-team-pet-and-its-already-viral-3354563/",
-      "publishedAt": "2026-04-21T09:29:14+00:00"
+      "id": "hupu-641280295",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "阿媒晒视频：恩佐逐一向队友致意，梅西似乎生气多次无视他",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641280295.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-25T11:22:56+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 43,
+      "replyCount": 135,
+      "viewCount": 99011,
+      "topComments": [],
+      "hotScore": 0.7922
     },
     {
-      "id": "ee5cb27412bf519f",
+      "id": "hupu-641279083",
       "sport": "lol",
-      "title": "League of Legends players can soon vote to quickly end games ruined by griefing trolls",
-      "summary": "Riot are adding a vote to end League of Legends games early when a troll ruins them, and only the offender gets punished.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-players-can-now-vote-to-quickly-end-games-ruined-by-griefing-trolls-3352299/",
-      "publishedAt": "2026-04-15T14:20:58+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛后]WBG 1-1 IG：冲阵发挥击溃后排，IG愈战愈勇扳平比分",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641279083.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T10:48:50+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 42,
+      "replyCount": 177,
+      "viewCount": 95761,
+      "topComments": [],
+      "hotScore": 0.7854
     },
     {
-      "id": "8ad8060ed3f3cc17",
+      "id": "hupu-641304021",
       "sport": "lol",
-      "title": "League of Legends coach goes viral for tracking duo’s menstrual cycle to improve winrate",
-      "summary": "A League of Legends coach has gone viral after claiming he tracks his duo partner’s menstrual cycle to improve their win rate.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-coach-goes-viral-for-tracking-duos-menstrual-cycle-to-improve-winrate-3351064/",
-      "publishedAt": "2026-04-13T15:39:58+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[JR热议]雨过天晴，粉丝在T1基地为Oner送上祝福花圈以及应援卡车",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641304021.html",
+      "author": "孤独的池塘",
+      "publishedAt": "2026-07-26T05:53:56+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 40,
+      "replyCount": 101,
+      "viewCount": 78008,
+      "topComments": [],
+      "hotScore": 0.7594
     },
     {
-      "id": "1553033a190dda0e",
-      "sport": "lol",
-      "title": "Faker honored by South Korean government with his own postage stamp",
-      "summary": "League of Legends pro ‘Faker’ is being honored by the South Korean government with his very own postage stamp.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/faker-honored-by-south-korean-government-with-his-own-commemorative-postage-stamp-3347480/",
-      "publishedAt": "2026-04-06T23:03:56+00:00"
+      "id": "hupu-641303454",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 韦德：詹姆斯去76人会夺五六冠吗？艾弗森：詹姆斯是世一人！",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641303454.html",
+      "author": "氧气是个地铁",
+      "publishedAt": "2026-07-26T05:28:39+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 291,
+      "topComments": [],
+      "hotScore": 0.7141
     },
     {
-      "id": "ed65fc92b2031dbb",
-      "sport": "lol",
-      "title": "Riot Games job listings suggest a secret LoL ARPG is in development",
-      "summary": "Riot Games job listings suggest a League of Legends ARPG is in early development at the company’s Shanghai studio.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/riot-games-job-listings-suggest-a-secret-lol-arpg-is-in-development-3342274/",
-      "publishedAt": "2026-03-27T21:05:44+00:00"
+      "id": "hupu-641264977",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "理性讨论 梅西现在历史地位应该比22刚夺冠后高吧",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641264977.html",
+      "author": "虎扑JR0395528330",
+      "publishedAt": "2026-07-25T02:59:06+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 43,
+      "replyCount": 106,
+      "viewCount": 22140,
+      "topComments": [],
+      "hotScore": 0.7136
     },
     {
-      "id": "77e65c8d24bbabb5",
+      "id": "hupu-641283950",
       "sport": "lol",
-      "title": "Why Logitech G’s PRO X2 SUPERSTRIKE is a complete game-changer",
-      "summary": "Logitech G’s PRO X2 SUPERSTRIKE was built with one goal in mind: Remove every possible delay between intent and action. And it succeeds.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/tech/why-logitech-gs-pro-x2-superstrike-is-a-complete-game-changer-3318844/",
-      "publishedAt": "2026-02-13T15:41:38+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛后]TES 1-0 TT：团战配合更胜一筹，TES逆风翻盘赢下首局",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641283950.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T12:55:48+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 35,
+      "replyCount": 166,
+      "viewCount": 45158,
+      "topComments": [],
+      "hotScore": 0.707
     },
     {
-      "id": "0b2eac538d4bc96b",
-      "sport": "lol",
-      "title": "Riot confirms 2XKO layoffs as player numbers fall short",
-      "summary": "Riot Games announced layoffs for a number of staff working on 2XKO just two weeks after releasing the title on consoles.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/gaming/riot-confirms-2xko-layoffs-as-player-numbers-fall-short-3316372/",
-      "publishedAt": "2026-02-09T22:23:03+00:00"
+      "id": "hupu-641252471",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 詹姆斯加盟76人！这会让他真打到45岁？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641252471.html",
+      "author": "氧气是个地铁",
+      "publishedAt": "2026-07-24T16:42:52+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 5,
+      "viewCount": 7274,
+      "topComments": [],
+      "hotScore": 0.6928
     },
     {
-      "id": "ee1c22e2e46a9d0c",
-      "sport": "lol",
-      "title": "League of Legends streamer muted by Riot after maine coon cat flops on her desk",
-      "summary": "A LoL streamer and pro player was muted and received an official warning after she mentioned how her cat flopped on her desk.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-streamer-muted-by-riot-after-maine-coon-cat-flops-on-her-desk-3309891/",
-      "publishedAt": "2026-01-26T21:51:53+00:00"
+      "id": "hupu-641256271",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "老将赴费城：勒布朗·詹姆斯加盟76人的三重核心动因解析",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641256271.html",
+      "author": "穹之鸢",
+      "publishedAt": "2026-07-24T18:44:13+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 1,
+      "replyCount": 2,
+      "viewCount": 1848,
+      "topComments": [],
+      "hotScore": 0.6792
     },
     {
-      "id": "d337c5bc1d939953",
-      "sport": "lol",
-      "title": "Ex-WoW lead joins Riot Games in massive boost for League MMO",
-      "summary": "A former World of Warcraft dev has officially joined Riot Games, stepping into a Senior Game Producer role on the studio’s long-awaited MMO.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/ex-wow-lead-joins-riot-games-in-massive-boost-for-league-mmo-3306788/",
-      "publishedAt": "2026-01-20T12:19:36+00:00"
+      "id": "hupu-641285325",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "浙ba萧山队6号高强好帅，什么来头",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641285325.html",
+      "author": "Pipipapabo",
+      "publishedAt": "2026-07-25T13:36:09+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 1501,
+      "topComments": [],
+      "hotScore": 0.67
     },
     {
-      "id": "f88f0e49a7b475ce",
-      "sport": "lol",
-      "title": "LoL streamer Drututt banned on Twitch for joke about how he gets “no women”",
-      "summary": "Twitch has banned League of Legends streamer Drututt for a “misogynistic” hashtag, but the creator says it’s being taken out of context.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/twitch/lol-streamer-drututt-banned-on-twitch-for-joke-about-how-he-gets-no-women-3304131/",
-      "publishedAt": "2026-01-13T20:30:58+00:00"
+      "id": "hupu-641282908",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "这波扣篮什么水平",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641282908.html",
+      "author": "杜小帅KDddd",
+      "publishedAt": "2026-07-25T12:28:01+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 563,
+      "topComments": [],
+      "hotScore": 0.6669
     },
     {
-      "id": "0cf4d93363ea7286",
-      "sport": "lol",
-      "title": "Razer’s Project AVA lets you summon Faker as an AI hologram assistant on your desk",
-      "summary": "Razer has unveiled a new AI-powered desk companion designed to bring virtual assistants off the screen and into the physical world.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/entertainment/razers-project-ava-lets-you-summon-faker-as-an-ai-hologram-assistant-on-your-desk-3301278/",
-      "publishedAt": "2026-01-06T19:44:43+00:00"
+      "id": "hupu-641289560",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "有没有一种可能，国外公认C罗是球王",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641289560.html",
+      "author": "虎扑JR0804472179",
+      "publishedAt": "2026-07-25T15:37:34+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 24,
+      "replyCount": 79,
+      "viewCount": 5813,
+      "topComments": [],
+      "hotScore": 0.6645
     },
     {
-      "id": "87e2eab6b53b034b",
-      "sport": "lol",
-      "title": "League of Legends gets turned off for everyone after 2016 error repeats 10 years later",
-      "summary": "League of Legends was unavailable for many players on January 4, 2026, after the game experienced issues linked to an expired SSL certificate.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-gets-turned-off-for-everyone-after-2016-error-repeats-10-years-later-3300648/",
-      "publishedAt": "2026-01-05T16:26:15+00:00"
+      "id": "hupu-641277002",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "略伦特和费兰度假“亲密照”引热议：两人有化学反应，不止友谊",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641277002.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-25T09:41:42+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 20,
+      "replyCount": 98,
+      "viewCount": 88208,
+      "topComments": [],
+      "hotScore": 0.6428
     },
     {
-      "id": "2da2bb188e0109cd",
+      "id": "hupu-641288287",
       "sport": "lol",
-      "title": "Riot confirms plans for LoL shakeup in 2027 with new visuals & client",
-      "summary": "Riot Games has confirmed plans for a big League of Legends shakeup in 2027, including a new client and a visual overhaul.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/riot-confirms-plans-for-lol-shakeup-in-2027-with-new-visuals-client-3296182/",
-      "publishedAt": "2025-12-18T23:30:53+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Creme三局比赛发挥出色，全票当选TES对战TT系列赛POM",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641288287.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T14:59:19+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 34,
+      "replyCount": 88,
+      "viewCount": 25198,
+      "topComments": [],
+      "hotScore": 0.6338
     },
     {
-      "id": "9ac21f068b415140",
-      "sport": "lol",
-      "title": "League of Legends finally gets WASD controls but not everyone is a fan",
-      "summary": "The League of Legends community is left divided after Riot added WASD controls to the game after sixteen years.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/league-of-legends-finally-gets-wasd-controls-but-not-everyone-is-a-fan-3291819/",
-      "publishedAt": "2025-12-10T02:59:37+00:00"
+      "id": "hupu-641259443",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "连续6届世界杯进球，是不是足球里最不可能被破的记录？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641259443.html",
+      "author": "室友很懂球的",
+      "publishedAt": "2026-07-24T23:29:43+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 13,
+      "replyCount": 130,
+      "viewCount": 2708,
+      "topComments": [],
+      "hotScore": 0.6223
     },
     {
-      "id": "c0835e4a93d45b87",
+      "id": "hupu-641253831",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 詹姆斯加盟76人！他能夺冠加打到45岁吗？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641253831.html",
+      "author": "氧气是个地铁",
+      "publishedAt": "2026-07-24T17:10:32+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 814,
+      "topComments": [],
+      "hotScore": 0.6133
+    },
+    {
+      "id": "hupu-641300260",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 库里，真正的“划时代”",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641300260.html",
+      "author": "JayceXZX",
+      "publishedAt": "2026-07-26T03:14:21+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 615,
+      "topComments": [],
+      "hotScore": 0.6002
+    },
+    {
+      "id": "hupu-641304655",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "C罗历史地位，提升到第4了？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641304655.html",
+      "author": "室友很懂球的",
+      "publishedAt": "2026-07-26T06:19:33+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 8,
+      "replyCount": 126,
+      "viewCount": 2030,
+      "topComments": [],
+      "hotScore": 0.5948
+    },
+    {
+      "id": "hupu-641302634",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "怎么看罗永浩评论梅西近期的风评？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641302634.html",
+      "author": "我从不踢球",
+      "publishedAt": "2026-07-26T04:52:05+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 11,
+      "replyCount": 25,
+      "viewCount": 2396,
+      "topComments": [],
+      "hotScore": 0.5881
+    },
+    {
+      "id": "hupu-641276382",
       "sport": "lol",
-      "title": "Romance novel accused of basing protagonist on LoL icon Faker gets taken down",
-      "summary": "A South Korean “boy love” novel has been suspended after readers accused the author of modeling its main character on LoL superstar Faker.",
-      "source": "Dexerto LoL",
-      "url": "https://www.dexerto.com/league-of-legends/erotic-novel-accused-of-basing-protagonist-on-lol-icon-faker-gets-taken-down-3288205/",
-      "publishedAt": "2025-11-28T18:50:56+00:00"
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "未来和钰姐结婚的男的看到下面这句话会不会破防",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641276382.html",
+      "author": "大胡子松鼠登登明年夺冠",
+      "publishedAt": "2026-07-25T09:17:56+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 28,
+      "replyCount": 91,
+      "viewCount": 37225,
+      "topComments": [],
+      "hotScore": 0.5654
+    },
+    {
+      "id": "hupu-641304758",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]外媒统计统计Oner英雄使用次数TOP5：赵信第一且胜率最高",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641304758.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-26T06:24:02+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 26,
+      "replyCount": 87,
+      "viewCount": 26412,
+      "topComments": [],
+      "hotScore": 0.5634
+    },
+    {
+      "id": "hupu-641280458",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "老叔很厉害啊，没有留洋四人组，中国的哗哗赢球，对方还是nba",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641280458.html",
+      "author": "该队员已被国家队除名",
+      "publishedAt": "2026-07-25T11:28:51+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 796,
+      "topComments": [],
+      "hotScore": 0.5564
+    },
+    {
+      "id": "hupu-641266168",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "征服",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641266168.html",
+      "author": "姜老师傅",
+      "publishedAt": "2026-07-25T03:36:57+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 323,
+      "topComments": [],
+      "hotScore": 0.5346
+    },
+    {
+      "id": "hupu-641266103",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "“乡”聚在宝清！ 2026年全国村BA北部赛区8月15日开赛",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641266103.html",
+      "author": "琪哥娱记",
+      "publishedAt": "2026-07-25T03:34:29+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 279,
+      "topComments": [],
+      "hotScore": 0.5345
+    },
+    {
+      "id": "hupu-641257165",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "老詹换队了",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641257165.html",
+      "author": "LBJ密虐你",
+      "publishedAt": "2026-07-24T19:51:03+00:00",
+      "collectedAt": "2026-07-26T09:29:06.600273+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 286,
+      "topComments": [],
+      "hotScore": 0.513
+    },
+    {
+      "id": "hupu-641290491",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Assum发文：很开心拿下首胜，我会继续加油",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641290491.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T16:09:10+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 34,
+      "replyCount": 76,
+      "viewCount": 34770,
+      "topComments": [],
+      "hotScore": 0.5081
+    },
+    {
+      "id": "hupu-641296594",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "来看看皇马引援对象迪奥曼德的精彩表现，给几分？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641296594.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T00:17:54+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 10,
+      "replyCount": 21,
+      "viewCount": 10827,
+      "topComments": [],
+      "hotScore": 0.4965
+    },
+    {
+      "id": "hupu-641288503",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Creme洛克拿下全球一级联赛首胜，此前LPL三次登场全败",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641288503.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T15:04:42+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 26,
+      "replyCount": 81,
+      "viewCount": 70622,
+      "topComments": [],
+      "hotScore": 0.484
+    },
+    {
+      "id": "hupu-641279486",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "世一上bin为什么连个奥拉夫都练不出来",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641279486.html",
+      "author": "全华班没有冠军",
+      "publishedAt": "2026-07-25T10:59:20+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 30,
+      "replyCount": 76,
+      "viewCount": 47820,
+      "topComments": [],
+      "hotScore": 0.4464
+    },
+    {
+      "id": "hupu-641300636",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[LPL群访]Zhuo：偏职业末期加入到TES完全是一种机遇，希望能进世界赛",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641300636.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-26T03:30:00+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 25,
+      "replyCount": 80,
+      "viewCount": 41792,
+      "topComments": [],
+      "hotScore": 0.4343
+    },
+    {
+      "id": "hupu-641296482",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "乌尔赖希出现逆天失误，友谊拜仁遭德丙球队韦恩绝杀",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641296482.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T00:10:20+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 8,
+      "replyCount": 18,
+      "viewCount": 13501,
+      "topComments": [],
+      "hotScore": 0.4119
+    },
+    {
+      "id": "hupu-641288301",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "说实话小奶油已经是世界前三中单了，别再给滔搏配什么小二zhuo这种一眼看不到上限的了，6年了每年都配不齐阵容对得起双c这种天赋吗？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641288301.html",
+      "author": "桃桃明年也要加油",
+      "publishedAt": "2026-07-25T14:59:45+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 23,
+      "replyCount": 84,
+      "viewCount": 7679,
+      "topComments": [],
+      "hotScore": 0.4075
+    },
+    {
+      "id": "hupu-641296091",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "詹俊提问佩德里：以后离开巴萨考虑加盟利物浦吗",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641296091.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-25T23:40:31+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 9,
+      "replyCount": 16,
+      "viewCount": 26604,
+      "topComments": [],
+      "hotScore": 0.3974
+    },
+    {
+      "id": "hupu-641277679",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "为什么阿根廷的帕雷德斯这么强不在五大？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641277679.html",
+      "author": "明星90是宝宝球星90是老头",
+      "publishedAt": "2026-07-25T10:03:46+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 8,
+      "replyCount": 18,
+      "viewCount": 3158,
+      "topComments": [],
+      "hotScore": 0.3727
+    },
+    {
+      "id": "hupu-641303296",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "突然发现，梅西输球放单人照，赢球放集体照",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641303296.html",
+      "author": "超沐洛",
+      "publishedAt": "2026-07-26T05:21:35+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 5,
+      "replyCount": 23,
+      "viewCount": 2047,
+      "topComments": [],
+      "hotScore": 0.3632
+    },
+    {
+      "id": "hupu-641297487",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "Ning属实是老IG里面最不要脸的，这都能蹭Bin，真当大家忘了让S9都干啥了",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641297487.html",
+      "author": "等JKL拿第二关",
+      "publishedAt": "2026-07-26T01:12:19+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 19,
+      "replyCount": 81,
+      "viewCount": 10096,
+      "topComments": [],
+      "hotScore": 0.3464
+    },
+    {
+      "id": "hupu-641282950",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "【跨越时代梦幻世界杯】已上线，快来亲手决定世界杯冠军",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641282950.html",
+      "author": "虎扑足球",
+      "publishedAt": "2026-07-25T12:28:54+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 5,
+      "replyCount": 24,
+      "viewCount": 9980,
+      "topComments": [],
+      "hotScore": 0.3347
+    },
+    {
+      "id": "hupu-641276870",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "奥亚萨瓦尔踢梅西膝盖",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641276870.html",
+      "author": "梅西遗憾",
+      "publishedAt": "2026-07-25T09:36:36+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 8,
+      "replyCount": 16,
+      "viewCount": 2443,
+      "topComments": [],
+      "hotScore": 0.3346
+    },
+    {
+      "id": "hupu-641281033",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "谢谢 Rookie 还愿意打 LPL",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641281033.html",
+      "author": "中老年lol玩家",
+      "publishedAt": "2026-07-25T11:47:49+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 23,
+      "replyCount": 78,
+      "viewCount": 13754,
+      "topComments": [],
+      "hotScore": 0.3249
+    },
+    {
+      "id": "hupu-641279353",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Wei纳亚菲利打出6/1/8战绩，斩获IG对战WBG次局POG",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641279353.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T10:56:00+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 24,
+      "replyCount": 69,
+      "viewCount": 24322,
+      "topComments": [],
+      "hotScore": 0.2909
+    },
+    {
+      "id": "hupu-641299926",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "巴西球场比赛时遭遇蜂群突然袭击，大家不得不集体趴倒躲避",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641299926.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T03:01:55+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 6,
+      "replyCount": 16,
+      "viewCount": 15393,
+      "topComments": [],
+      "hotScore": 0.2883
+    },
+    {
+      "id": "hupu-641292871",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "董路喷来喷去，自己对中国足球有什么贡献？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641292871.html",
+      "author": "上不了钢哦",
+      "publishedAt": "2026-07-25T17:46:55+00:00",
+      "collectedAt": "2026-07-26T10:05:06.706726+00:00",
+      "score": 3,
+      "replyCount": 19,
+      "viewCount": 905,
+      "topComments": [],
+      "hotScore": 0.2468
+    },
+    {
+      "id": "hupu-641287989",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]赛后采访Zhuo：我前面操作比较丑陋，大家可以随便评价",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641287989.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T14:51:30+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 19,
+      "replyCount": 65,
+      "viewCount": 180424,
+      "topComments": [],
+      "hotScore": 0.1887
+    },
+    {
+      "id": "hupu-641277331",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[JR热议]团战节节败退，首局不敌WBG，这把IG输在了哪里？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641277331.html",
+      "author": "张电视Zzz",
+      "publishedAt": "2026-07-25T09:53:24+00:00",
+      "collectedAt": "2026-07-26T10:05:11.147410+00:00",
+      "score": 20,
+      "replyCount": 64,
+      "viewCount": 26841,
+      "topComments": [],
+      "hotScore": 0.1802
     }
   ]
 }

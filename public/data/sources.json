@@ -15,6 +15,6 @@
     "name": "Dexerto LoL",
     "sport": "lol",
     "url": "https://www.dexerto.com/league-of-legends/feed/",
-    "enabled": true
+    "enabled": false
   }
 ]
