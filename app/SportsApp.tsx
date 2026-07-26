@@ -211,7 +211,7 @@ export default function SportsApp() {
 
     <section className="hero" id="top">
       <div className="eyebrow"><span /> 今日场边简报</div>
-      <h1>少刷一点，<br />看懂今天。</h1>
+      <h1>我们真的<br />没有广告！</h1>
       <p>NBA、欧洲足球与英雄联盟，重要资讯和赛果集中在一个安静的页面里。</p>
       <div className="update-chip"><i /> 最近更新 {relativeTime(feed.updatedAt)}{feed.articles.some((a) => a.demo) && <em>演示模式</em>}</div>
     </section>

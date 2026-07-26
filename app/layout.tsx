@@ -14,8 +14,8 @@ export function generateMetadata(): Metadata {
     appleWebApp: { capable: true, title: "没有广告", statusBarStyle: "black-translucent" },
     formatDetection: { telephone: false },
     icons: { icon: `${basePath}/icon-192.png`, apple: `${basePath}/icon-192.png` },
-    openGraph: { title: "没有广告", description: "少刷一点，看懂今天。", type: "website", url: siteUrl, images: [{ url: `${siteUrl}/og.png`, width: 1733, height: 907, alt: "没有广告体育资讯" }] },
-    twitter: { card: "summary_large_image", title: "没有广告", description: "少刷一点，看懂今天。", images: [`${siteUrl}/og.png`] },
+    openGraph: { title: "没有广告", description: "我们真的没有广告！", type: "website", url: siteUrl, images: [{ url: `${siteUrl}/og.png?v=no-ads-tagline`, width: 1733, height: 907, alt: "没有广告体育资讯" }] },
+    twitter: { card: "summary_large_image", title: "没有广告", description: "我们真的没有广告！", images: [`${siteUrl}/og.png?v=no-ads-tagline`] },
   };
 }
 

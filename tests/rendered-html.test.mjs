@@ -15,7 +15,8 @@ test("服务端渲染没有广告首页", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
   assert.match(html, /没有广告/);
-  assert.match(html, /少刷一点/);
+  assert.match(html, /我们真的/);
+  assert.match(html, /没有广告/);
   assert.match(html, /NBA/);
   assert.match(html, /欧洲足球/);
   assert.match(html, /英雄联盟/);
