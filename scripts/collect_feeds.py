@@ -20,6 +20,7 @@ SOURCES_PATH = ROOT / "public" / "data" / "sources.json"
 FEED_PATH = ROOT / "public" / "data" / "feed.json"
 LOL_SCHEDULE_URL = "https://lolesports.com/en-US?leagues=lpl%2Clck%2Clec"
 LOL_LIVE_STATS_URL = "https://feed.lolesports.com/livestats/v1"
+LOL_COMPLETED_RESULTS_URL = "https://www.strafe.com/calendar/lol/completed/"
 NBA_SCOREBOARD_LEAGUES = (
     ("nba", "NBA"),
     ("nba-summer-las-vegas", "NBA 夏季联赛"),
@@ -42,6 +43,38 @@ TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 EVENT_MARKER = '"__typename":"EventMatch"'
 SHANGHAI = ZoneInfo("Asia/Shanghai")
+LOL_RESULT_TEAM_LABELS = {
+    "AL": "Anyone's Legend",
+    "BLG": "Bilibili Gaming",
+    "EDG": "EDward Gaming",
+    "G2": "G2 Esports",
+    "IG": "Invictus Gaming",
+    "KC": "Karmine Corp",
+    "LGD": "LGD Gaming",
+    "LNG": "LNG Esports",
+    "MKOI": "Movistar KOI",
+    "NIP": "Ninjas in Pyjamas",
+    "TT": "ThunderTalk Gaming",
+    "VIT": "Team Vitality",
+    "WE": "Team WE",
+    "WBG": "Weibo Gaming",
+}
+ENGLISH_WEEKDAYS = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
+ENGLISH_MONTHS = (
+    "",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+)
 
 
 def clean_text(value: str | None) -> str:
@@ -625,6 +658,73 @@ def lol_timestamp(value: datetime) -> str:
     return value.strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
 
+def strafe_date_heading(value: datetime) -> str:
+    return (
+        f"{ENGLISH_WEEKDAYS[value.weekday()]}, "
+        f"{ENGLISH_MONTHS[value.month]} {value.day} {value.year}"
+    )
+
+
+def apply_lol_completed_results(
+    matches: list[dict[str, object]],
+    page: str,
+) -> int:
+    visible_page = re.sub(
+        r"<(?:script|style)[^>]*>.*?</(?:script|style)>",
+        " ",
+        page,
+        flags=re.I | re.S,
+    )
+    text = clean_text(visible_page)
+    updated = 0
+
+    for match in matches:
+        if match.get("status") != "upcoming":
+            continue
+        home = str(match.get("home", ""))
+        away = str(match.get("away", ""))
+        home_label = LOL_RESULT_TEAM_LABELS.get(home, home)
+        away_label = LOL_RESULT_TEAM_LABELS.get(away, away)
+        if not home_label or not away_label:
+            continue
+
+        start_time = datetime.fromisoformat(str(match["startTime"]).replace("Z", "+00:00"))
+        heading = strafe_date_heading(start_time)
+        previous_heading = strafe_date_heading(start_time - timedelta(days=1))
+        day_start = text.find(heading)
+        if day_start < 0:
+            continue
+        day_end = text.find(previous_heading, day_start + len(heading))
+        day_text = text[day_start:day_end if day_end >= 0 else len(text)]
+
+        direct = re.search(
+            rf"{re.escape(home_label)}\s+(?:Win|loss)\s+(\d+)\s+"
+            rf"{re.escape(away_label)}\s+(?:Win|loss)\s+(\d+)",
+            day_text,
+            flags=re.I,
+        )
+        reverse = re.search(
+            rf"{re.escape(away_label)}\s+(?:Win|loss)\s+(\d+)\s+"
+            rf"{re.escape(home_label)}\s+(?:Win|loss)\s+(\d+)",
+            day_text,
+            flags=re.I,
+        )
+        if direct:
+            home_score, away_score = map(int, direct.groups())
+        elif reverse:
+            away_score, home_score = map(int, reverse.groups())
+        else:
+            continue
+
+        match["status"] = "finished"
+        match["homeScore"] = home_score
+        match["awayScore"] = away_score
+        match["source"] = "LoL Esports + Strafe"
+        updated += 1
+
+    return updated
+
+
 def parse_lol_game_details(
     game_id: str,
     game_number: int,
@@ -873,7 +973,18 @@ def fetch_lol_matches() -> list[dict[str, object]]:
                 }
         matches_by_id[match_id] = item
 
-    return sorted(matches_by_id.values(), key=lambda item: str(item["startTime"]))[:12]
+    matches = sorted(matches_by_id.values(), key=lambda item: str(item["startTime"]))[:12]
+    try:
+        completed_page = fetch_bytes(LOL_COMPLETED_RESULTS_URL, timeout=20).decode(
+            "utf-8",
+            errors="replace",
+        )
+        updated = apply_lol_completed_results(matches, completed_page)
+        if updated:
+            print(f"成功：Strafe 补全 {updated} 场 LoL 已结束赛果。")
+    except Exception as exc:
+        print(f"LoL 已结束赛果兜底读取失败：{exc}", file=sys.stderr)
+    return matches
 
 
 def merge_cached_lol_details(

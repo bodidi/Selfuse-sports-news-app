@@ -256,6 +256,55 @@ class FeedRefreshTests(unittest.TestCase):
 
 
 class LolDetailsTests(unittest.TestCase):
+    def test_completed_results_override_stale_unstarted_match(self) -> None:
+        matches = [{
+            "id": "lol-1",
+            "sport": "lol",
+            "competition": "LPL · Split 3 2026",
+            "startTime": "2026-07-26T09:00:00+00:00",
+            "status": "upcoming",
+            "home": "EDG",
+            "away": "TT",
+            "source": "LoL Esports",
+        }]
+        page = """
+        <section>
+          <h2>Sunday, July 26 2026</h2>
+          <div>ThunderTalk Gaming Win 2 EDward Gaming loss 0</div>
+          <h2>Saturday, July 25 2026</h2>
+        </section>
+        """
+
+        updated = collect_feeds.apply_lol_completed_results(matches, page)
+
+        self.assertEqual(updated, 1)
+        self.assertEqual(matches[0]["status"], "finished")
+        self.assertEqual(matches[0]["homeScore"], 0)
+        self.assertEqual(matches[0]["awayScore"], 2)
+        self.assertEqual(matches[0]["source"], "LoL Esports + Strafe")
+
+    def test_completed_results_do_not_use_previous_days_rematch(self) -> None:
+        matches = [{
+            "id": "lol-2",
+            "sport": "lol",
+            "competition": "LPL · Split 3 2026",
+            "startTime": "2026-07-26T11:00:00+00:00",
+            "status": "upcoming",
+            "home": "BLG",
+            "away": "AL",
+        }]
+        page = """
+        <h2>Sunday, July 26 2026</h2>
+        <div>Other Team Win 2 Another Team loss 0</div>
+        <h2>Saturday, July 25 2026</h2>
+        <div>Bilibili Gaming Win 2 Anyone's Legend loss 0</div>
+        """
+
+        updated = collect_feeds.apply_lol_completed_results(matches, page)
+
+        self.assertEqual(updated, 0)
+        self.assertEqual(matches[0]["status"], "upcoming")
+
     def test_parses_finished_game_details(self) -> None:
         participants = [
             {
