@@ -37,6 +37,7 @@ test("包含可安装和离线运行所需资源", async () => {
   assert.deepEqual(new Set(feed.articles.map((item) => item.sport)), new Set(["nba", "football"]));
   const lolMatches = feed.matches.filter((item) => item.sport === "lol");
   const nbaMatches = feed.matches.filter((item) => item.sport === "nba");
+  const footballMatches = feed.matches.filter((item) => item.sport === "football");
   assert.ok(nbaMatches.length >= 1);
   assert.ok(nbaMatches.every((item) => item.source === "ESPN"));
   assert.ok(nbaMatches.every((item) => !item.demo && item.startTime));
@@ -44,6 +45,10 @@ test("包含可安装和离线运行所需资源", async () => {
   assert.ok(nbaMatches.every((item) => item.details.teamStats.length === 2));
   assert.ok(nbaMatches.every((item) => item.details.playerStats.length === 2));
   assert.ok(nbaMatches.every((item) => item.details.leaders.length === 2));
+  assert.ok(footballMatches.length >= 1);
+  assert.ok(footballMatches.every((item) => item.source === "ESPN"));
+  assert.ok(footballMatches.every((item) => !item.demo && item.startTime));
+  assert.ok(footballMatches.every((item) => ["英超", "西甲", "意甲", "德甲", "法甲", "欧冠"].includes(item.competition)));
   assert.ok(lolMatches.length >= 1);
   assert.ok(lolMatches.every((item) => item.source === "LoL Esports"));
   assert.ok(lolMatches.every((item) => !item.demo && item.startTime));

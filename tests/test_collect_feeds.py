@@ -144,6 +144,52 @@ class NbaScheduleTests(unittest.TestCase):
         self.assertEqual(details["leaders"][0]["categories"][0]["athlete"], "Test Player")
 
 
+class FootballScheduleTests(unittest.TestCase):
+    def test_parses_finished_match_and_scores(self) -> None:
+        start_time = datetime.now(timezone.utc).isoformat()
+        payload = {
+            "events": [{
+                "id": "701",
+                "date": start_time,
+                "status": {"type": {"completed": True, "state": "post"}},
+                "competitions": [{"competitors": [
+                    {
+                        "homeAway": "home",
+                        "score": "2",
+                        "team": {"shortDisplayName": "Arsenal"},
+                    },
+                    {
+                        "homeAway": "away",
+                        "score": "1",
+                        "team": {"shortDisplayName": "Liverpool"},
+                    },
+                ]}],
+            }]
+        }
+        def fetch(url: str, **_: object) -> bytes:
+            value = payload if "/eng.1/" in url else {"events": []}
+            return json.dumps(value).encode("utf-8")
+
+        with patch.object(collect_feeds, "fetch_bytes", side_effect=fetch):
+            matches = collect_feeds.fetch_football_matches()
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0]["competition"], "英超")
+        self.assertEqual(matches[0]["home"], "Arsenal")
+        self.assertEqual(matches[0]["away"], "Liverpool")
+        self.assertEqual(matches[0]["homeScore"], 2)
+        self.assertEqual(matches[0]["awayScore"], 1)
+        self.assertEqual(matches[0]["status"], "finished")
+        self.assertEqual(matches[0]["source"], "ESPN")
+
+    def test_successful_empty_sources_return_empty_schedule(self) -> None:
+        with patch.object(
+            collect_feeds,
+            "fetch_bytes",
+            return_value=b'{"events":[]}',
+        ):
+            self.assertEqual(collect_feeds.fetch_football_matches(), [])
+
+
 class LolDetailsTests(unittest.TestCase):
     def test_parses_finished_game_details(self) -> None:
         participants = [

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""零依赖体育聚合器：抓取 RSS、LoL Esports 赛程与虎扑社区热帖。"""
+"""零依赖体育聚合器：抓取 RSS、篮球/足球/LoL 赛程与虎扑社区热帖。"""
 from __future__ import annotations
 
 import email.utils
@@ -23,6 +23,14 @@ LOL_LIVE_STATS_URL = "https://feed.lolesports.com/livestats/v1"
 NBA_SCOREBOARD_LEAGUES = (
     ("nba", "NBA"),
     ("nba-summer-las-vegas", "NBA 夏季联赛"),
+)
+FOOTBALL_SCOREBOARD_LEAGUES = (
+    ("eng.1", "英超"),
+    ("esp.1", "西甲"),
+    ("ita.1", "意甲"),
+    ("ger.1", "德甲"),
+    ("fra.1", "法甲"),
+    ("uefa.champions", "欧冠"),
 )
 HUPU_BOARDS = {
     "nba": {"url": "https://bbs.hupu.com/nba-hot", "board": "虎扑篮球场"},
@@ -498,6 +506,89 @@ def fetch_nba_matches() -> list[dict[str, object]]:
     return sorted(matches_by_id.values(), key=lambda item: str(item["startTime"]))[:12]
 
 
+def fetch_football_matches() -> list[dict[str, object]]:
+    now = datetime.now(timezone.utc)
+    date_from = (now - timedelta(days=7)).strftime("%Y%m%d")
+    date_to = (now + timedelta(days=30)).strftime("%Y%m%d")
+    matches_by_id: dict[str, dict[str, object]] = {}
+    successful_sources = 0
+    errors: list[str] = []
+
+    for league_slug, competition_name in FOOTBALL_SCOREBOARD_LEAGUES:
+        league_matches: list[dict[str, object]] = []
+        url = (
+            "https://site.api.espn.com/apis/site/v2/sports/soccer/"
+            f"{league_slug}/scoreboard?dates={date_from}-{date_to}&limit=100"
+        )
+        try:
+            payload = json.loads(fetch_bytes(url).decode("utf-8"))
+            successful_sources += 1
+        except Exception as exc:
+            errors.append(f"{league_slug}: {exc}")
+            continue
+
+        for event in payload.get("events", []):
+            event_id = str(event.get("id", ""))
+            start_value = str(event.get("date", ""))
+            competitions = event.get("competitions", [])
+            if not event_id or not start_value or not competitions:
+                continue
+            try:
+                start_time = datetime.fromisoformat(start_value.replace("Z", "+00:00"))
+            except ValueError:
+                continue
+            competitors = competitions[0].get("competitors", [])
+            home_team = next((team for team in competitors if team.get("homeAway") == "home"), None)
+            away_team = next((team for team in competitors if team.get("homeAway") == "away"), None)
+            if not home_team or not away_team:
+                continue
+
+            status_type = event.get("status", {}).get("type", {})
+            if status_type.get("completed"):
+                status = "finished"
+            elif status_type.get("state") == "in":
+                status = "live"
+            else:
+                status = "upcoming"
+
+            def team_label(team: dict[str, object]) -> str:
+                details = team.get("team") if isinstance(team.get("team"), dict) else {}
+                return str(
+                    details.get("shortDisplayName")
+                    or details.get("abbreviation")
+                    or details.get("displayName")
+                )
+
+            item: dict[str, object] = {
+                "id": f"football-{event_id}",
+                "sport": "football",
+                "competition": competition_name,
+                "home": team_label(home_team),
+                "away": team_label(away_team),
+                "status": status,
+                "time": match_time_label(start_time),
+                "startTime": start_time.isoformat(),
+                "source": "ESPN",
+            }
+            if status in {"live", "finished"}:
+                try:
+                    item["homeScore"] = int(float(str(home_team.get("score", 0))))
+                    item["awayScore"] = int(float(str(away_team.get("score", 0))))
+                except ValueError:
+                    pass
+            league_matches.append(item)
+
+        for item in sorted(
+            league_matches,
+            key=lambda match: str(match["startTime"]),
+        )[:4]:
+            matches_by_id.setdefault(str(item["id"]), item)
+
+    if successful_sources == 0:
+        raise RuntimeError("; ".join(errors) or "足球赛程来源均不可用")
+    return sorted(matches_by_id.values(), key=lambda item: str(item["startTime"]))[:24]
+
+
 def lol_timestamp(value: datetime) -> str:
     value = value.astimezone(timezone.utc).replace(
         second=(value.second // 10) * 10,
@@ -793,6 +884,22 @@ def refresh_lol_only() -> int:
     return 0
 
 
+def refresh_football_only() -> int:
+    old_feed = json.loads(FEED_PATH.read_text(encoding="utf-8-sig"))
+    old_matches = old_feed.get("matches", [])
+    football_matches = fetch_football_matches()
+    old_feed["matches"] = [
+        item for item in old_matches if item.get("sport") != "football"
+    ] + football_matches
+    old_feed["updatedAt"] = datetime.now(timezone.utc).isoformat()
+    FEED_PATH.write_text(
+        json.dumps(old_feed, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"完成：更新 {len(football_matches)} 场欧洲足球赛程。")
+    return 0
+
+
 def main() -> int:
     sources = json.loads(SOURCES_PATH.read_text(encoding="utf-8-sig"))
     old_feed = json.loads(FEED_PATH.read_text(encoding="utf-8-sig"))
@@ -838,6 +945,28 @@ def main() -> int:
         print(f"失败：NBA 赛程：{exc}，保留 {len(cached_nba)} 场旧的真实赛程。", file=sys.stderr)
 
     try:
+        football_matches = fetch_football_matches()
+        matches = [
+            item for item in matches if item.get("sport") != "football"
+        ] + football_matches
+        if football_matches:
+            print(f"成功：欧洲足球近期赛程，{len(football_matches)} 场")
+        else:
+            print("成功：欧洲足球赛程来源可用，当前窗口暂无比赛。")
+    except Exception as exc:
+        cached_football = [
+            item for item in old_matches
+            if item.get("sport") == "football" and not item.get("demo")
+        ]
+        matches = [
+            item for item in matches if item.get("sport") != "football"
+        ] + cached_football
+        print(
+            f"失败：欧洲足球赛程：{exc}，保留 {len(cached_football)} 场旧的真实赛程。",
+            file=sys.stderr,
+        )
+
+    try:
         lol_matches = fetch_lol_matches()
         if lol_matches:
             lol_matches = merge_cached_lol_details(old_matches, lol_matches)
@@ -861,4 +990,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(refresh_lol_only() if "--lol-only" in sys.argv else main())
+    if "--lol-only" in sys.argv:
+        raise SystemExit(refresh_lol_only())
+    if "--football-only" in sys.argv:
+        raise SystemExit(refresh_football_only())
+    raise SystemExit(main())
