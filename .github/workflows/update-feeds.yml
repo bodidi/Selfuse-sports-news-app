@@ -1,5 +1,12 @@
 name: 更新体育资讯
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/collect_feeds.py"
+      - "public/data/sources.json"
+      - ".github/workflows/update-feeds.yml"
   workflow_dispatch:
   schedule:
     - cron: "17,47 * * * *"
