@@ -16,6 +16,8 @@ type Match = { id: string; sport: Exclude<Sport, "all">; competition: string; ho
 type CommunityPost = { id: string; sport: Exclude<Sport, "all">; platform: "hupu"; region: string; board: string; title: string; excerpt: string; url: string; author: string; publishedAt: string; collectedAt: string; score: number; replyCount: number; viewCount?: number; hotScore: number; topComments: { text: string; score: number }[]; demo?: boolean };
 type Feed = { updatedAt: string; articles: Article[]; matches: Match[]; communityPosts: CommunityPost[] };
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 const meta = {
   all: { label: "全部", mark: "总" }, nba: { label: "NBA", mark: "篮" },
   football: { label: "欧洲足球", mark: "足" }, lol: { label: "英雄联盟", mark: "竞" },
@@ -174,8 +176,8 @@ export default function SportsApp() {
   useEffect(() => {
     const saved = window.localStorage.getItem("sideline-favorites");
     if (saved) queueMicrotask(() => { try { setFavorites(JSON.parse(saved)); } catch { /* 忽略损坏的本地数据 */ } });
-    fetch("/data/feed.json", { cache: "no-store" }).then((r) => r.ok ? r.json() : Promise.reject()).then((data: Feed) => setFeed({ ...data, communityPosts: data.communityPosts ?? [] })).catch(() => setFeed(fallback)).finally(() => setLoading(false));
-    if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => undefined);
+    fetch(`${basePath}/data/feed.json`, { cache: "no-store" }).then((r) => r.ok ? r.json() : Promise.reject()).then((data: Feed) => setFeed({ ...data, communityPosts: data.communityPosts ?? [] })).catch(() => setFeed(fallback)).finally(() => setLoading(false));
+    if ("serviceWorker" in navigator) navigator.serviceWorker.register(`${basePath}/sw.js`, { scope: `${basePath}/` }).catch(() => undefined);
     const onInstall = (event: Event) => { event.preventDefault(); setInstallEvent(event); };
     window.addEventListener("beforeinstallprompt", onInstall);
     return () => window.removeEventListener("beforeinstallprompt", onInstall);
