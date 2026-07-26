@@ -26,9 +26,9 @@ const meta = {
 const fallback: Feed = {
   updatedAt: "2026-07-25T12:00:00+08:00",
   communityPosts: [
-    { id: "c-nba", sport: "nba", platform: "hupu", region: "china", board: "虎扑篮球场", title: "NBA 社区热帖正在读取", excerpt: "这里会展示虎扑篮球场的热门讨论与代表性高亮评论。", url: "https://bbs.hupu.com/nba", author: "边线指南", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
-    { id: "c-football", sport: "football", platform: "hupu", region: "china", board: "虎扑足球话题区", title: "欧洲足球社区热帖正在读取", excerpt: "这里会展示虎扑足球话题区的热门讨论与代表性高亮评论。", url: "https://bbs.hupu.com/topic", author: "边线指南", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
-    { id: "c1", sport: "lol", platform: "hupu", region: "china", board: "虎扑英雄联盟", title: "社区热帖模块正在读取最新讨论", excerpt: "这里会展示来自公开社区的热门帖子、互动数据和代表性高赞评论。", url: "https://bbs.hupu.com/lol", author: "边线指南", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
+    { id: "c-nba", sport: "nba", platform: "hupu", region: "china", board: "虎扑篮球场", title: "NBA 社区热帖正在读取", excerpt: "这里会展示虎扑篮球场的热门讨论与代表性高亮评论。", url: "https://bbs.hupu.com/nba", author: "没有广告", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
+    { id: "c-football", sport: "football", platform: "hupu", region: "china", board: "虎扑足球话题区", title: "欧洲足球社区热帖正在读取", excerpt: "这里会展示虎扑足球话题区的热门讨论与代表性高亮评论。", url: "https://bbs.hupu.com/topic", author: "没有广告", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
+    { id: "c1", sport: "lol", platform: "hupu", region: "china", board: "虎扑英雄联盟", title: "社区热帖模块正在读取最新讨论", excerpt: "这里会展示来自公开社区的热门帖子、互动数据和代表性高赞评论。", url: "https://bbs.hupu.com/lol", author: "没有广告", publishedAt: "2026-07-25T11:00:00+08:00", collectedAt: "2026-07-25T12:00:00+08:00", score: 0, replyCount: 0, hotScore: 0, topComments: [], demo: true },
   ],
   matches: [
     { id: "m1", sport: "nba", competition: "NBA", home: "主队", away: "客队", status: "upcoming", time: "明日 08:00", demo: true },
@@ -36,8 +36,8 @@ const fallback: Feed = {
     { id: "m3", sport: "lol", competition: "职业联赛", home: "蓝色方", away: "红色方", status: "upcoming", time: "今日 17:00", demo: true },
   ],
   articles: [
-    { id: "a1", sport: "nba", title: "NBA 频道已准备好接收最新资讯", summary: "启用 RSS 数据源后，这里会自动展示联盟、球队和球员动态，并保留原文链接。", source: "边线指南", url: "#sources", publishedAt: "2026-07-25T11:45:00+08:00", featured: true, demo: true },
-    { id: "a2", sport: "football", title: "欧洲足球频道覆盖主要赛事与俱乐部动态", summary: "第一版聚合赛程、赛果、转会和伤病信息，并按来源与发布时间排列。", source: "边线指南", url: "#sources", publishedAt: "2026-07-25T11:20:00+08:00", featured: true, demo: true },
+    { id: "a1", sport: "nba", title: "NBA 频道已准备好接收最新资讯", summary: "启用 RSS 数据源后，这里会自动展示联盟、球队和球员动态，并保留原文链接。", source: "没有广告", url: "#sources", publishedAt: "2026-07-25T11:45:00+08:00", featured: true, demo: true },
+    { id: "a2", sport: "football", title: "欧洲足球频道覆盖主要赛事与俱乐部动态", summary: "第一版聚合赛程、赛果、转会和伤病信息，并按来源与发布时间排列。", source: "没有广告", url: "#sources", publishedAt: "2026-07-25T11:20:00+08:00", featured: true, demo: true },
     { id: "a4", sport: "nba", title: "资讯会自动去除完全重复的标题和链接", summary: "轻量去重不依赖付费 AI，适合个人低成本使用。", source: "功能说明", url: "#about", publishedAt: "2026-07-25T10:10:00+08:00", demo: true },
     { id: "a5", sport: "football", title: "在手机浏览器中添加到主屏幕即可安装", summary: "安装后会以独立窗口打开，并缓存最近一次成功加载的内容。", source: "功能说明", url: "#install", publishedAt: "2026-07-25T09:30:00+08:00", demo: true },
   ],
@@ -205,7 +205,7 @@ export default function SportsApp() {
 
   return <main>
     <header className="topbar">
-      <a className="brand" href="#top" aria-label="边线首页"><span className="brand-mark">边</span><span>边线</span></a>
+      <a className="brand" href="#top" aria-label="没有广告首页"><span className="brand-mark">无</span><span>没有广告</span></a>
       <div className="top-actions"><button className="icon-button" onClick={() => window.location.reload()} aria-label="刷新资讯">↻</button><button className="install-button" onClick={install}>安装到手机</button></div>
     </header>
 
@@ -278,8 +278,8 @@ export default function SportsApp() {
       <div><b>01</b><h3>免费来源</h3><p>RSS、官方赛程与公开社区入口，只保留必要摘要和原文链接。</p></div><div><b>02</b><h3>定时整理</h3><p>采集脚本按平台归一化热度，并生成一个轻量 JSON 文件。</p></div><div><b>03</b><h3>手机查看</h3><p>无需账号，收藏和设置都只保存在当前设备。</p></div>
     </div></section>
 
-    <section className="install-guide" id="install"><div className="phone-glyph">+</div><div><span className="section-kicker">ADD TO HOME SCREEN</span><h2>把边线放到手机桌面</h2><p>Android 使用浏览器菜单中的“安装应用”；iPhone 使用 Safari 的“分享 → 添加到主屏幕”。</p></div></section>
-    <footer id="about"><a className="brand" href="#top"><span className="brand-mark">边</span><span>边线</span></a><p>为个人阅读而做 · 原文版权归各来源所有</p></footer>
+    <section className="install-guide" id="install"><div className="phone-glyph">+</div><div><span className="section-kicker">ADD TO HOME SCREEN</span><h2>把“没有广告”放到手机桌面</h2><p>Android 使用浏览器菜单中的“安装应用”；iPhone 使用 Safari 的“分享 → 添加到主屏幕”。</p></div></section>
+    <footer id="about"><a className="brand" href="#top"><span className="brand-mark">无</span><span>没有广告</span></a><p>无广告 · 为个人阅读而做 · 原文版权归各来源所有</p></footer>
     <nav className="mobile-nav" aria-label="移动端导航"><a href="#top"><span>⌂</span>今日</a><a href="#news-title"><span>≡</span>资讯</a><a href="#matches-title"><span>▣</span>比赛</a><button onClick={() => setFavoritesOnly(!favoritesOnly)}><span>☆</span>收藏</button></nav>
   </main>;
 }

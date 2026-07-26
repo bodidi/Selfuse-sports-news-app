@@ -9,12 +9,12 @@ async function render() {
   return worker.fetch(new Request("http://localhost/", { headers: { accept: "text/html" } }), { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } }, { waitUntil() {}, passThroughOnException() {} });
 }
 
-test("服务端渲染边线首页", async () => {
+test("服务端渲染没有广告首页", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
-  assert.match(html, /边线/);
+  assert.match(html, /没有广告/);
   assert.match(html, /少刷一点/);
   assert.match(html, /NBA/);
   assert.match(html, /欧洲足球/);

@@ -1,4 +1,4 @@
-const CACHE_NAME = "sideline-v2";
+const CACHE_NAME = "no-ads-v3";
 const APP_ROOT = self.registration.scope;
 const APP_SHELL = ["", "manifest.webmanifest", "data/feed.json"].map(path => new URL(path, APP_ROOT).href);
 self.addEventListener("install", event => { event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL))); self.skipWaiting(); });
