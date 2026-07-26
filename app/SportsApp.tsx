@@ -49,6 +49,13 @@ function relativeTime(value: string) {
   const hours = Math.round(minutes / 60);
   return hours < 24 ? `${hours} 小时前` : `${Math.round(hours / 24)} 天前`;
 }
+
+function competitionKey(match: Match) {
+  return match.sport === "lol" ? match.competition.split(" · ", 1)[0] : match.competition;
+}
+
+const leagueOrder = ["英超", "西甲", "意甲", "德甲", "法甲", "欧冠", "LPL", "LCK", "LEC"];
+
 function ScoreCard({ match, onSelect }: { match: Match; onSelect?: () => void }) {
   const scored = match.homeScore !== undefined && match.awayScore !== undefined;
   return <article className={`score-card sport-${match.sport} ${onSelect ? "clickable" : ""}`} onClick={onSelect} onKeyDown={(event) => { if (onSelect && (event.key === "Enter" || event.key === " ")) { event.preventDefault(); onSelect(); } }} role={onSelect ? "button" : undefined} tabIndex={onSelect ? 0 : undefined} aria-label={onSelect ? `查看 ${match.away} 对 ${match.home} 比赛详情` : undefined}>
@@ -172,6 +179,7 @@ export default function SportsApp() {
   const [communitySort, setCommunitySort] = useState<"hot" | "new">("hot");
   const [expandedPosts, setExpandedPosts] = useState<string[]>([]);
   const [selectedMatchId, setSelectedMatchId] = useState<string | null>(null);
+  const [activeLeague, setActiveLeague] = useState("all");
 
   useEffect(() => {
     const saved = window.localStorage.getItem("sideline-favorites");
@@ -184,7 +192,26 @@ export default function SportsApp() {
   }, []);
 
   const articles = useMemo(() => feed.articles.filter((a) => (active === "all" || a.sport === active) && (!favoritesOnly || favorites.includes(a.id))), [active, favorites, favoritesOnly, feed.articles]);
-  const matches = feed.matches.filter((m) => active === "all" || m.sport === active);
+  const leagueOptions = useMemo(() => {
+    if (active !== "football" && active !== "lol") return [];
+    return [...new Set(
+      feed.matches
+        .filter((match) => match.sport === active)
+        .map(competitionKey),
+    )].sort((left, right) => {
+      const leftIndex = leagueOrder.indexOf(left);
+      const rightIndex = leagueOrder.indexOf(right);
+      if (leftIndex === -1 && rightIndex === -1) return left.localeCompare(right, "zh-CN");
+      if (leftIndex === -1) return 1;
+      if (rightIndex === -1) return -1;
+      return leftIndex - rightIndex;
+    });
+  }, [active, feed.matches]);
+  const matches = feed.matches.filter((match) => {
+    if (active !== "all" && match.sport !== active) return false;
+    if (activeLeague === "all" || (active !== "football" && active !== "lol")) return true;
+    return competitionKey(match) === activeLeague;
+  });
   const featured = feed.articles.find((a) => a.featured && (active === "all" || a.sport === active)) ?? articles[0];
   const communityPosts = useMemo(() => {
     const filtered = feed.communityPosts.filter((post) => (active === "all" || post.sport === active) && (!favoritesOnly || favorites.includes(post.id)));
@@ -217,8 +244,13 @@ export default function SportsApp() {
     </section>
 
     <nav className="sport-tabs" aria-label="项目筛选">
-      {(Object.keys(meta) as Sport[]).map((sport) => <button key={sport} className={active === sport ? "active" : ""} onClick={() => setActive(sport)}><span>{meta[sport].mark}</span>{meta[sport].label}</button>)}
+      {(Object.keys(meta) as Sport[]).map((sport) => <button key={sport} className={active === sport ? "active" : ""} onClick={() => { setActive(sport); setActiveLeague("all"); setSelectedMatchId(null); }}><span>{meta[sport].mark}</span>{meta[sport].label}</button>)}
     </nav>
+
+    {(active === "football" || active === "lol") && leagueOptions.length > 0 && <nav className={`league-tabs sport-${active}`} aria-label={`${meta[active].label}联赛筛选`}>
+      <button className={activeLeague === "all" ? "active" : ""} onClick={() => setActiveLeague("all")}>全部联赛</button>
+      {leagueOptions.map((league) => <button key={league} className={activeLeague === league ? "active" : ""} onClick={() => { setActiveLeague(league); setSelectedMatchId(null); }}>{league}</button>)}
+    </nav>}
 
     <section className="section scores-section" aria-labelledby="matches-title">
       <div className="section-heading"><div><span className="section-kicker">MATCH CENTER</span><h2 id="matches-title">今日比赛</h2></div><span className="count">{matches.length} 场</span></div>
