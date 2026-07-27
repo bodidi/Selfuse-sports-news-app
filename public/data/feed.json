@@ -1,1468 +1,6 @@
 {
-  "updatedAt": "2026-07-26T23:15:49.554603+00:00",
+  "updatedAt": "2026-07-27T00:15:52.301479+00:00",
   "matches": [
-    {
-      "id": "nba-401881720",
-      "sport": "nba",
-      "competition": "NBA 夏季联赛",
-      "home": "OKC",
-      "away": "BKN",
-      "status": "finished",
-      "time": "7月20日 04:30",
-      "startTime": "2026-07-19T20:30:00+00:00",
-      "source": "ESPN",
-      "homeScore": 90,
-      "awayScore": 108,
-      "details": {
-        "venue": "Thomas & Mack Center",
-        "broadcasts": [
-          "ESPN"
-        ],
-        "teamStats": [
-          {
-            "team": "BKN",
-            "values": {
-              "FG": "41-79",
-              "FG%": "52",
-              "3PT": "9-27",
-              "3P%": "33",
-              "FT": "10-16",
-              "FT%": "63",
-              "REB": "46",
-              "AST": "24",
-              "STL": "14",
-              "BLK": "7",
-              "TO": "19"
-            }
-          },
-          {
-            "team": "OKC",
-            "values": {
-              "FG": "29-77",
-              "FG%": "38",
-              "3PT": "12-40",
-              "3P%": "30",
-              "FT": "12-14",
-              "FT%": "86",
-              "REB": "35",
-              "AST": "19",
-              "STL": "12",
-              "BLK": "6",
-              "TO": "19"
-            }
-          }
-        ],
-        "playerStats": [
-          {
-            "team": "BKN",
-            "athletes": [
-              {
-                "name": "Dain Dainja",
-                "jersey": "44",
-                "position": "C",
-                "starter": true,
-                "stats": {
-                  "MIN": "24",
-                  "PTS": "14",
-                  "FG": "7-9",
-                  "3PT": "0-0",
-                  "FT": "0-2",
-                  "REB": "8",
-                  "AST": "0",
-                  "TO": "2",
-                  "STL": "3",
-                  "BLK": "3",
-                  "PF": "4",
-                  "+/-": "+18"
-                }
-              },
-              {
-                "name": "Ben Humrichous",
-                "jersey": "12",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "26",
-                  "PTS": "6",
-                  "FG": "2-6",
-                  "3PT": "2-6",
-                  "FT": "0-0",
-                  "REB": "6",
-                  "AST": "2",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "1",
-                  "PF": "1",
-                  "+/-": "+28"
-                }
-              },
-              {
-                "name": "Dion Brown",
-                "jersey": "33",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "31",
-                  "PTS": "16",
-                  "FG": "5-12",
-                  "3PT": "2-3",
-                  "FT": "2-2",
-                  "REB": "10",
-                  "AST": "11",
-                  "TO": "5",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "+4"
-                }
-              },
-              {
-                "name": "Hunter Sallis",
-                "jersey": "55",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "28",
-                  "PTS": "12",
-                  "FG": "4-9",
-                  "3PT": "0-2",
-                  "FT": "2-3",
-                  "REB": "1",
-                  "AST": "3",
-                  "TO": "4",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "-4"
-                }
-              },
-              {
-                "name": "Dwight Murray Jr.",
-                "jersey": "26",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "30",
-                  "PTS": "10",
-                  "FG": "4-12",
-                  "3PT": "2-5",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "3",
-                  "TO": "4",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "+18"
-                }
-              },
-              {
-                "name": "Duke Brennan",
-                "jersey": "42",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "16",
-                  "PTS": "12",
-                  "FG": "4-7",
-                  "3PT": "0-1",
-                  "FT": "2-2",
-                  "REB": "4",
-                  "AST": "1",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "0"
-                }
-              },
-              {
-                "name": "Aaron Scott",
-                "jersey": "10",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "21",
-                  "PTS": "15",
-                  "FG": "6-8",
-                  "3PT": "0-2",
-                  "FT": "2-2",
-                  "REB": "5",
-                  "AST": "2",
-                  "TO": "0",
-                  "STL": "5",
-                  "BLK": "1",
-                  "PF": "1",
-                  "+/-": "+13"
-                }
-              },
-              {
-                "name": "John Ukomadu",
-                "jersey": "7",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "24",
-                  "PTS": "23",
-                  "FG": "9-16",
-                  "3PT": "3-8",
-                  "FT": "2-5",
-                  "REB": "9",
-                  "AST": "2",
-                  "TO": "3",
-                  "STL": "2",
-                  "BLK": "2",
-                  "PF": "1",
-                  "+/-": "+13"
-                }
-              }
-            ]
-          },
-          {
-            "team": "OKC",
-            "athletes": [
-              {
-                "name": "Sam Alexis",
-                "jersey": "40",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "19",
-                  "PTS": "6",
-                  "FG": "2-3",
-                  "3PT": "1-1",
-                  "FT": "1-2",
-                  "REB": "6",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "3",
-                  "PF": "3",
-                  "+/-": "-1"
-                }
-              },
-              {
-                "name": "Bryce Harris",
-                "jersey": "41",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "24",
-                  "PTS": "13",
-                  "FG": "3-9",
-                  "3PT": "1-5",
-                  "FT": "4-4",
-                  "REB": "10",
-                  "AST": "3",
-                  "TO": "2",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-11"
-                }
-              },
-              {
-                "name": "Lamar Wilkerson",
-                "jersey": "42",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "26",
-                  "PTS": "6",
-                  "FG": "3-16",
-                  "3PT": "0-5",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "5",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "-7"
-                }
-              },
-              {
-                "name": "Steven Ashworth",
-                "jersey": "18",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "21",
-                  "PTS": "22",
-                  "FG": "5-9",
-                  "3PT": "4-8",
-                  "FT": "4-5",
-                  "REB": "2",
-                  "AST": "4",
-                  "TO": "4",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "-7"
-                }
-              },
-              {
-                "name": "Buddy Boeheim",
-                "jersey": "27",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "19",
-                  "PTS": "3",
-                  "FG": "1-4",
-                  "3PT": "1-2",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "2",
-                  "TO": "4",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-26"
-                }
-              },
-              {
-                "name": "Nate Johnson",
-                "jersey": "31",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "21",
-                  "PTS": "6",
-                  "FG": "2-7",
-                  "3PT": "0-4",
-                  "FT": "1-1",
-                  "REB": "2",
-                  "AST": "3",
-                  "TO": "4",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-21"
-                }
-              },
-              {
-                "name": "Elijah Mahi",
-                "jersey": "28",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "20",
-                  "PTS": "3",
-                  "FG": "1-3",
-                  "3PT": "1-2",
-                  "FT": "0-0",
-                  "REB": "2",
-                  "AST": "1",
-                  "TO": "2",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "+3"
-                }
-              },
-              {
-                "name": "Andrew Holifield",
-                "jersey": "29",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "26",
-                  "PTS": "14",
-                  "FG": "5-10",
-                  "3PT": "2-6",
-                  "FT": "1-1",
-                  "REB": "4",
-                  "AST": "1",
-                  "TO": "2",
-                  "STL": "3",
-                  "BLK": "3",
-                  "PF": "5",
-                  "+/-": "-15"
-                }
-              },
-              {
-                "name": "Jabri Abdur-Rahim",
-                "jersey": "33",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "24",
-                  "PTS": "17",
-                  "FG": "7-16",
-                  "3PT": "2-7",
-                  "FT": "1-1",
-                  "REB": "3",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-5"
-                }
-              }
-            ]
-          }
-        ],
-        "leaders": [
-          {
-            "team": "OKC",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "Steven Ashworth",
-                "value": "22"
-              },
-              {
-                "label": "Assists",
-                "athlete": "Lamar Wilkerson",
-                "value": "5"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Bryce Harris",
-                "value": "10"
-              }
-            ]
-          },
-          {
-            "team": "BKN",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "John Ukomadu",
-                "value": "23"
-              },
-              {
-                "label": "Assists",
-                "athlete": "Dion Brown",
-                "value": "11"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Dion Brown",
-                "value": "10"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "nba-401881721",
-      "sport": "nba",
-      "competition": "NBA 夏季联赛",
-      "home": "TOR",
-      "away": "DEN",
-      "status": "finished",
-      "time": "7月20日 06:30",
-      "startTime": "2026-07-19T22:30:00+00:00",
-      "source": "ESPN",
-      "homeScore": 89,
-      "awayScore": 96,
-      "details": {
-        "venue": "Thomas & Mack Center",
-        "broadcasts": [
-          "ESPN2",
-          "NBATV Canada"
-        ],
-        "teamStats": [
-          {
-            "team": "DEN",
-            "values": {
-              "FG": "31-75",
-              "FG%": "41",
-              "3PT": "11-34",
-              "3P%": "32",
-              "FT": "13-16",
-              "FT%": "81",
-              "REB": "38",
-              "AST": "16",
-              "STL": "10",
-              "BLK": "4",
-              "TO": "10"
-            }
-          },
-          {
-            "team": "TOR",
-            "values": {
-              "FG": "36-78",
-              "FG%": "46",
-              "3PT": "7-29",
-              "3P%": "24",
-              "FT": "5-11",
-              "FT%": "45",
-              "REB": "42",
-              "AST": "21",
-              "STL": "4",
-              "BLK": "10",
-              "TO": "15"
-            }
-          }
-        ],
-        "playerStats": [
-          {
-            "team": "DEN",
-            "athletes": [
-              {
-                "name": "Efe Abogidi",
-                "jersey": "18",
-                "position": "C",
-                "starter": true,
-                "stats": {
-                  "MIN": "14",
-                  "PTS": "11",
-                  "FG": "5-8",
-                  "3PT": "1-3",
-                  "FT": "0-0",
-                  "REB": "4",
-                  "AST": "1",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "1",
-                  "PF": "0",
-                  "+/-": "-1"
-                }
-              },
-              {
-                "name": "Mark Sears",
-                "jersey": "19",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "28",
-                  "PTS": "17",
-                  "FG": "2-11",
-                  "3PT": "1-3",
-                  "FT": "7-7",
-                  "REB": "1",
-                  "AST": "6",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "+10"
-                }
-              },
-              {
-                "name": "Mark Mitchell Jr.",
-                "jersey": "26",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "21",
-                  "PTS": "6",
-                  "FG": "1-6",
-                  "3PT": "0-1",
-                  "FT": "2-2",
-                  "REB": "1",
-                  "AST": "0",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "+1"
-                }
-              },
-              {
-                "name": "Jahmi'us Ramsey",
-                "jersey": "37",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "22",
-                  "PTS": "20",
-                  "FG": "9-9",
-                  "3PT": "2-2",
-                  "FT": "0-1",
-                  "REB": "8",
-                  "AST": "1",
-                  "TO": "1",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "0",
-                  "+/-": "+6"
-                }
-              },
-              {
-                "name": "Erik Stevenson",
-                "jersey": "20",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "28",
-                  "PTS": "12",
-                  "FG": "4-10",
-                  "3PT": "2-7",
-                  "FT": "1-1",
-                  "REB": "4",
-                  "AST": "2",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "1",
-                  "PF": "2",
-                  "+/-": "+9"
-                }
-              },
-              {
-                "name": "EJ Anosike",
-                "jersey": "24",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "13",
-                  "PTS": "3",
-                  "FG": "1-2",
-                  "3PT": "0-1",
-                  "FT": "1-2",
-                  "REB": "3",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-3"
-                }
-              },
-              {
-                "name": "TJ Bamba",
-                "jersey": "5",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "12",
-                  "PTS": "5",
-                  "FG": "2-8",
-                  "3PT": "1-5",
-                  "FT": "0-1",
-                  "REB": "1",
-                  "AST": "0",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "+1"
-                }
-              },
-              {
-                "name": "Coleman Hawkins",
-                "jersey": "43",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "16",
-                  "PTS": "3",
-                  "FG": "1-3",
-                  "3PT": "1-2",
-                  "FT": "0-0",
-                  "REB": "6",
-                  "AST": "3",
-                  "TO": "0",
-                  "STL": "1",
-                  "BLK": "2",
-                  "PF": "1",
-                  "+/-": "0"
-                }
-              },
-              {
-                "name": "Osayi Osifo",
-                "jersey": "34",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "9",
-                  "PTS": "0",
-                  "FG": "0-0",
-                  "3PT": "0-0",
-                  "FT": "0-0",
-                  "REB": "5",
-                  "AST": "2",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "+10"
-                }
-              },
-              {
-                "name": "Aaron Nkrumah",
-                "jersey": "30",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "11",
-                  "PTS": "7",
-                  "FG": "3-7",
-                  "3PT": "1-3",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "0"
-                }
-              },
-              {
-                "name": "Matthew Murrell",
-                "jersey": "16",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "17",
-                  "PTS": "12",
-                  "FG": "3-9",
-                  "3PT": "2-5",
-                  "FT": "2-2",
-                  "REB": "1",
-                  "AST": "1",
-                  "TO": "2",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "0",
-                  "+/-": "+4"
-                }
-              },
-              {
-                "name": "Rylan Griffen",
-                "jersey": "99",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "9",
-                  "PTS": "0",
-                  "FG": "0-2",
-                  "3PT": "0-2",
-                  "FT": "0-0",
-                  "REB": "1",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "-2"
-                }
-              }
-            ]
-          },
-          {
-            "team": "TOR",
-            "athletes": [
-              {
-                "name": "Jamarion Sharp",
-                "jersey": "33",
-                "position": "C",
-                "starter": true,
-                "stats": {
-                  "MIN": "25",
-                  "PTS": "8",
-                  "FG": "4-6",
-                  "3PT": "0-0",
-                  "FT": "0-0",
-                  "REB": "10",
-                  "AST": "1",
-                  "TO": "4",
-                  "STL": "1",
-                  "BLK": "3",
-                  "PF": "1",
-                  "+/-": "-9"
-                }
-              },
-              {
-                "name": "Tyson Degenhart",
-                "jersey": "20",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "22",
-                  "PTS": "7",
-                  "FG": "3-7",
-                  "3PT": "1-4",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "3",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "+1"
-                }
-              },
-              {
-                "name": "Nimari Burnett",
-                "jersey": "25",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "20",
-                  "PTS": "15",
-                  "FG": "4-10",
-                  "3PT": "1-5",
-                  "FT": "3-3",
-                  "REB": "9",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "0"
-                }
-              },
-              {
-                "name": "Jaden Bradley",
-                "jersey": "8",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "23",
-                  "PTS": "8",
-                  "FG": "3-7",
-                  "3PT": "0-0",
-                  "FT": "1-4",
-                  "REB": "3",
-                  "AST": "5",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "1",
-                  "PF": "3",
-                  "+/-": "-3"
-                }
-              },
-              {
-                "name": "Tyreke Key",
-                "jersey": "11",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "21",
-                  "PTS": "7",
-                  "FG": "3-7",
-                  "3PT": "1-3",
-                  "FT": "0-1",
-                  "REB": "3",
-                  "AST": "2",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-2"
-                }
-              },
-              {
-                "name": "Aziz Bandaogo",
-                "jersey": "35",
-                "position": "C",
-                "starter": false,
-                "stats": {
-                  "MIN": "15",
-                  "PTS": "6",
-                  "FG": "3-3",
-                  "3PT": "0-0",
-                  "FT": "0-0",
-                  "REB": "8",
-                  "AST": "0",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "6",
-                  "PF": "2",
-                  "+/-": "+2"
-                }
-              },
-              {
-                "name": "Jalen Celestine",
-                "jersey": "18",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "19",
-                  "PTS": "9",
-                  "FG": "3-5",
-                  "3PT": "3-5",
-                  "FT": "0-0",
-                  "REB": "2",
-                  "AST": "1",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "5",
-                  "+/-": "-5"
-                }
-              },
-              {
-                "name": "Brandon Angel",
-                "jersey": "21",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "14",
-                  "PTS": "10",
-                  "FG": "5-7",
-                  "3PT": "0-1",
-                  "FT": "0-1",
-                  "REB": "3",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "-7"
-                }
-              },
-              {
-                "name": "Malik Thomas",
-                "jersey": "41",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "22",
-                  "PTS": "13",
-                  "FG": "6-14",
-                  "3PT": "1-7",
-                  "FT": "0-0",
-                  "REB": "0",
-                  "AST": "0",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-5"
-                }
-              },
-              {
-                "name": "AJ Hoggard",
-                "jersey": "16",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "19",
-                  "PTS": "6",
-                  "FG": "2-12",
-                  "3PT": "0-4",
-                  "FT": "1-2",
-                  "REB": "1",
-                  "AST": "9",
-                  "TO": "1",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "0",
-                  "+/-": "-7"
-                }
-              }
-            ]
-          }
-        ],
-        "leaders": [
-          {
-            "team": "TOR",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "Nimari Burnett",
-                "value": "15"
-              },
-              {
-                "label": "Assists",
-                "athlete": "AJ Hoggard",
-                "value": "9"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Jamarion Sharp",
-                "value": "10"
-              }
-            ]
-          },
-          {
-            "team": "DEN",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "Jahmi'us Ramsey",
-                "value": "20"
-              },
-              {
-                "label": "Assists",
-                "athlete": "Mark Sears",
-                "value": "6"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Jahmi'us Ramsey",
-                "value": "8"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "nba-401881722",
-      "sport": "nba",
-      "competition": "NBA 夏季联赛",
-      "home": "MEM",
-      "away": "GS",
-      "status": "finished",
-      "time": "7月20日 09:00",
-      "startTime": "2026-07-20T01:00:00+00:00",
-      "source": "ESPN",
-      "homeScore": 90,
-      "awayScore": 94,
-      "details": {
-        "venue": "Thomas & Mack Center",
-        "broadcasts": [
-          "ESPN"
-        ],
-        "teamStats": [
-          {
-            "team": "GS",
-            "values": {
-              "FG": "37-75",
-              "FG%": "49",
-              "3PT": "9-30",
-              "3P%": "30",
-              "FT": "8-12",
-              "FT%": "67",
-              "REB": "42",
-              "AST": "16",
-              "STL": "6",
-              "BLK": "3",
-              "TO": "14"
-            }
-          },
-          {
-            "team": "MEM",
-            "values": {
-              "FG": "34-76",
-              "FG%": "45",
-              "3PT": "14-37",
-              "3P%": "38",
-              "FT": "4-8",
-              "FT%": "50",
-              "REB": "33",
-              "AST": "22",
-              "STL": "6",
-              "BLK": "1",
-              "TO": "10"
-            }
-          }
-        ],
-        "playerStats": [
-          {
-            "team": "GS",
-            "athletes": [
-              {
-                "name": "Yaxel Lendeborg",
-                "jersey": "1",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "32",
-                  "PTS": "21",
-                  "FG": "9-18",
-                  "3PT": "2-6",
-                  "FT": "1-1",
-                  "REB": "10",
-                  "AST": "2",
-                  "TO": "3",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "+7"
-                }
-              },
-              {
-                "name": "Malevy Leons",
-                "jersey": "33",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "22",
-                  "PTS": "10",
-                  "FG": "4-9",
-                  "3PT": "0-5",
-                  "FT": "1-1",
-                  "REB": "3",
-                  "AST": "1",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "1",
-                  "PF": "0",
-                  "+/-": "-1"
-                }
-              },
-              {
-                "name": "Will Richard",
-                "jersey": "3",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "29",
-                  "PTS": "13",
-                  "FG": "5-10",
-                  "3PT": "3-6",
-                  "FT": "0-0",
-                  "REB": "4",
-                  "AST": "1",
-                  "TO": "1",
-                  "STL": "2",
-                  "BLK": "1",
-                  "PF": "2",
-                  "+/-": "+9"
-                }
-              },
-              {
-                "name": "Graham Ike",
-                "jersey": "45",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "24",
-                  "PTS": "6",
-                  "FG": "1-4",
-                  "3PT": "0-0",
-                  "FT": "2-3",
-                  "REB": "9",
-                  "AST": "3",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "1",
-                  "PF": "3",
-                  "+/-": "+12"
-                }
-              },
-              {
-                "name": "LJ Cryer",
-                "jersey": "18",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "29",
-                  "PTS": "15",
-                  "FG": "5-10",
-                  "3PT": "4-8",
-                  "FT": "1-2",
-                  "REB": "3",
-                  "AST": "6",
-                  "TO": "3",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "+12"
-                }
-              },
-              {
-                "name": "Lajae Jones",
-                "jersey": "25",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "11",
-                  "PTS": "4",
-                  "FG": "2-5",
-                  "3PT": "0-2",
-                  "FT": "0-0",
-                  "REB": "0",
-                  "AST": "0",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-5"
-                }
-              },
-              {
-                "name": "Chance McMillian",
-                "jersey": "55",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "14",
-                  "PTS": "2",
-                  "FG": "1-4",
-                  "3PT": "0-2",
-                  "FT": "0-0",
-                  "REB": "1",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-3"
-                }
-              },
-              {
-                "name": "Deivon Smith",
-                "jersey": "36",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "23",
-                  "PTS": "21",
-                  "FG": "9-14",
-                  "3PT": "0-1",
-                  "FT": "3-4",
-                  "REB": "9",
-                  "AST": "3",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "0",
-                  "+/-": "-2"
-                }
-              },
-              {
-                "name": "Lachlan Olbrich",
-                "jersey": "47",
-                "position": "C",
-                "starter": false,
-                "stats": {
-                  "MIN": "16",
-                  "PTS": "2",
-                  "FG": "1-1",
-                  "3PT": "0-0",
-                  "FT": "0-1",
-                  "REB": "3",
-                  "AST": "0",
-                  "TO": "2",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "-9"
-                }
-              }
-            ]
-          },
-          {
-            "team": "MEM",
-            "athletes": [
-              {
-                "name": "Cameron Boozer",
-                "jersey": "27",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "35",
-                  "PTS": "19",
-                  "FG": "7-17",
-                  "3PT": "3-7",
-                  "FT": "1-3",
-                  "REB": "8",
-                  "AST": "4",
-                  "TO": "4",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "4",
-                  "+/-": "-1"
-                }
-              },
-              {
-                "name": "Cedric Coward",
-                "jersey": "23",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "27",
-                  "PTS": "19",
-                  "FG": "6-10",
-                  "3PT": "5-5",
-                  "FT": "1-1",
-                  "REB": "6",
-                  "AST": "4",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "1",
-                  "PF": "0",
-                  "+/-": "+7"
-                }
-              },
-              {
-                "name": "Taylor Hendricks",
-                "jersey": "22",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "28",
-                  "PTS": "13",
-                  "FG": "5-10",
-                  "3PT": "3-7",
-                  "FT": "0-0",
-                  "REB": "5",
-                  "AST": "2",
-                  "TO": "1",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "0",
-                  "+/-": "-7"
-                }
-              },
-              {
-                "name": "Olivier-Maxence Prosper",
-                "jersey": "18",
-                "position": "F",
-                "starter": true,
-                "stats": {
-                  "MIN": "27",
-                  "PTS": "8",
-                  "FG": "4-12",
-                  "3PT": "0-7",
-                  "FT": "0-0",
-                  "REB": "3",
-                  "AST": "2",
-                  "TO": "3",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "-7"
-                }
-              },
-              {
-                "name": "Javon Small",
-                "jersey": "10",
-                "position": "G",
-                "starter": true,
-                "stats": {
-                  "MIN": "30",
-                  "PTS": "10",
-                  "FG": "3-11",
-                  "3PT": "2-7",
-                  "FT": "1-1",
-                  "REB": "4",
-                  "AST": "8",
-                  "TO": "1",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "2",
-                  "+/-": "-15"
-                }
-              },
-              {
-                "name": "Carson Cooper",
-                "jersey": "20",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "17",
-                  "PTS": "16",
-                  "FG": "7-8",
-                  "3PT": "0-0",
-                  "FT": "1-2",
-                  "REB": "1",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "2",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "+5"
-                }
-              },
-              {
-                "name": "Lawson Lovering",
-                "jersey": "34",
-                "position": "C",
-                "starter": false,
-                "stats": {
-                  "MIN": "11",
-                  "PTS": "0",
-                  "FG": "0-0",
-                  "3PT": "0-0",
-                  "FT": "0-0",
-                  "REB": "2",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "-3"
-                }
-              },
-              {
-                "name": "Jahmai Mashack",
-                "jersey": "21",
-                "position": "G",
-                "starter": false,
-                "stats": {
-                  "MIN": "23",
-                  "PTS": "5",
-                  "FG": "2-8",
-                  "3PT": "1-4",
-                  "FT": "0-1",
-                  "REB": "4",
-                  "AST": "2",
-                  "TO": "0",
-                  "STL": "1",
-                  "BLK": "0",
-                  "PF": "3",
-                  "+/-": "-1"
-                }
-              },
-              {
-                "name": "Tyler Burton",
-                "jersey": "3",
-                "position": "F",
-                "starter": false,
-                "stats": {
-                  "MIN": "2",
-                  "PTS": "0",
-                  "FG": "0-0",
-                  "3PT": "0-0",
-                  "FT": "0-0",
-                  "REB": "0",
-                  "AST": "0",
-                  "TO": "0",
-                  "STL": "0",
-                  "BLK": "0",
-                  "PF": "1",
-                  "+/-": "+2"
-                }
-              }
-            ]
-          }
-        ],
-        "leaders": [
-          {
-            "team": "MEM",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "Cameron Boozer",
-                "value": "19"
-              },
-              {
-                "label": "Assists",
-                "athlete": "Javon Small",
-                "value": "8"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Cameron Boozer",
-                "value": "8"
-              }
-            ]
-          },
-          {
-            "team": "GS",
-            "categories": [
-              {
-                "label": "Points",
-                "athlete": "Yaxel Lendeborg",
-                "value": "21"
-              },
-              {
-                "label": "Assists",
-                "athlete": "LJ Cryer",
-                "value": "6"
-              },
-              {
-                "label": "Rebounds",
-                "athlete": "Yaxel Lendeborg",
-                "value": "10"
-              }
-            ]
-          }
-        ]
-      }
-    },
     {
       "id": "football-401882926",
       "sport": "football",
@@ -6451,35 +4989,35 @@
   ],
   "communityPosts": [
     {
-      "id": "hupu-641317523",
+      "id": "hupu-641319479",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "[赛后]BLG 2-1 AL：下路对位强势打穿，BLG中期发力拿下AL",
-      "excerpt": "点击为本场选手评分→ 虎扑07月26日讯 【GAME3】AL蓝色方、BLG红色方 AL禁用：发条、皇子、青钢影、炸弹人、泽拉斯 AL选用：Breathe奥拉夫、Tarzan狗头、Shanks辛德拉、Hope女警、Kael巴德 BLG禁用：薇恩、韦鲁斯、波比、奇亚娜、潘森 BLG选用：Wenbo奎桑提、Xun巨魔、Knight蛇女、Viper艾希、ON萨勒芬妮 【赛况简介】 两路开花，Knight对位单杀同时BLG下路线杀AL下路双人 Kael巴德果断出击开到Viper，Hop",
-      "url": "https://bbs.hupu.com/641317523.html",
+      "title": "[流言板]外媒：没有Bin？没问题！BLG在Wenbo首发下取得开局三连胜",
+      "excerpt": "虎扑07月26日讯 在今天结束的LPL常规赛的比赛中，BLG以2-1击败AL拿下三连胜。而赛后Sheep Esports介绍此事时表示“没有Bin？没问题！BLG以2-1击败AL，他们在Wenbo首发时取得第三赛段开赛三连胜” 来源：X",
+      "url": "https://bbs.hupu.com/641319479.html",
       "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-26T14:10:28+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "publishedAt": "2026-07-26T15:08:56+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
-      "replyCount": 346,
-      "viewCount": 120773,
+      "replyCount": 362,
+      "viewCount": 119859,
       "topComments": [
         {
-          "text": "厚皮一看见韩咕噜ad就桂霞了 al不行找赵大吧 卖票三雄集合",
-          "score": 1830
+          "text": "另外四个在lpl还是太超模了",
+          "score": 1718
         },
         {
-          "text": "Hope对线10分钟就被压3k，巴德绝妙R两个大头给hope吃了有啥用？给他吃等于队友亏两个大人头的经济，女警还值钱了又送出去，BLG发育更好了，一来一回，等于顶级负作用，说实在的这两个头给巴德吃了都比女警吃了有用，最后hope再闪现接大哈哈哈哈，爱笑你看了不笑吗？",
-          "score": 1028
+          "text": "到目前为止一把训练赛都没打过，上路带个ldl在lpl都输不了",
+          "score": 1357
         },
         {
-          "text": "绝望窒息的融合技对味了 歪婆:我现在脑子里只有一件事，什么时候打嘎啦？",
-          "score": 796
+          "text": "bin被换不就是因为蹭不明白局势吗？好歹等wenbo版blg输了再说话吧",
+          "score": 696
         }
       ],
-      "hotScore": 0.9748
+      "hotScore": 0.9747
     },
     {
       "id": "hupu-641312715",
@@ -6492,12 +5030,12 @@
       "url": "https://bbs.hupu.com/641312715.html",
       "author": "悉达多的内心世界",
       "publishedAt": "2026-07-26T11:32:39+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 624,
+      "viewCount": 732,
       "topComments": [],
-      "hotScore": 0.9675
+      "hotScore": 0.9647
     },
     {
       "id": "hupu-641310106",
@@ -6510,48 +5048,48 @@
       "url": "https://bbs.hupu.com/641310106.html",
       "author": "小七说篮球",
       "publishedAt": "2026-07-26T09:56:12+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 1956,
+      "viewCount": 2000,
       "topComments": [
         {
           "text": "我有一技，按怀特塞德那个表现，签下来做个恩比德替补不过分吧",
           "score": 0
         }
       ],
-      "hotScore": 0.963
+      "hotScore": 0.9602
     },
     {
-      "id": "hupu-641319479",
+      "id": "hupu-641317523",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "[流言板]外媒：没有Bin？没问题！BLG在Wenbo首发下取得开局三连胜",
-      "excerpt": "虎扑07月26日讯 在今天结束的LPL常规赛的比赛中，BLG以2-1击败AL拿下三连胜。而赛后Sheep Esports介绍此事时表示“没有Bin？没问题！BLG以2-1击败AL，他们在Wenbo首发时取得第三赛段开赛三连胜” 来源：X",
-      "url": "https://bbs.hupu.com/641319479.html",
+      "title": "[赛后]BLG 2-1 AL：下路对位强势打穿，BLG中期发力拿下AL",
+      "excerpt": "点击为本场选手评分→ 虎扑07月26日讯 【GAME3】AL蓝色方、BLG红色方 AL禁用：发条、皇子、青钢影、炸弹人、泽拉斯 AL选用：Breathe奥拉夫、Tarzan狗头、Shanks辛德拉、Hope女警、Kael巴德 BLG禁用：薇恩、韦鲁斯、波比、奇亚娜、潘森 BLG选用：Wenbo奎桑提、Xun巨魔、Knight蛇女、Viper艾希、ON萨勒芬妮 【赛况简介】 两路开花，Knight对位单杀同时BLG下路线杀AL下路双人 Kael巴德果断出击开到Viper，Hop",
+      "url": "https://bbs.hupu.com/641317523.html",
       "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-26T15:08:56+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "publishedAt": "2026-07-26T14:10:28+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
-      "replyCount": 339,
-      "viewCount": 104818,
+      "replyCount": 349,
+      "viewCount": 128404,
       "topComments": [
         {
-          "text": "另外四个在lpl还是太超模了",
-          "score": 1572
+          "text": "厚皮一看见韩咕噜ad就桂霞了 al不行找赵大吧 卖票三雄集合",
+          "score": 1875
         },
         {
-          "text": "到目前为止一把训练赛都没打过，上路带个ldl在lpl都输不了",
-          "score": 1232
+          "text": "Hope对线10分钟就被压3k，巴德绝妙R两个大头给hope吃了有啥用？给他吃等于队友亏两个大人头的经济，女警还值钱了又送出去，BLG发育更好了，一来一回，等于顶级负作用，说实在的这两个头给巴德吃了都比女警吃了有用，最后hope再闪现接大哈哈哈哈，爱笑你看了不笑吗？",
+          "score": 1045
         },
         {
-          "text": "bin被换不就是因为蹭不明白局势吗？好歹等wenbo版blg输了再说话吧",
-          "score": 635
+          "text": "绝望窒息的融合技对味了 歪婆:我现在脑子里只有一件事，什么时候打嘎啦？",
+          "score": 815
         }
       ],
-      "hotScore": 0.9591
+      "hotScore": 0.9536
     },
     {
       "id": "hupu-641303454",
@@ -6564,17 +5102,17 @@
       "url": "https://bbs.hupu.com/641303454.html",
       "author": "氧气是个地铁",
       "publishedAt": "2026-07-26T05:28:39+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 450,
+      "viewCount": 457,
       "topComments": [
         {
           "text": "顶一个",
           "score": 0
         }
       ],
-      "hotScore": 0.9506
+      "hotScore": 0.9478
     },
     {
       "id": "hupu-641299235",
@@ -6587,25 +5125,25 @@
       "url": "https://bbs.hupu.com/641299235.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-07-26T02:32:24+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 50,
-      "replyCount": 300,
-      "viewCount": 87322,
+      "replyCount": 303,
+      "viewCount": 88164,
       "topComments": [
         {
           "text": "我也认为会在2034年看到国足重返世界杯，希望张指身体健康，见证这一天",
-          "score": 1088
+          "score": 1096
         },
         {
           "text": "凭u系列在亚洲赛区的表现很出色",
-          "score": 572
+          "score": 574
         },
         {
-          "text": "你tm肯定见不到就对了",
-          "score": 309
+          "text": "英格兰大牌球员不泡妞吗？",
+          "score": 283
         }
       ],
-      "hotScore": 0.9425
+      "hotScore": 0.9397
     },
     {
       "id": "hupu-641317640",
@@ -6618,25 +5156,25 @@
       "url": "https://bbs.hupu.com/641317640.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-07-26T14:13:36+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
-      "replyCount": 331,
-      "viewCount": 90930,
+      "replyCount": 337,
+      "viewCount": 100091,
       "topComments": [
         {
           "text": "我们是比之前弱了点但不是比你们弱了？",
-          "score": 1562
+          "score": 1659
         },
         {
           "text": "确实，毕竟滔博内战内行，还是能看出来点东西的",
-          "score": 741
+          "score": 787
         },
         {
           "text": "请记住，是bin自己摆烂的。",
-          "score": 569
+          "score": 599
         }
       ],
-      "hotScore": 0.9381
+      "hotScore": 0.9353
     },
     {
       "id": "hupu-641317496",
@@ -6649,12 +5187,12 @@
       "url": "https://bbs.hupu.com/641317496.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T14:09:38+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
-      "replyCount": 312,
-      "viewCount": 295198,
+      "replyCount": 314,
+      "viewCount": 313751,
       "topComments": [],
-      "hotScore": 0.9195
+      "hotScore": 0.9167
     },
     {
       "id": "hupu-641300483",
@@ -6667,25 +5205,25 @@
       "url": "https://bbs.hupu.com/641300483.html",
       "author": "室友很懂球的",
       "publishedAt": "2026-07-26T03:23:43+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 32,
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 34,
       "replyCount": 261,
-      "viewCount": 6944,
+      "viewCount": 7293,
       "topComments": [
         {
           "text": "@深聊 说说罗哥是怎么力压克鲁伊夫、贝肯鲍尔、普拉蒂尼、齐达内、大罗、盖德穆勒的",
-          "score": 57
+          "score": 63
         },
         {
           "text": "金球数是标准之一，不是全部。那我还说你把大家大力神杯列一列不就知道了，你罗哥有个啥，41岁那个核爆？",
-          "score": 18
+          "score": 24
         },
         {
           "text": "你意思是，能跟主流排前五的克鲁伊夫贝肯鲍尔掰手腕，但压同赛道的前十守门员大罗、盖德穆勒争议大？ 你发现你的评判标准已经不统一了吗？如果能跟前五的克鲁伊夫贝肯鲍尔掰手腕，就一定能压更后面的大罗和盖德穆勒才符合逻辑。 你的问题在于，你跨赛道对比克鲁伊夫、贝肯鲍尔、齐达内，就用很虚的“生涯跨度”去压这几人的“生涯高度”，导致你觉得罗哥可以和排名更高的这几人掰手腕；但真正和同赛道的大罗、盖德穆勒对比，你发现罗哥的大赛数据、关键战统治能力、生涯高",
           "score": 14
         }
       ],
-      "hotScore": 0.9027
+      "hotScore": 0.8999
     },
     {
       "id": "hupu-641313750",
@@ -6698,12 +5236,12 @@
       "url": "https://bbs.hupu.com/641313750.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T12:12:50+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
       "replyCount": 289,
-      "viewCount": 124240,
+      "viewCount": 126270,
       "topComments": [],
-      "hotScore": 0.8956
+      "hotScore": 0.8929
     },
     {
       "id": "hupu-641315550",
@@ -6716,12 +5254,12 @@
       "url": "https://bbs.hupu.com/641315550.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T13:11:31+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 50,
-      "replyCount": 246,
-      "viewCount": 79243,
+      "replyCount": 247,
+      "viewCount": 82551,
       "topComments": [],
-      "hotScore": 0.8799
+      "hotScore": 0.8772
     },
     {
       "id": "hupu-641304983",
@@ -6734,43 +5272,43 @@
       "url": "https://bbs.hupu.com/641304983.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-07-26T06:33:57+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 22,
       "replyCount": 66,
-      "viewCount": 45568,
+      "viewCount": 46204,
       "topComments": [
         {
           "text": "我还寻思一开始一条龙是他呢",
-          "score": 421
+          "score": 428
         },
         {
           "text": "这才是真正的营销之王",
-          "score": 297
+          "score": 301
         },
         {
           "text": "C罗赛道的，看谁挺得久",
           "score": 196
         }
       ],
-      "hotScore": 0.8273
+      "hotScore": 0.8482
     },
     {
-      "id": "hupu-641302634",
-      "sport": "football",
+      "id": "hupu-641325136",
+      "sport": "nba",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "怎么看罗永浩评论梅西近期的风评？",
+      "board": "虎扑篮球场",
+      "title": "Shams重磅消息：海佐尼亚1年280万加盟骑士，时隔6年重返NBA",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641302634.html",
-      "author": "我从不踢球",
-      "publishedAt": "2026-07-26T04:52:05+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 22,
-      "replyCount": 52,
-      "viewCount": 10801,
+      "url": "https://bbs.hupu.com/641325136.html",
+      "author": "速诚体育搬运工",
+      "publishedAt": "2026-07-26T23:30:24+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 1057,
       "topComments": [],
-      "hotScore": 0.8042
+      "hotScore": 0.8479
     },
     {
       "id": "hupu-641319444",
@@ -6783,12 +5321,12 @@
       "url": "https://bbs.hupu.com/641319444.html",
       "author": "虎扑JR1711510751",
       "publishedAt": "2026-07-26T15:08:03+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 317,
+      "viewCount": 356,
       "topComments": [],
-      "hotScore": 0.8024
+      "hotScore": 0.8247
     },
     {
       "id": "hupu-641319106",
@@ -6801,12 +5339,12 @@
       "url": "https://bbs.hupu.com/641319106.html",
       "author": "雨季凉亭",
       "publishedAt": "2026-07-26T14:56:44+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 167,
+      "viewCount": 181,
       "topComments": [],
-      "hotScore": 0.8019
+      "hotScore": 0.8241
     },
     {
       "id": "hupu-641316851",
@@ -6819,30 +5357,30 @@
       "url": "https://bbs.hupu.com/641316851.html",
       "author": "雨季凉亭",
       "publishedAt": "2026-07-26T13:48:18+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 0,
       "viewCount": 2,
       "topComments": [],
-      "hotScore": 0.7988
+      "hotScore": 0.821
     },
     {
-      "id": "hupu-641290451",
-      "sport": "lol",
+      "id": "hupu-641302634",
+      "sport": "football",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[流言板]7月26日首发：NIP.HOYA对位sheer，Breathe大战Wenbo",
+      "board": "虎扑足球话题区",
+      "title": "怎么看罗永浩评论梅西近期的风评？",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641290451.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-25T16:07:53+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 50,
-      "replyCount": 165,
-      "viewCount": 94339,
+      "url": "https://bbs.hupu.com/641302634.html",
+      "author": "我从不踢球",
+      "publishedAt": "2026-07-26T04:52:05+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 21,
+      "replyCount": 55,
+      "viewCount": 12559,
       "topComments": [],
-      "hotScore": 0.7846
+      "hotScore": 0.8014
     },
     {
       "id": "hupu-641300260",
@@ -6855,30 +5393,30 @@
       "url": "https://bbs.hupu.com/641300260.html",
       "author": "JayceXZX",
       "publishedAt": "2026-07-26T03:14:21+00:00",
-      "collectedAt": "2026-07-26T23:15:08.130612+00:00",
+      "collectedAt": "2026-07-27T00:15:21.167045+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 752,
+      "viewCount": 759,
       "topComments": [],
-      "hotScore": 0.7694
+      "hotScore": 0.7916
     },
     {
-      "id": "hupu-641301684",
-      "sport": "football",
+      "id": "hupu-641290451",
+      "sport": "lol",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "为啥还有梅西球迷在说香港行是合同没约定？",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]7月26日首发：NIP.HOYA对位sheer，Breathe大战Wenbo",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641301684.html",
-      "author": "卜一格很高",
-      "publishedAt": "2026-07-26T04:10:27+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 23,
-      "replyCount": 38,
-      "viewCount": 9196,
+      "url": "https://bbs.hupu.com/641290451.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-25T16:07:53+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 50,
+      "replyCount": 165,
+      "viewCount": 94380,
       "topComments": [],
-      "hotScore": 0.7523
+      "hotScore": 0.7818
     },
     {
       "id": "hupu-641304655",
@@ -6891,30 +5429,12 @@
       "url": "https://bbs.hupu.com/641304655.html",
       "author": "室友很懂球的",
       "publishedAt": "2026-07-26T06:19:33+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 14,
-      "replyCount": 139,
-      "viewCount": 3871,
+      "replyCount": 141,
+      "viewCount": 4391,
       "topComments": [],
-      "hotScore": 0.7267
-    },
-    {
-      "id": "hupu-641299974",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "世界杯后梅西首度公开露面，带儿子看罗萨里奥雄狮的比赛",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641299974.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T03:03:26+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 17,
-      "replyCount": 49,
-      "viewCount": 31418,
-      "topComments": [],
-      "hotScore": 0.7097
+      "hotScore": 0.7476
     },
     {
       "id": "hupu-641308884",
@@ -6927,12 +5447,48 @@
       "url": "https://bbs.hupu.com/641308884.html",
       "author": "超沐洛",
       "publishedAt": "2026-07-26T09:10:04+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 17,
-      "replyCount": 48,
-      "viewCount": 5186,
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 15,
+      "replyCount": 51,
+      "viewCount": 9537,
       "topComments": [],
-      "hotScore": 0.7082
+      "hotScore": 0.7476
+    },
+    {
+      "id": "hupu-641301684",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "为啥还有梅西球迷在说香港行是合同没约定？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641301684.html",
+      "author": "卜一格很高",
+      "publishedAt": "2026-07-26T04:10:27+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 16,
+      "replyCount": 48,
+      "viewCount": 13211,
+      "topComments": [],
+      "hotScore": 0.7205
+    },
+    {
+      "id": "hupu-641299974",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "世界杯后梅西首度公开露面，带儿子看罗萨里奥雄狮的比赛",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641299974.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T03:03:26+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 15,
+      "replyCount": 49,
+      "viewCount": 31653,
+      "topComments": [],
+      "hotScore": 0.7122
     },
     {
       "id": "hupu-641299876",
@@ -6945,12 +5501,12 @@
       "url": "https://bbs.hupu.com/641299876.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T03:00:00+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 45,
-      "replyCount": 191,
-      "viewCount": 66596,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 48,
+      "replyCount": 193,
+      "viewCount": 67721,
       "topComments": [],
-      "hotScore": 0.6674
+      "hotScore": 0.6646
     },
     {
       "id": "hupu-641317608",
@@ -6963,30 +5519,12 @@
       "url": "https://bbs.hupu.com/641317608.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-07-26T14:12:39+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 45,
-      "replyCount": 138,
-      "viewCount": 43754,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 44,
+      "replyCount": 145,
+      "viewCount": 51552,
       "topComments": [],
-      "hotScore": 0.6617
-    },
-    {
-      "id": "hupu-641313671",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "C罗密友和阿根廷记者打拳击赛，并高呼C罗历史最佳",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641313671.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T12:09:34+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 21,
-      "replyCount": 32,
-      "viewCount": 25427,
-      "topComments": [],
-      "hotScore": 0.6297
+      "hotScore": 0.6353
     },
     {
       "id": "hupu-641297670",
@@ -6999,30 +5537,12 @@
       "url": "https://bbs.hupu.com/641297670.html",
       "author": "射门核心",
       "publishedAt": "2026-07-26T01:21:04+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 14,
       "replyCount": 36,
-      "viewCount": 3257,
+      "viewCount": 3344,
       "topComments": [],
-      "hotScore": 0.5839
-    },
-    {
-      "id": "hupu-641298378",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[情报站]北美比赛出现下路塞拉斯打杰斯，近6年拳头一级赛事未曾出现",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641298378.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-26T01:54:20+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 35,
-      "replyCount": 135,
-      "viewCount": 91921,
-      "topComments": [],
-      "hotScore": 0.5618
+      "hotScore": 0.6048
     },
     {
       "id": "hupu-641303296",
@@ -7035,48 +5555,30 @@
       "url": "https://bbs.hupu.com/641303296.html",
       "author": "超沐洛",
       "publishedAt": "2026-07-26T05:21:35+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 12,
       "replyCount": 41,
-      "viewCount": 7199,
+      "viewCount": 7658,
       "topComments": [],
-      "hotScore": 0.5608
+      "hotScore": 0.587
     },
     {
-      "id": "hupu-641317730",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[赛事视频]赛后采访Knight：Wenbo说他格温绝活，Viper也说能玩阿卡丽就选",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641317730.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-26T14:15:37+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 25,
-      "replyCount": 81,
-      "viewCount": 221187,
-      "topComments": [],
-      "hotScore": 0.5066
-    },
-    {
-      "id": "hupu-641308454",
+      "id": "hupu-641313611",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "语言学习app多邻国调侃阿根廷失冠，引发阿根廷用户卸载",
+      "title": "来看看卡塞米罗的迈阿密国际首秀表现，你们给几分？",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641308454.html",
+      "url": "https://bbs.hupu.com/641313611.html",
       "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T08:52:02+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "publishedAt": "2026-07-26T12:07:27+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 12,
-      "replyCount": 33,
-      "viewCount": 20899,
+      "replyCount": 17,
+      "viewCount": 14462,
       "topComments": [],
-      "hotScore": 0.4969
+      "hotScore": 0.5689
     },
     {
       "id": "hupu-641317260",
@@ -7089,12 +5591,48 @@
       "url": "https://bbs.hupu.com/641317260.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T14:01:07+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 30,
-      "replyCount": 74,
-      "viewCount": 224868,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 32,
+      "replyCount": 76,
+      "viewCount": 243086,
       "topComments": [],
-      "hotScore": 0.4928
+      "hotScore": 0.5373
+    },
+    {
+      "id": "hupu-641297487",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "Ning属实是老IG里面最不要脸的，这都能蹭Bin，真当大家忘了让S9都干啥了",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641297487.html",
+      "author": "等JKL拿第二关",
+      "publishedAt": "2026-07-26T01:12:19+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 27,
+      "replyCount": 139,
+      "viewCount": 42903,
+      "topComments": [],
+      "hotScore": 0.5097
+    },
+    {
+      "id": "hupu-641317730",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[赛事视频]赛后采访Knight：Wenbo说他格温绝活，Viper也说能玩阿卡丽就选",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641317730.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-26T14:15:37+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 24,
+      "replyCount": 81,
+      "viewCount": 235050,
+      "topComments": [],
+      "hotScore": 0.5038
     },
     {
       "id": "hupu-641319626",
@@ -7107,156 +5645,102 @@
       "url": "https://bbs.hupu.com/641319626.html",
       "author": "卖票小子",
       "publishedAt": "2026-07-26T15:14:34+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 31,
-      "replyCount": 61,
-      "viewCount": 17147,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 28,
+      "replyCount": 64,
+      "viewCount": 24642,
       "topComments": [],
-      "hotScore": 0.483
+      "hotScore": 0.4618
     },
     {
-      "id": "hupu-641296631",
+      "id": "hupu-641317420",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "回到巴甲后内马尔上演兜射破门，做出发牌庆祝回击外界质疑",
+      "title": "同样的捂嘴，为什么南美的阿尔米隆被罚下，库库啥事没有？合着捂嘴这条规则专门给南美球员制定的？",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641296631.html",
+      "url": "https://bbs.hupu.com/641317420.html",
+      "author": "虎扑JR0658686145",
+      "publishedAt": "2026-07-26T14:06:29+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 6,
+      "replyCount": 17,
+      "viewCount": 1355,
+      "topComments": [],
+      "hotScore": 0.456
+    },
+    {
+      "id": "hupu-641304434",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "迄今为止梅西在欧冠淘汰赛生死战中的个人数据",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641304434.html",
+      "author": "超爱看汉堡联赛",
+      "publishedAt": "2026-07-26T06:11:08+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 12,
+      "replyCount": 14,
+      "viewCount": 2862,
+      "topComments": [],
+      "hotScore": 0.4419
+    },
+    {
+      "id": "hupu-641302546",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "关于上届荷兰阿根廷大战，有人说最大黑幕，有人说荷兰队脏比队，今天刷到一个视频，逐一拆解了场上的争议动作和判罚，大家自行判断吧。",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641302546.html",
+      "author": "超爱看汉堡联赛",
+      "publishedAt": "2026-07-26T04:47:59+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 6,
+      "replyCount": 17,
+      "viewCount": 1983,
+      "topComments": [],
+      "hotScore": 0.4302
+    },
+    {
+      "id": "hupu-641313640",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "吸睛！内马尔女友穿性感比基尼陪爱犬游泳",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641313640.html",
       "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T00:21:14+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 14,
-      "replyCount": 28,
-      "viewCount": 19825,
-      "topComments": [],
-      "hotScore": 0.4522
-    },
-    {
-      "id": "hupu-641312255",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "难怪肉鸡看不上，这腿也太不行了",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641312255.html",
-      "author": "亡我之心不死",
-      "publishedAt": "2026-07-26T11:17:12+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 25,
-      "replyCount": 61,
-      "viewCount": 48095,
-      "topComments": [],
-      "hotScore": 0.4247
-    },
-    {
-      "id": "hupu-641310690",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "为何梅西没有获得26年世界杯金球奖",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641310690.html",
-      "author": "eagleyin11",
-      "publishedAt": "2026-07-26T10:18:02+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 8,
-      "replyCount": 36,
-      "viewCount": 3757,
-      "topComments": [],
-      "hotScore": 0.4193
-    },
-    {
-      "id": "hupu-641310842",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "接地气！佩德里在苏州穿着汉服体验中国的蹴鞠",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641310842.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T10:24:49+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
+      "publishedAt": "2026-07-26T12:08:28+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
       "score": 9,
-      "replyCount": 32,
-      "viewCount": 20678,
+      "replyCount": 15,
+      "viewCount": 14241,
       "topComments": [],
-      "hotScore": 0.388
+      "hotScore": 0.4242
     },
     {
-      "id": "hupu-641306580",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "应该不会换bin的",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641306580.html",
-      "author": "虎扑JR1311572465",
-      "publishedAt": "2026-07-26T07:37:15+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 18,
-      "replyCount": 78,
-      "viewCount": 37674,
-      "topComments": [],
-      "hotScore": 0.375
-    },
-    {
-      "id": "hupu-641296426",
+      "id": "hupu-641291358",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "李刚仁曾连踢拉莫斯4脚被罚下，如今他重回西甲踢球",
+      "title": "从网暴到开盒再到线下",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641296426.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T00:06:02+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 11,
-      "replyCount": 31,
-      "viewCount": 23469,
+      "url": "https://bbs.hupu.com/641291358.html",
+      "author": "Longclaw777",
+      "publishedAt": "2026-07-25T16:38:41+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 8,
+      "replyCount": 17,
+      "viewCount": 9322,
       "topComments": [],
-      "hotScore": 0.3699
-    },
-    {
-      "id": "hupu-641296594",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "来看看皇马引援对象迪奥曼德的精彩表现，给几分？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641296594.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T00:17:54+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 11,
-      "replyCount": 30,
-      "viewCount": 12925,
-      "topComments": [],
-      "hotScore": 0.352
-    },
-    {
-      "id": "hupu-641317599",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[一图流]LPL：Breathe奥拉夫怒切Viper难挽败局，BLG团灭AL后一波",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641317599.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-26T14:12:24+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 24,
-      "replyCount": 60,
-      "viewCount": 164142,
-      "topComments": [],
-      "hotScore": 0.3301
+      "hotScore": 0.4201
     },
     {
       "id": "hupu-641314722",
@@ -7269,12 +5753,66 @@
       "url": "https://bbs.hupu.com/641314722.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T12:42:50+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 17,
-      "replyCount": 72,
-      "viewCount": 53330,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 21,
+      "replyCount": 73,
+      "viewCount": 56275,
       "topComments": [],
-      "hotScore": 0.3286
+      "hotScore": 0.3969
+    },
+    {
+      "id": "hupu-641313899",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "哈兰德现身多纳鲁马婚礼现场，领衔挪威招牌“维京划船”",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641313899.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T12:16:39+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 6,
+      "replyCount": 15,
+      "viewCount": 22007,
+      "topComments": [],
+      "hotScore": 0.3772
+    },
+    {
+      "id": "hupu-641317599",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[一图流]LPL：Breathe奥拉夫怒切Viper难挽败局，BLG团灭AL后一波",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641317599.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-26T14:12:24+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 24,
+      "replyCount": 60,
+      "viewCount": 172493,
+      "topComments": [],
+      "hotScore": 0.3747
+    },
+    {
+      "id": "hupu-641306580",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "应该不会换bin的",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641306580.html",
+      "author": "虎扑JR1311572465",
+      "publishedAt": "2026-07-26T07:37:15+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 19,
+      "replyCount": 78,
+      "viewCount": 40445,
+      "topComments": [],
+      "hotScore": 0.3722
     },
     {
       "id": "hupu-641320254",
@@ -7287,12 +5825,48 @@
       "url": "https://bbs.hupu.com/641320254.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-26T15:37:15+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 17,
-      "replyCount": 61,
-      "viewCount": 25457,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 20,
+      "replyCount": 62,
+      "viewCount": 29335,
       "topComments": [],
-      "hotScore": 0.3183
+      "hotScore": 0.326
+    },
+    {
+      "id": "hupu-641296905",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "内马尔被对手放倒后，愤怒推了对方&被主裁出示黄牌",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641296905.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-07-26T00:38:13+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 6,
+      "replyCount": 14,
+      "viewCount": 15340,
+      "topComments": [],
+      "hotScore": 0.3081
+    },
+    {
+      "id": "hupu-641312255",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "难怪肉鸡看不上，这腿也太不行了",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641312255.html",
+      "author": "亡我之心不死",
+      "publishedAt": "2026-07-26T11:17:12+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 18,
+      "replyCount": 67,
+      "viewCount": 66234,
+      "topComments": [],
+      "hotScore": 0.3034
     },
     {
       "id": "hupu-641313844",
@@ -7305,66 +5879,30 @@
       "url": "https://bbs.hupu.com/641313844.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-07-26T12:15:03+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
-      "score": 19,
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
+      "score": 18,
       "replyCount": 60,
-      "viewCount": 17838,
+      "viewCount": 18119,
       "topComments": [],
-      "hotScore": 0.301
+      "hotScore": 0.2509
     },
     {
-      "id": "hupu-641306444",
+      "id": "hupu-641318763",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "ai深聊历史前10计算标准和结果出炉，梅西goat，C罗仅第4",
+      "title": "再邀请ai深聊回答C罗历史第几，盖德穆勒历史第几",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641306444.html",
+      "url": "https://bbs.hupu.com/641318763.html",
       "author": "室友很懂球的",
-      "publishedAt": "2026-07-26T07:32:22+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 3,
-      "replyCount": 24,
-      "viewCount": 1215,
+      "publishedAt": "2026-07-26T14:45:25+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 4,
+      "replyCount": 12,
+      "viewCount": 605,
       "topComments": [],
-      "hotScore": 0.2169
-    },
-    {
-      "id": "hupu-641301563",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "NBA球员文班亚马在野球场进球后，做出姆巴佩同款庆祝动作",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641301563.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-07-26T04:05:59+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 5,
-      "replyCount": 20,
-      "viewCount": 13659,
-      "topComments": [],
-      "hotScore": 0.1942
-    },
-    {
-      "id": "hupu-641299459",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "为什么伊涅斯塔世界杯作为球队老大带队，战绩还不如C罗？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641299459.html",
-      "author": "室友很懂球的",
-      "publishedAt": "2026-07-26T02:41:06+00:00",
-      "collectedAt": "2026-07-26T23:15:12.275612+00:00",
-      "score": 3,
-      "replyCount": 23,
-      "viewCount": 922,
-      "topComments": [],
-      "hotScore": 0.185
+      "hotScore": 0.1973
     },
     {
       "id": "hupu-641310073",
@@ -7377,12 +5915,30 @@
       "url": "https://bbs.hupu.com/641310073.html",
       "author": "lpl偏爱冲击波",
       "publishedAt": "2026-07-26T09:55:03+00:00",
-      "collectedAt": "2026-07-26T23:15:16.185745+00:00",
+      "collectedAt": "2026-07-27T00:15:26.531994+00:00",
       "score": 16,
       "replyCount": 57,
-      "viewCount": 3450,
+      "viewCount": 3506,
       "topComments": [],
-      "hotScore": 0.163
+      "hotScore": 0.1602
+    },
+    {
+      "id": "hupu-641298322",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "今日竞彩足球比分预测分析",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641298322.html",
+      "author": "清禾说足球",
+      "publishedAt": "2026-07-26T01:51:44+00:00",
+      "collectedAt": "2026-07-27T00:15:24.178609+00:00",
+      "score": 0,
+      "replyCount": 13,
+      "viewCount": 3088,
+      "topComments": [],
+      "hotScore": 0.1562
     }
   ]
 }
