@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:48:16.831893+00:00",
+  "updatedAt": "2026-07-31T00:16:56.557374+00:00",
   "matches": [
     {
       "id": "football-401882926",
@@ -4429,14 +4429,14 @@
       "url": "https://bbs.hupu.com/641422723.html",
       "author": "静易墨",
       "publishedAt": "2026-07-30T13:05:33+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 2,
       "replyCount": 4,
-      "viewCount": 2592,
+      "viewCount": 3012,
       "topComments": [
         {
           "text": "破防勇密不足一哂",
-          "score": 2
+          "score": 4
         },
         {
           "text": "大佬能否提供一个按照 T0-T6 所在 13 个区间球员占总数百分比的参数，这样可能更好理解这个段位表各个段位的稀缺性",
@@ -4447,38 +4447,7 @@
           "score": 0
         }
       ],
-      "hotScore": 0.973
-    },
-    {
-      "id": "hupu-641422845",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[情报站]Aiming：先听到对方情绪化言论；对方强烈表达难以同行意愿",
-      "excerpt": "虎扑07月30日讯 KT官宣交易Aiming选手至KRX后，Aiming选手更新个人社交媒体，原文翻译如下： 大家好，我是Aiming。 发布本立场声明的目的并非为了指责或归咎于任何人，而是为了向因突如其来的消息非常担心的粉丝们传达我真实的内心想法。 出于希望队伍能朝着更好方向发展的真心，我在积极进行复盘的过程中，与其他选手产生了意见分歧。在这个过程中，先听到了对方（其他选手）说出带有情绪化的言论，随着争论的持续，我们互相说出了一些伤害到彼此的话。 在这个过程中，我们双方都未",
-      "url": "https://bbs.hupu.com/641422845.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-30T13:10:14+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 50,
-      "replyCount": 482,
-      "viewCount": 215043,
-      "topComments": [
-        {
-          "text": "爱明肯定是受委屈了！bdd脾气很差的！爱明肯定弄不过bdd",
-          "score": 1786
-        },
-        {
-          "text": "虽然说bdd 打得不错，但是下路皮特➕大蛋也算爆种了",
-          "score": 700
-        },
-        {
-          "text": "鱼死网破，今晚就走",
-          "score": 692
-        }
-      ],
-      "hotScore": 0.9548
+      "hotScore": 0.9689
     },
     {
       "id": "hupu-641421143",
@@ -4491,25 +4460,56 @@
       "url": "https://bbs.hupu.com/641421143.html",
       "author": "内马尔的妹妹",
       "publishedAt": "2026-07-30T12:06:50+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 40,
-      "replyCount": 106,
-      "viewCount": 47221,
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 47,
+      "replyCount": 124,
+      "viewCount": 57797,
       "topComments": [
         {
           "text": "国外都这么严重了吗？看虎扑新闻以为吃亏的是阿根廷呢",
-          "score": 972
+          "score": 1159
         },
         {
           "text": "我还以为有什么大的惩罚呢，结果你来一个禁止入境阿根廷，你这前提是得有人去阿根廷吧",
-          "score": 367
+          "score": 426
         },
         {
           "text": "被罗德里全场遛狗100分钟还争金球奖呢，受害者心理拉满。",
-          "score": 302
+          "score": 351
         }
       ],
-      "hotScore": 0.9519
+      "hotScore": 0.9662
+    },
+    {
+      "id": "hupu-641422845",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[情报站]Aiming：先听到对方情绪化言论；对方强烈表达难以同行意愿",
+      "excerpt": "虎扑07月30日讯 KT官宣交易Aiming选手至KRX后，Aiming选手更新个人社交媒体，原文翻译如下： 大家好，我是Aiming。 发布本立场声明的目的并非为了指责或归咎于任何人，而是为了向因突如其来的消息非常担心的粉丝们传达我真实的内心想法。 出于希望队伍能朝着更好方向发展的真心，我在积极进行复盘的过程中，与其他选手产生了意见分歧。在这个过程中，先听到了对方（其他选手）说出带有情绪化的言论，随着争论的持续，我们互相说出了一些伤害到彼此的话。 在这个过程中，我们双方都未",
+      "url": "https://bbs.hupu.com/641422845.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-30T13:10:14+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 50,
+      "replyCount": 493,
+      "viewCount": 238757,
+      "topComments": [
+        {
+          "text": "爱明肯定是受委屈了！bdd脾气很差的！爱明肯定弄不过bdd",
+          "score": 1932
+        },
+        {
+          "text": "虽然说bdd 打得不错，但是下路皮特➕大蛋也算爆种了",
+          "score": 758
+        },
+        {
+          "text": "鱼死网破，今晚就走",
+          "score": 702
+        }
+      ],
+      "hotScore": 0.9507
     },
     {
       "id": "hupu-641403216",
@@ -4522,25 +4522,25 @@
       "url": "https://bbs.hupu.com/641403216.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-29T22:29:10+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 633,
-      "viewCount": 269321,
+      "replyCount": 634,
+      "viewCount": 269671,
       "topComments": [
         {
           "text": "版本不就是让选手适应的么，适应不了就爪巴呗",
-          "score": 1547
+          "score": 1555
         },
         {
           "text": "viper的专属版本终于要爬了，ad走上路，ad走中路，ap走下路，到底是什么人在喜欢这些畸形版本",
-          "score": 896
+          "score": 898
         },
         {
           "text": "好！就得大刀阔斧地改，有点ad之魂的谁会喜欢看下路蛇女大战辛德拉，泽拉斯大战阿卡丽啊，闹了两个月传统ad该回来了",
-          "score": 735
+          "score": 739
         }
       ],
-      "hotScore": 0.9325
+      "hotScore": 0.9284
     },
     {
       "id": "hupu-641413086",
@@ -4553,10 +4553,10 @@
       "url": "https://bbs.hupu.com/641413086.html",
       "author": "氧气是个地铁",
       "publishedAt": "2026-07-30T06:46:45+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 2,
       "replyCount": 3,
-      "viewCount": 997,
+      "viewCount": 1155,
       "topComments": [
         {
           "text": "总统确实招募过",
@@ -4571,7 +4571,7 @@
           "score": 0
         }
       ],
-      "hotScore": 0.9263
+      "hotScore": 0.9222
     },
     {
       "id": "hupu-641416307",
@@ -4584,14 +4584,14 @@
       "url": "https://bbs.hupu.com/641416307.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-30T08:43:22+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
       "replyCount": 407,
-      "viewCount": 133092,
+      "viewCount": 134022,
       "topComments": [
         {
           "text": "马头不仅要拿周最佳，马头还要拿一阵上单",
-          "score": 1199
+          "score": 1209
         },
         {
           "text": "所以在涅槃组的theshy就打了个这种水平的zika！！！就拿了周最佳！合理吗！",
@@ -4599,10 +4599,10 @@
         },
         {
           "text": "wbg真无敌了，投入是不是lpl第二啊？老板要气疯了",
-          "score": 620
+          "score": 622
         }
       ],
-      "hotScore": 0.9241
+      "hotScore": 0.92
     },
     {
       "id": "hupu-641421155",
@@ -4615,43 +4615,12 @@
       "url": "https://bbs.hupu.com/641421155.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-30T12:07:16+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 301,
-      "viewCount": 240117,
+      "replyCount": 306,
+      "viewCount": 248298,
       "topComments": [],
-      "hotScore": 0.9151
-    },
-    {
-      "id": "hupu-641404489",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "有球迷发起请愿，要求撤销梅西的阿斯图里亚斯亲王体育奖",
-      "excerpt": "科贝电台：全球性请愿平台Change涌现30份请愿书，要求撤销梅西的阿斯图里亚斯亲王体育奖。 起因是世界杯决赛中，Change的用户们认为梅西“缺乏体育道德”。 其中一份请愿已超1500个签名，发起人称梅西“违背了体育界倡导的尊重和公平竞赛精神”。请愿书还提及阿根廷在颁奖仪式上的行为及赛后冲突，国际足联已就此事展开调查。 今年6月梅西被宣布为该奖得主，评委会表彰了他的职业生涯、慈善工作和球场上的模范行为，颁奖典礼定于10月举行。",
-      "url": "https://bbs.hupu.com/641404489.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-07-30T00:39:33+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 34,
-      "replyCount": 119,
-      "viewCount": 55832,
-      "topComments": [
-        {
-          "text": "这次能超过地球人数量吗",
-          "score": 767
-        },
-        {
-          "text": "谁干的，好难猜呀？",
-          "score": 243
-        },
-        {
-          "text": "这对号入座的不就来了",
-          "score": 186
-        }
-      ],
-      "hotScore": 0.9148
+      "hotScore": 0.911
     },
     {
       "id": "hupu-641422125",
@@ -4664,30 +4633,43 @@
       "url": "https://bbs.hupu.com/641422125.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-07-30T12:45:10+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 276,
-      "viewCount": 102628,
+      "replyCount": 277,
+      "viewCount": 106652,
       "topComments": [],
-      "hotScore": 0.8984
+      "hotScore": 0.8943
     },
     {
-      "id": "hupu-641414416",
-      "sport": "lol",
+      "id": "hupu-641404489",
+      "sport": "football",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[赛后]WBG 0-1 NIP：速龙战术中期发威，NIP首局强势击溃WBG",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641414416.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-30T07:43:17+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 50,
-      "replyCount": 266,
-      "viewCount": 76665,
-      "topComments": [],
-      "hotScore": 0.866
+      "board": "虎扑足球话题区",
+      "title": "有球迷发起请愿，要求撤销梅西的阿斯图里亚斯亲王体育奖",
+      "excerpt": "科贝电台：全球性请愿平台Change涌现30份请愿书，要求撤销梅西的阿斯图里亚斯亲王体育奖。 起因是世界杯决赛中，Change的用户们认为梅西“缺乏体育道德”。 其中一份请愿已超1500个签名，发起人称梅西“违背了体育界倡导的尊重和公平竞赛精神”。请愿书还提及阿根廷在颁奖仪式上的行为及赛后冲突，国际足联已就此事展开调查。 今年6月梅西被宣布为该奖得主，评委会表彰了他的职业生涯、慈善工作和球场上的模范行为，颁奖典礼定于10月举行。",
+      "url": "https://bbs.hupu.com/641404489.html",
+      "author": "内马尔的妹妹",
+      "publishedAt": "2026-07-30T00:39:33+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 34,
+      "replyCount": 119,
+      "viewCount": 56175,
+      "topComments": [
+        {
+          "text": "这次能超过地球人数量吗",
+          "score": 769
+        },
+        {
+          "text": "谁干的，好难猜呀？",
+          "score": 243
+        },
+        {
+          "text": "这对号入座的不就来了",
+          "score": 186
+        }
+      ],
+      "hotScore": 0.8923
     },
     {
       "id": "hupu-641426579",
@@ -4700,30 +4682,30 @@
       "url": "https://bbs.hupu.com/641426579.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-07-30T15:24:20+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 230,
-      "viewCount": 129321,
+      "replyCount": 264,
+      "viewCount": 172611,
       "topComments": [],
-      "hotScore": 0.8505
+      "hotScore": 0.8648
     },
     {
-      "id": "hupu-641409114",
+      "id": "hupu-641414416",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "[情报站]拳头设计师谈为何改动下路，并称听到很多选手对版本的抱怨",
+      "title": "[赛后]WBG 0-1 NIP：速龙战术中期发威，NIP首局强势击溃WBG",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641409114.html",
+      "url": "https://bbs.hupu.com/641414416.html",
       "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-30T03:55:10+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "publishedAt": "2026-07-30T07:43:17+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 241,
-      "viewCount": 142020,
+      "replyCount": 266,
+      "viewCount": 76973,
       "topComments": [],
-      "hotScore": 0.837
+      "hotScore": 0.8619
     },
     {
       "id": "hupu-641408705",
@@ -4736,25 +4718,25 @@
       "url": "https://bbs.hupu.com/641408705.html",
       "author": "圆圆的小福星",
       "publishedAt": "2026-07-30T03:39:03+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 28,
-      "replyCount": 56,
-      "viewCount": 7315,
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 30,
+      "replyCount": 61,
+      "viewCount": 8020,
       "topComments": [
         {
           "text": "要不把2022年世界杯给你罗？",
-          "score": 167
+          "score": 180
         },
         {
           "text": "一说阿根廷不好，某些人就高潮[捂脸]",
-          "score": 48
+          "score": 50
         },
         {
           "text": "真要翻旧账，最绕不开的是2022年对荷兰那场：帕雷德斯铲球后把球闷向荷兰替补席，直接引爆大规模冲突，当时只吃黄牌，赛后也没被追加处罚。再往前，2014年阿根廷还因为类似马岛主题横幅吃过罚单。但“之前几届都暴力”这个说法容易扩大化，目前FIFA正式立案的还是本届这几桩事：决赛后冲突、歧视口号、不当信息展示、延迟开球和秩序问题。旧账最多算舆论背景，能不能从重，得看纪律委员会有没有正式处罚记录，不是网友喊查就能无限追溯。",
-          "score": 35
+          "score": 37
         }
       ],
-      "hotScore": 0.8258
+      "hotScore": 0.8217
     },
     {
       "id": "hupu-641412530",
@@ -4767,10 +4749,10 @@
       "url": "https://bbs.hupu.com/641412530.html",
       "author": "tfoamy7664",
       "publishedAt": "2026-07-30T06:23:30+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 2,
-      "viewCount": 287,
+      "viewCount": 297,
       "topComments": [
         {
           "text": "Wnba有吗",
@@ -4781,7 +4763,25 @@
           "score": 0
         }
       ],
-      "hotScore": 0.8211
+      "hotScore": 0.817
+    },
+    {
+      "id": "hupu-641409114",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[情报站]拳头设计师谈为何改动下路，并称听到很多选手对版本的抱怨",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641409114.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-30T03:55:10+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 50,
+      "replyCount": 242,
+      "viewCount": 144835,
+      "topComments": [],
+      "hotScore": 0.8145
     },
     {
       "id": "hupu-641416474",
@@ -4794,12 +4794,12 @@
       "url": "https://bbs.hupu.com/641416474.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-07-30T08:48:19+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 50,
-      "replyCount": 226,
-      "viewCount": 100711,
+      "replyCount": 228,
+      "viewCount": 105494,
       "topComments": [],
-      "hotScore": 0.8138
+      "hotScore": 0.8097
     },
     {
       "id": "hupu-641423053",
@@ -4812,12 +4812,12 @@
       "url": "https://bbs.hupu.com/641423053.html",
       "author": "80后篮球老男孩",
       "publishedAt": "2026-07-30T13:17:17+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 381,
+      "viewCount": 411,
       "topComments": [],
-      "hotScore": 0.8111
+      "hotScore": 0.807
     },
     {
       "id": "hupu-641405125",
@@ -4830,12 +4830,12 @@
       "url": "https://bbs.hupu.com/641405125.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-07-30T01:12:30+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 22,
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 21,
       "replyCount": 75,
-      "viewCount": 38480,
+      "viewCount": 39210,
       "topComments": [],
-      "hotScore": 0.8085
+      "hotScore": 0.8043
     },
     {
       "id": "hupu-641419148",
@@ -4848,12 +4848,12 @@
       "url": "https://bbs.hupu.com/641419148.html",
       "author": "保卫猪猪左卫门",
       "publishedAt": "2026-07-30T10:26:06+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 213,
+      "viewCount": 227,
       "topComments": [],
-      "hotScore": 0.8032
+      "hotScore": 0.7991
     },
     {
       "id": "hupu-641422187",
@@ -4866,12 +4866,12 @@
       "url": "https://bbs.hupu.com/641422187.html",
       "author": "虎扑JR0182149831",
       "publishedAt": "2026-07-30T12:47:10+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 23,
-      "replyCount": 37,
-      "viewCount": 3803,
+      "replyCount": 39,
+      "viewCount": 4417,
       "topComments": [],
-      "hotScore": 0.7906
+      "hotScore": 0.7865
     },
     {
       "id": "hupu-641411138",
@@ -4884,12 +4884,12 @@
       "url": "https://bbs.hupu.com/641411138.html",
       "author": "速诚体育搬运工",
       "publishedAt": "2026-07-30T05:15:54+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 723,
+      "viewCount": 738,
       "topComments": [],
-      "hotScore": 0.7888
+      "hotScore": 0.7847
     },
     {
       "id": "hupu-641410682",
@@ -4902,12 +4902,12 @@
       "url": "https://bbs.hupu.com/641410682.html",
       "author": "赛场小助手",
       "publishedAt": "2026-07-30T04:58:12+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 19,
       "replyCount": 54,
-      "viewCount": 49988,
+      "viewCount": 50749,
       "topComments": [],
-      "hotScore": 0.74
+      "hotScore": 0.7359
     },
     {
       "id": "hupu-641425862",
@@ -4920,12 +4920,12 @@
       "url": "https://bbs.hupu.com/641425862.html",
       "author": "tfoamy7664",
       "publishedAt": "2026-07-30T15:00:51+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 114,
+      "viewCount": 140,
       "topComments": [],
-      "hotScore": 0.7284
+      "hotScore": 0.7243
     },
     {
       "id": "hupu-641425883",
@@ -4938,12 +4938,12 @@
       "url": "https://bbs.hupu.com/641425883.html",
       "author": "虎扑JR0798540203",
       "publishedAt": "2026-07-30T15:01:20+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 184,
+      "viewCount": 211,
       "topComments": [],
-      "hotScore": 0.7284
+      "hotScore": 0.7243
     },
     {
       "id": "hupu-641411532",
@@ -4956,12 +4956,12 @@
       "url": "https://bbs.hupu.com/641411532.html",
       "author": "N大帅B6",
       "publishedAt": "2026-07-30T05:35:32+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 195,
+      "viewCount": 199,
       "topComments": [],
-      "hotScore": 0.7022
+      "hotScore": 0.6981
     },
     {
       "id": "hupu-641411231",
@@ -4974,12 +4974,12 @@
       "url": "https://bbs.hupu.com/641411231.html",
       "author": "速诚体育搬运工",
       "publishedAt": "2026-07-30T05:20:18+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 341,
+      "viewCount": 346,
       "topComments": [],
-      "hotScore": 0.7015
+      "hotScore": 0.6974
     },
     {
       "id": "hupu-641410554",
@@ -4992,12 +4992,12 @@
       "url": "https://bbs.hupu.com/641410554.html",
       "author": "李天佑实名支持詹姆斯",
       "publishedAt": "2026-07-30T04:52:39+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 731,
+      "viewCount": 744,
       "topComments": [],
-      "hotScore": 0.7002
+      "hotScore": 0.6961
     },
     {
       "id": "hupu-641408748",
@@ -5010,12 +5010,12 @@
       "url": "https://bbs.hupu.com/641408748.html",
       "author": "芜湖起飞司令官",
       "publishedAt": "2026-07-30T03:40:30+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 136,
+      "viewCount": 142,
       "topComments": [],
-      "hotScore": 0.6969
+      "hotScore": 0.6928
     },
     {
       "id": "hupu-641405744",
@@ -5028,12 +5028,12 @@
       "url": "https://bbs.hupu.com/641405744.html",
       "author": "我跑得贼慢",
       "publishedAt": "2026-07-30T01:43:33+00:00",
-      "collectedAt": "2026-07-30T22:47:43.671769+00:00",
+      "collectedAt": "2026-07-31T00:16:20.052097+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 171,
+      "viewCount": 178,
       "topComments": [],
-      "hotScore": 0.6915
+      "hotScore": 0.6874
     },
     {
       "id": "hupu-641422935",
@@ -5046,12 +5046,12 @@
       "url": "https://bbs.hupu.com/641422935.html",
       "author": "内马尔的妹妹",
       "publishedAt": "2026-07-30T13:13:00+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 16,
-      "replyCount": 32,
-      "viewCount": 14972,
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 15,
+      "replyCount": 34,
+      "viewCount": 16885,
       "topComments": [],
-      "hotScore": 0.6839
+      "hotScore": 0.6798
     },
     {
       "id": "hupu-641409722",
@@ -5064,12 +5064,12 @@
       "url": "https://bbs.hupu.com/641409722.html",
       "author": "内马尔的妹妹",
       "publishedAt": "2026-07-30T04:18:39+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 14,
       "replyCount": 35,
-      "viewCount": 12906,
+      "viewCount": 12969,
       "topComments": [],
-      "hotScore": 0.6539
+      "hotScore": 0.6498
     },
     {
       "id": "hupu-641416345",
@@ -5082,12 +5082,12 @@
       "url": "https://bbs.hupu.com/641416345.html",
       "author": "别太离谱啊",
       "publishedAt": "2026-07-30T08:44:23+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 6,
       "replyCount": 69,
       "viewCount": 1304,
       "topComments": [],
-      "hotScore": 0.5741
+      "hotScore": 0.57
     },
     {
       "id": "hupu-641401600",
@@ -5100,12 +5100,12 @@
       "url": "https://bbs.hupu.com/641401600.html",
       "author": "哈喽wordi",
       "publishedAt": "2026-07-29T18:07:42+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 48,
-      "replyCount": 218,
-      "viewCount": 70232,
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 49,
+      "replyCount": 219,
+      "viewCount": 71745,
       "topComments": [],
-      "hotScore": 0.5414
+      "hotScore": 0.5373
     },
     {
       "id": "hupu-641403338",
@@ -5118,30 +5118,12 @@
       "url": "https://bbs.hupu.com/641403338.html",
       "author": "比诺托托沃尔夫",
       "publishedAt": "2026-07-29T22:49:20+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 11,
-      "replyCount": 21,
-      "viewCount": 21686,
+      "replyCount": 22,
+      "viewCount": 22103,
       "topComments": [],
-      "hotScore": 0.5413
-    },
-    {
-      "id": "hupu-641406857",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "这句话对吗？C罗球技=5金球+带队5欧冠+1欧洲杯",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641406857.html",
-      "author": "室友很懂球的",
-      "publishedAt": "2026-07-30T02:27:40+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 7,
-      "replyCount": 25,
-      "viewCount": 1405,
-      "topComments": [],
-      "hotScore": 0.5172
+      "hotScore": 0.5372
     },
     {
       "id": "hupu-641410332",
@@ -5154,30 +5136,30 @@
       "url": "https://bbs.hupu.com/641410332.html",
       "author": "晟之光",
       "publishedAt": "2026-07-30T04:44:00+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 9,
       "replyCount": 20,
-      "viewCount": 2195,
+      "viewCount": 2282,
       "topComments": [],
-      "hotScore": 0.5156
+      "hotScore": 0.5115
     },
     {
-      "id": "hupu-641424133",
-      "sport": "lol",
+      "id": "hupu-641406857",
+      "sport": "football",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[赛后]JDG 2-1 TT：奇招阵容效果不佳，JDG让一追二击败TT",
+      "board": "虎扑足球话题区",
+      "title": "这句话对吗？C罗球技=5金球+带队5欧冠+1欧洲杯",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641424133.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-07-30T13:55:55+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 27,
-      "replyCount": 84,
-      "viewCount": 40086,
+      "url": "https://bbs.hupu.com/641406857.html",
+      "author": "室友很懂球的",
+      "publishedAt": "2026-07-30T02:27:40+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 7,
+      "replyCount": 25,
+      "viewCount": 1434,
       "topComments": [],
-      "hotScore": 0.4938
+      "hotScore": 0.4894
     },
     {
       "id": "hupu-641412413",
@@ -5190,30 +5172,12 @@
       "url": "https://bbs.hupu.com/641412413.html",
       "author": "我是大头吹",
       "publishedAt": "2026-07-30T06:17:56+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 8,
       "replyCount": 19,
-      "viewCount": 2713,
+      "viewCount": 2810,
       "topComments": [],
-      "hotScore": 0.4779
-    },
-    {
-      "id": "hupu-641416456",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[JR热议]毫无还手之力，惨遭NIP横扫，WBG今天输在哪了？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641416456.html",
-      "author": "张电视Zzz",
-      "publishedAt": "2026-07-30T08:47:46+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 24,
-      "replyCount": 86,
-      "viewCount": 31843,
-      "topComments": [],
-      "hotScore": 0.4506
+      "hotScore": 0.4738
     },
     {
       "id": "hupu-641418545",
@@ -5226,48 +5190,66 @@
       "url": "https://bbs.hupu.com/641418545.html",
       "author": "虎扑JR2023153447",
       "publishedAt": "2026-07-30T09:59:29+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 27,
-      "replyCount": 82,
-      "viewCount": 20574,
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 30,
+      "replyCount": 89,
+      "viewCount": 27311,
       "topComments": [],
-      "hotScore": 0.446
+      "hotScore": 0.4445
     },
     {
-      "id": "hupu-641409981",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "溃不成军！纽卡斯尔友谊赛1-4惨败英冠球队布里斯托尔城",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641409981.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-07-30T04:29:25+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 7,
-      "replyCount": 16,
-      "viewCount": 15400,
-      "topComments": [],
-      "hotScore": 0.3939
-    },
-    {
-      "id": "hupu-641428549",
+      "id": "hupu-641424133",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "盗图装大师的小丑？你什么时候退出虎扑电竞区？",
+      "title": "[赛后]JDG 2-1 TT：奇招阵容效果不佳，JDG让一追二击败TT",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/641428549.html",
-      "author": "专吃男大",
-      "publishedAt": "2026-07-30T16:48:32+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 23,
-      "replyCount": 83,
-      "viewCount": 4113,
+      "url": "https://bbs.hupu.com/641424133.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-07-30T13:55:55+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 35,
+      "replyCount": 84,
+      "viewCount": 41452,
       "topComments": [],
-      "hotScore": 0.3886
+      "hotScore": 0.4292
+    },
+    {
+      "id": "hupu-641416456",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[JR热议]毫无还手之力，惨遭NIP横扫，WBG今天输在哪了？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641416456.html",
+      "author": "张电视Zzz",
+      "publishedAt": "2026-07-30T08:47:46+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 32,
+      "replyCount": 86,
+      "viewCount": 32925,
+      "topComments": [],
+      "hotScore": 0.4281
+    },
+    {
+      "id": "hupu-641416073",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "你认为2013年C罗偷走了金球奖吗？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641416073.html",
+      "author": "头发越长梅西越强",
+      "publishedAt": "2026-07-30T08:36:51+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 8,
+      "replyCount": 16,
+      "viewCount": 1715,
+      "topComments": [],
+      "hotScore": 0.4249
     },
     {
       "id": "hupu-641403846",
@@ -5280,12 +5262,30 @@
       "url": "https://bbs.hupu.com/641403846.html",
       "author": "Sophros",
       "publishedAt": "2026-07-29T23:49:20+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 24,
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 41,
       "replyCount": 82,
-      "viewCount": 95208,
+      "viewCount": 104031,
       "topComments": [],
-      "hotScore": 0.3704
+      "hotScore": 0.3952
+    },
+    {
+      "id": "hupu-641428549",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "盗图装大师的小丑？你什么时候退出虎扑电竞区？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641428549.html",
+      "author": "专吃男大",
+      "publishedAt": "2026-07-30T16:48:32+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 25,
+      "replyCount": 85,
+      "viewCount": 5681,
+      "topComments": [],
+      "hotScore": 0.3845
     },
     {
       "id": "hupu-641411993",
@@ -5298,12 +5298,30 @@
       "url": "https://bbs.hupu.com/641411993.html",
       "author": "等金色的皮肤",
       "publishedAt": "2026-07-30T05:57:19+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 15,
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 23,
       "replyCount": 88,
-      "viewCount": 33550,
+      "viewCount": 33678,
       "topComments": [],
-      "hotScore": 0.3664
+      "hotScore": 0.3675
+    },
+    {
+      "id": "hupu-641409981",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "溃不成军！纽卡斯尔友谊赛1-4惨败英冠球队布里斯托尔城",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641409981.html",
+      "author": "内马尔的妹妹",
+      "publishedAt": "2026-07-30T04:29:25+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 7,
+      "replyCount": 16,
+      "viewCount": 15475,
+      "topComments": [],
+      "hotScore": 0.3661
     },
     {
       "id": "hupu-641410253",
@@ -5316,30 +5334,12 @@
       "url": "https://bbs.hupu.com/641410253.html",
       "author": "用户0941035292",
       "publishedAt": "2026-07-30T04:40:15+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 47,
       "replyCount": 75,
-      "viewCount": 11995,
+      "viewCount": 12190,
       "topComments": [],
-      "hotScore": 0.3628
-    },
-    {
-      "id": "hupu-641408933",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "郎才女貌！贝林厄姆和女友甜蜜度假",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641408933.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-07-30T03:48:02+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 7,
-      "replyCount": 14,
-      "viewCount": 14568,
-      "topComments": [],
-      "hotScore": 0.3551
+      "hotScore": 0.3587
     },
     {
       "id": "hupu-641401909",
@@ -5352,12 +5352,30 @@
       "url": "https://bbs.hupu.com/641401909.html",
       "author": "比诺托托沃尔夫",
       "publishedAt": "2026-07-29T18:41:52+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 4,
       "replyCount": 23,
-      "viewCount": 11003,
+      "viewCount": 11038,
       "topComments": [],
-      "hotScore": 0.3351
+      "hotScore": 0.331
+    },
+    {
+      "id": "hupu-641421251",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "如果把这届葡萄牙C罗换成梅西，那这届世界杯葡萄牙夺冠可能有多少",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641421251.html",
+      "author": "串长吕七桑",
+      "publishedAt": "2026-07-30T12:10:51+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
+      "score": 5,
+      "replyCount": 16,
+      "viewCount": 1334,
+      "topComments": [],
+      "hotScore": 0.3164
     },
     {
       "id": "hupu-641408670",
@@ -5370,12 +5388,12 @@
       "url": "https://bbs.hupu.com/641408670.html",
       "author": "虎扑JR1695828806",
       "publishedAt": "2026-07-30T03:37:35+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 5,
       "replyCount": 16,
-      "viewCount": 4674,
+      "viewCount": 4850,
       "topComments": [],
-      "hotScore": 0.2967
+      "hotScore": 0.2926
     },
     {
       "id": "hupu-641412336",
@@ -5388,12 +5406,12 @@
       "url": "https://bbs.hupu.com/641412336.html",
       "author": "传奇山鬼",
       "publishedAt": "2026-07-30T06:15:01+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 4,
       "replyCount": 18,
-      "viewCount": 1758,
+      "viewCount": 1799,
       "topComments": [],
-      "hotScore": 0.2935
+      "hotScore": 0.2894
     },
     {
       "id": "hupu-641404822",
@@ -5406,48 +5424,12 @@
       "url": "https://bbs.hupu.com/641404822.html",
       "author": "陈泽彬的小书包",
       "publishedAt": "2026-07-30T00:57:03+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 16,
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 22,
       "replyCount": 80,
-      "viewCount": 18980,
+      "viewCount": 19588,
       "topComments": [],
-      "hotScore": 0.2656
-    },
-    {
-      "id": "hupu-641421497",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "lck只要队内出问题。两三天就处理明白了。阿明和大菠萝都是直接被踢。反观某路边赛区。能胶黏半个月，现在还没胶黏明白。",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641421497.html",
-      "author": "陈泽彬的小书包",
-      "publishedAt": "2026-07-30T12:21:10+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
-      "score": 15,
-      "replyCount": 76,
-      "viewCount": 6556,
-      "topComments": [],
-      "hotScore": 0.2552
-    },
-    {
-      "id": "hupu-641409947",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "安切洛蒂谈巴西被挪威淘汰：问题出在我对阵容做了调整",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/641409947.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-07-30T04:28:05+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
-      "score": 5,
-      "replyCount": 13,
-      "viewCount": 5141,
-      "topComments": [],
-      "hotScore": 0.2438
+      "hotScore": 0.2378
     },
     {
       "id": "hupu-641405339",
@@ -5460,12 +5442,30 @@
       "url": "https://bbs.hupu.com/641405339.html",
       "author": "eagleyin11",
       "publishedAt": "2026-07-30T01:23:56+00:00",
-      "collectedAt": "2026-07-30T22:47:47.327745+00:00",
+      "collectedAt": "2026-07-31T00:16:23.877852+00:00",
       "score": 1,
       "replyCount": 18,
-      "viewCount": 460,
+      "viewCount": 463,
       "topComments": [],
-      "hotScore": 0.2327
+      "hotScore": 0.2286
+    },
+    {
+      "id": "hupu-641421497",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "lck只要队内出问题。两三天就处理明白了。阿明和大菠萝都是直接被踢。反观某路边赛区。能胶黏半个月，现在还没胶黏明白。",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/641421497.html",
+      "author": "陈泽彬的小书包",
+      "publishedAt": "2026-07-30T12:21:10+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
+      "score": 16,
+      "replyCount": 77,
+      "viewCount": 7182,
+      "topComments": [],
+      "hotScore": 0.2274
     },
     {
       "id": "hupu-641426969",
@@ -5478,12 +5478,12 @@
       "url": "https://bbs.hupu.com/641426969.html",
       "author": "虎扑JR2044686157",
       "publishedAt": "2026-07-30T15:39:01+00:00",
-      "collectedAt": "2026-07-30T22:47:50.055137+00:00",
+      "collectedAt": "2026-07-31T00:16:27.471423+00:00",
       "score": 9,
       "replyCount": 76,
-      "viewCount": 6265,
+      "viewCount": 6545,
       "topComments": [],
-      "hotScore": 0.217
+      "hotScore": 0.1945
     }
   ]
 }
