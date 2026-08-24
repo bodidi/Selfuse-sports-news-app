@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:45:54.857529+00:00",
+  "updatedAt": "2026-08-24T22:05:35.190820+00:00",
   "matches": [
     {
       "id": "football-401882926",
@@ -883,307 +883,6 @@
         "format": "BO3",
         "games": [
           {
-            "gameId": "116566854547769749",
-            "gameNumber": 1,
-            "state": "finished",
-            "patch": "16.16",
-            "duration": 1552,
-            "teams": [
-              {
-                "id": "99566404852189289",
-                "name": "JDG",
-                "side": "blue",
-                "gold": 54836,
-                "kills": 10,
-                "towers": 9,
-                "dragons": 2,
-                "dragonTypes": [
-                  "chemtech",
-                  "infernal"
-                ],
-                "barons": 1,
-                "inhibitors": 1
-              },
-              {
-                "id": "98767991882270868",
-                "name": "EDG",
-                "side": "red",
-                "gold": 44615,
-                "kills": 4,
-                "towers": 1,
-                "dragons": 0,
-                "dragonTypes": [],
-                "barons": 0,
-                "inhibitors": 0
-              }
-            ],
-            "players": [
-              {
-                "participantId": 1,
-                "team": "JDG",
-                "side": "blue",
-                "name": "JDGXiaoxu",
-                "role": "top",
-                "champion": "Jax",
-                "level": 18,
-                "kills": 4,
-                "deaths": 0,
-                "assists": 1,
-                "gold": 12505,
-                "cs": 279,
-                "killParticipation": 0.5,
-                "damageShare": 0.22600813686397878,
-                "wardsPlaced": 12,
-                "wardsDestroyed": 3,
-                "items": [
-                  1055,
-                  3340,
-                  3078,
-                  3047,
-                  6610,
-                  2055
-                ]
-              },
-              {
-                "participantId": 2,
-                "team": "JDG",
-                "side": "blue",
-                "name": "JDGxiaofang",
-                "role": "jungle",
-                "champion": "Naafiri",
-                "level": 15,
-                "kills": 0,
-                "deaths": 2,
-                "assists": 5,
-                "gold": 10080,
-                "cs": 202,
-                "killParticipation": 0.5,
-                "damageShare": 0.12459485483782735,
-                "wardsPlaced": 8,
-                "wardsDestroyed": 11,
-                "items": [
-                  6692,
-                  3071,
-                  6695,
-                  1036,
-                  2055
-                ]
-              },
-              {
-                "participantId": 3,
-                "team": "JDG",
-                "side": "blue",
-                "name": "JDGHongQ",
-                "role": "mid",
-                "champion": "Orianna",
-                "level": 17,
-                "kills": 3,
-                "deaths": 0,
-                "assists": 1,
-                "gold": 10834,
-                "cs": 271,
-                "killParticipation": 0.4,
-                "damageShare": 0.3990767073390909,
-                "wardsPlaced": 14,
-                "wardsDestroyed": 2,
-                "items": [
-                  6657,
-                  3363,
-                  3158,
-                  1082,
-                  3157,
-                  2055,
-                  1058
-                ]
-              },
-              {
-                "participantId": 4,
-                "team": "JDG",
-                "side": "blue",
-                "name": "JDGGALA",
-                "role": "bottom",
-                "champion": "Yunara",
-                "level": 14,
-                "kills": 3,
-                "deaths": 1,
-                "assists": 1,
-                "gold": 13949,
-                "cs": 306,
-                "killParticipation": 0.4,
-                "damageShare": 0.19870149397583714,
-                "wardsPlaced": 12,
-                "wardsDestroyed": 21,
-                "items": [
-                  1086,
-                  6672,
-                  3047,
-                  3363,
-                  3085,
-                  3031,
-                  2055,
-                  3035
-                ]
-              },
-              {
-                "participantId": 5,
-                "team": "JDG",
-                "side": "blue",
-                "name": "JDGVampire",
-                "role": "support",
-                "champion": "Lulu",
-                "level": 12,
-                "kills": 0,
-                "deaths": 1,
-                "assists": 7,
-                "gold": 7468,
-                "cs": 31,
-                "killParticipation": 0.7,
-                "damageShare": 0.05161880698326584,
-                "wardsPlaced": 44,
-                "wardsDestroyed": 7,
-                "items": [
-                  3364,
-                  3222,
-                  3504,
-                  1052,
-                  2055
-                ]
-              },
-              {
-                "participantId": 6,
-                "team": "EDG",
-                "side": "red",
-                "name": "EDGZdz",
-                "role": "top",
-                "champion": "Olaf",
-                "level": 15,
-                "kills": 0,
-                "deaths": 2,
-                "assists": 1,
-                "gold": 7958,
-                "cs": 215,
-                "killParticipation": 0.25,
-                "damageShare": 0.14861701197271415,
-                "wardsPlaced": 12,
-                "wardsDestroyed": 2,
-                "items": [
-                  1120,
-                  3340,
-                  3047,
-                  3073,
-                  3044,
-                  1042,
-                  3077
-                ]
-              },
-              {
-                "participantId": 7,
-                "team": "EDG",
-                "side": "red",
-                "name": "EDGJiejie",
-                "role": "jungle",
-                "champion": "Vi",
-                "level": 13,
-                "kills": 0,
-                "deaths": 2,
-                "assists": 3,
-                "gold": 8692,
-                "cs": 180,
-                "killParticipation": 0.75,
-                "damageShare": 0.16412698454186211,
-                "wardsPlaced": 7,
-                "wardsDestroyed": 12,
-                "items": [
-                  3364,
-                  6610,
-                  3071,
-                  3111,
-                  1036,
-                  2055
-                ]
-              },
-              {
-                "participantId": 8,
-                "team": "EDG",
-                "side": "red",
-                "name": "EDGBuLLDoG",
-                "role": "mid",
-                "champion": "Locke",
-                "level": 15,
-                "kills": 1,
-                "deaths": 2,
-                "assists": 0,
-                "gold": 9805,
-                "cs": 265,
-                "killParticipation": 0.25,
-                "damageShare": 0.2590498152227778,
-                "wardsPlaced": 6,
-                "wardsDestroyed": 11,
-                "items": [
-                  1056,
-                  1082,
-                  3364,
-                  3152,
-                  3100,
-                  1058
-                ]
-              },
-              {
-                "participantId": 9,
-                "team": "EDG",
-                "side": "red",
-                "name": "EDGLeave",
-                "role": "bottom",
-                "champion": "Jhin",
-                "level": 14,
-                "kills": 2,
-                "deaths": 1,
-                "assists": 1,
-                "gold": 11987,
-                "cs": 288,
-                "killParticipation": 0.75,
-                "damageShare": 0.31559041468103416,
-                "wardsPlaced": 11,
-                "wardsDestroyed": 4,
-                "items": [
-                  1120,
-                  3363,
-                  6697,
-                  6695,
-                  3036
-                ]
-              },
-              {
-                "participantId": 10,
-                "team": "EDG",
-                "side": "red",
-                "name": "EDGParukia",
-                "role": "support",
-                "champion": "Seraphine",
-                "level": 10,
-                "kills": 1,
-                "deaths": 3,
-                "assists": 1,
-                "gold": 6173,
-                "cs": 32,
-                "killParticipation": 0.5,
-                "damageShare": 0.11261577358161176,
-                "wardsPlaced": 54,
-                "wardsDestroyed": 12,
-                "items": [
-                  3070,
-                  3364,
-                  6617,
-                  3158,
-                  2022,
-                  2055,
-                  2055,
-                  3114
-                ]
-              }
-            ]
-          },
-          {
             "gameId": "116566854547769751",
             "gameNumber": 3,
             "state": "finished",
@@ -1829,321 +1528,6 @@
                 ]
               }
             ]
-          },
-          {
-            "gameId": "116566854547769666",
-            "gameNumber": 2,
-            "state": "finished",
-            "patch": "16.16",
-            "duration": 2457,
-            "teams": [
-              {
-                "id": "99566404856367466",
-                "name": "AL",
-                "side": "blue",
-                "gold": 72044,
-                "kills": 15,
-                "towers": 4,
-                "dragons": 1,
-                "dragonTypes": [
-                  "mountain"
-                ],
-                "barons": 0,
-                "inhibitors": 0
-              },
-              {
-                "id": "99566404853854212",
-                "name": "BLG",
-                "side": "red",
-                "gold": 84255,
-                "kills": 21,
-                "towers": 10,
-                "dragons": 4,
-                "dragonTypes": [
-                  "chemtech",
-                  "cloud",
-                  "cloud",
-                  "cloud"
-                ],
-                "barons": 3,
-                "inhibitors": 3
-              }
-            ],
-            "players": [
-              {
-                "participantId": 1,
-                "team": "AL",
-                "side": "blue",
-                "name": "ALBreathe",
-                "role": "top",
-                "champion": "Ambessa",
-                "level": 19,
-                "kills": 3,
-                "deaths": 4,
-                "assists": 3,
-                "gold": 13840,
-                "cs": 311,
-                "killParticipation": 0.4,
-                "damageShare": 0.184075176492964,
-                "wardsPlaced": 10,
-                "wardsDestroyed": 11,
-                "items": [
-                  3155,
-                  6692,
-                  3364,
-                  3161,
-                  6333,
-                  3047,
-                  1038
-                ]
-              },
-              {
-                "participantId": 2,
-                "team": "AL",
-                "side": "blue",
-                "name": "ALTarzan",
-                "role": "jungle",
-                "champion": "Pantheon",
-                "level": 18,
-                "kills": 7,
-                "deaths": 5,
-                "assists": 1,
-                "gold": 16508,
-                "cs": 283,
-                "killParticipation": 0.5333333333333333,
-                "damageShare": 0.1692695428218714,
-                "wardsPlaced": 19,
-                "wardsDestroyed": 16,
-                "items": [
-                  6610,
-                  3071,
-                  3111,
-                  3026,
-                  6695
-                ]
-              },
-              {
-                "participantId": 3,
-                "team": "AL",
-                "side": "blue",
-                "name": "ALShanks",
-                "role": "mid",
-                "champion": "Annie",
-                "level": 17,
-                "kills": 0,
-                "deaths": 6,
-                "assists": 5,
-                "gold": 12593,
-                "cs": 284,
-                "killParticipation": 0.3333333333333333,
-                "damageShare": 0.17826126231150136,
-                "wardsPlaced": 18,
-                "wardsDestroyed": 11,
-                "items": [
-                  1082,
-                  3152,
-                  3363,
-                  3118,
-                  4645,
-                  2420
-                ]
-              },
-              {
-                "participantId": 4,
-                "team": "AL",
-                "side": "blue",
-                "name": "ALHope",
-                "role": "bottom",
-                "champion": "Caitlyn",
-                "level": 17,
-                "kills": 3,
-                "deaths": 4,
-                "assists": 4,
-                "gold": 18346,
-                "cs": 436,
-                "killParticipation": 0.4666666666666667,
-                "damageShare": 0.298821988957285,
-                "wardsPlaced": 21,
-                "wardsDestroyed": 22,
-                "items": [
-                  1086,
-                  6676,
-                  3363,
-                  3031,
-                  3006,
-                  3094,
-                  3036,
-                  1038
-                ]
-              },
-              {
-                "participantId": 5,
-                "team": "AL",
-                "side": "blue",
-                "name": "ALKael",
-                "role": "support",
-                "champion": "Lux",
-                "level": 15,
-                "kills": 2,
-                "deaths": 2,
-                "assists": 9,
-                "gold": 10757,
-                "cs": 41,
-                "killParticipation": 0.7333333333333333,
-                "damageShare": 0.16957202941637822,
-                "wardsPlaced": 105,
-                "wardsDestroyed": 13,
-                "items": [
-                  3364,
-                  2065,
-                  3158,
-                  3916,
-                  3107,
-                  2420,
-                  2055,
-                  2055
-                ]
-              },
-              {
-                "participantId": 6,
-                "team": "BLG",
-                "side": "red",
-                "name": "BLGFlandre",
-                "role": "top",
-                "champion": "Rumble",
-                "level": 20,
-                "kills": 2,
-                "deaths": 2,
-                "assists": 6,
-                "gold": 14323,
-                "cs": 285,
-                "killParticipation": 0.38095238095238093,
-                "damageShare": 0.14057272544367333,
-                "wardsPlaced": 32,
-                "wardsDestroyed": 6,
-                "items": [
-                  3047,
-                  6653,
-                  3363,
-                  8010,
-                  3157,
-                  1052,
-                  2055
-                ]
-              },
-              {
-                "participantId": 7,
-                "team": "BLG",
-                "side": "red",
-                "name": "BLGXun",
-                "role": "jungle",
-                "champion": "Vi",
-                "level": 18,
-                "kills": 6,
-                "deaths": 3,
-                "assists": 11,
-                "gold": 17880,
-                "cs": 305,
-                "killParticipation": 0.8095238095238095,
-                "damageShare": 0.18100047603183503,
-                "wardsPlaced": 17,
-                "wardsDestroyed": 18,
-                "items": [
-                  3364,
-                  6610,
-                  3071,
-                  3111,
-                  3026,
-                  6333,
-                  2055,
-                  2055,
-                  2140
-                ]
-              },
-              {
-                "participantId": 8,
-                "team": "BLG",
-                "side": "red",
-                "name": "BLGKnight",
-                "role": "mid",
-                "champion": "Aurora",
-                "level": 18,
-                "kills": 4,
-                "deaths": 2,
-                "assists": 8,
-                "gold": 16931,
-                "cs": 335,
-                "killParticipation": 0.5714285714285714,
-                "damageShare": 0.2538896560671926,
-                "wardsPlaced": 6,
-                "wardsDestroyed": 14,
-                "items": [
-                  3152,
-                  3364,
-                  4645,
-                  3135,
-                  3041,
-                  3157,
-                  2139
-                ]
-              },
-              {
-                "participantId": 9,
-                "team": "BLG",
-                "side": "red",
-                "name": "BLGViper",
-                "role": "bottom",
-                "champion": "Yunara",
-                "level": 18,
-                "kills": 8,
-                "deaths": 4,
-                "assists": 8,
-                "gold": 23293,
-                "cs": 471,
-                "killParticipation": 0.7619047619047619,
-                "damageShare": 0.3672967166089607,
-                "wardsPlaced": 24,
-                "wardsDestroyed": 35,
-                "items": [
-                  6672,
-                  3047,
-                  3363,
-                  3085,
-                  3031,
-                  6673,
-                  3036,
-                  1038,
-                  2140
-                ]
-              },
-              {
-                "participantId": 10,
-                "team": "BLG",
-                "side": "red",
-                "name": "BLGON",
-                "role": "support",
-                "champion": "Lulu",
-                "level": 16,
-                "kills": 1,
-                "deaths": 4,
-                "assists": 17,
-                "gold": 11828,
-                "cs": 29,
-                "killParticipation": 0.8571428571428571,
-                "damageShare": 0.057240425848338314,
-                "wardsPlaced": 97,
-                "wardsDestroyed": 9,
-                "items": [
-                  3364,
-                  3222,
-                  3504,
-                  3158,
-                  6617,
-                  3114,
-                  2138
-                ]
-              }
-            ]
           }
         ]
       }
@@ -2592,12 +1976,12 @@
       "url": "https://bbs.hupu.com/642067256.html",
       "author": "阿俊篮球6",
       "publishedAt": "2026-08-24T13:59:49+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 1,
-      "viewCount": 126,
+      "viewCount": 130,
       "topComments": [],
-      "hotScore": 0.9784
+      "hotScore": 0.9775
     },
     {
       "id": "hupu-642054449",
@@ -2610,25 +1994,25 @@
       "url": "https://bbs.hupu.com/642054449.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T02:14:20+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 50,
       "replyCount": 348,
-      "viewCount": 263552,
+      "viewCount": 263736,
       "topComments": [
         {
           "text": "其实也不算吧，大家都知道blg的风格是这样的，战队的分析师也不是吃干饭的。但问题是 知道 和 做到 之间的差距是很大的，你怎么知道on这一波往前走是发狂了还是后面跟着xun和knight呢",
-          "score": 2747
+          "score": 2749
         },
         {
           "text": "确实你说的是对的，第一视角和上帝视角完全两个游戏",
-          "score": 1389
+          "score": 1391
         },
         {
           "text": "we赢得那个bo5，就是we5个人，完全不吃压力（不是对线压力，是blg类似于on一个人，假动作施压的时候），有点乱拳打死老师傅的感觉",
           "score": 1282
         }
       ],
-      "hotScore": 0.9458
+      "hotScore": 0.9449
     },
     {
       "id": "hupu-642052727",
@@ -2641,10 +2025,10 @@
       "url": "https://bbs.hupu.com/642052727.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T00:16:24+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 34,
       "replyCount": 115,
-      "viewCount": 30132,
+      "viewCount": 30191,
       "topComments": [
         {
           "text": "没闹吗？这不是一直在闹转会吗？",
@@ -2659,7 +2043,7 @@
           "score": 110
         }
       ],
-      "hotScore": 0.9403
+      "hotScore": 0.9394
     },
     {
       "id": "hupu-642068043",
@@ -2672,14 +2056,14 @@
       "url": "https://bbs.hupu.com/642068043.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-08-24T14:46:07+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 24,
       "replyCount": 82,
-      "viewCount": 17801,
+      "viewCount": 18195,
       "topComments": [
         {
           "text": "董路这人招人厌就是因为这张破嘴，老摆出一副你们懂个屁 老子来教你的腔调来讨论事情",
-          "score": 278
+          "score": 282
         },
         {
           "text": "就这条视频而言，对董路路转黑",
@@ -2687,10 +2071,41 @@
         },
         {
           "text": "居然才转黑吗，有点晚了",
-          "score": 109
+          "score": 111
         }
       ],
-      "hotScore": 0.9385
+      "hotScore": 0.9376
+    },
+    {
+      "id": "hupu-642063413",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]Inspired：如果不是遇到巅峰DK，SofM那年就会轻松夺冠",
+      "excerpt": "虎扑08月24日讯 近日Inspired接受外媒视频访谈，其中关于SofM内容如下： Q：顺便说一下，我们上一次采访其实也聊过这个，你算是 SofM的粉丝。 有些人可能会觉得这个答案挺特别的，因为SofM并没有那么出名。但如果大家不了解的话，在LPL其实很多非常厉害的打野，Tian之类的选手都会认可SofM。他们觉得这个人在地图路线规划、打野理解这方面，可以说是一个非常有前瞻性的人。所以我能不能这么说：其实你的打法很大程度上是参考SofM建立起来的？某种程度上，就像你刚才说的",
+      "url": "https://bbs.hupu.com/642063413.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-08-24T10:25:54+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
+      "score": 50,
+      "replyCount": 205,
+      "viewCount": 88896,
+      "topComments": [
+        {
+          "text": "sf刚来LPL的时候，是真给LPL打野上了一课，后面开源后大家打他胜率才起来的",
+          "score": 800
+        },
+        {
+          "text": "当时我看到 Sofm 第四把有点摆烂似的玩男枪的时候我其实有点生气的，我在想好好打还是有机会的。 结果以现在的视角来看的话，我是知道为什么他那么生气的。别人 Canyon 配野核都是奥恩凯南辛德拉这样的，他玩个豹女配贾克斯配阿卡丽配什么船长之类的真的是没法玩，下路也不是一个等级，还要一直被 Berryl 辅助搞，真的心态早就崩了。玩野核的懂的都懂。",
+          "score": 512
+        },
+        {
+          "text": "典中典之小花生找不到宁王，是因为宁王刷的太慢了",
+          "score": 223
+        }
+      ],
+      "hotScore": 0.9308
     },
     {
       "id": "hupu-642053591",
@@ -2703,10 +2118,10 @@
       "url": "https://bbs.hupu.com/642053591.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T01:23:56+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 50,
       "replyCount": 247,
-      "viewCount": 111464,
+      "viewCount": 111586,
       "topComments": [
         {
           "text": "fpx队员爆过胜率。fpx打g2几乎没输过，打t1几乎没赢过。这个就跟体系克制一样。s8rng就是压着ig打一样。上中优势弥补不了下的劣势。fpx那个泰坦 兰博摇摆。配上小天独一档的超模。fpx纯在玩自己的东西。别的队都在玩天使kasha，fpx1把不玩。还有刚改版的飞雷神akl也不玩。doinb体系巅峰就是 s9世界赛。",
@@ -2721,7 +2136,7 @@
           "score": 352
         }
       ],
-      "hotScore": 0.925
+      "hotScore": 0.9241
     },
     {
       "id": "hupu-642068882",
@@ -2734,12 +2149,12 @@
       "url": "https://bbs.hupu.com/642068882.html",
       "author": "速诚体育搬运工",
       "publishedAt": "2026-08-24T15:41:00+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 482,
+      "viewCount": 490,
       "topComments": [],
-      "hotScore": 0.9248
+      "hotScore": 0.9239
     },
     {
       "id": "hupu-642066529",
@@ -2752,12 +2167,12 @@
       "url": "https://bbs.hupu.com/642066529.html",
       "author": "悉达多的内心世界",
       "publishedAt": "2026-08-24T13:19:29+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 1749,
+      "viewCount": 1781,
       "topComments": [],
-      "hotScore": 0.9182
+      "hotScore": 0.9173
     },
     {
       "id": "hupu-642065034",
@@ -2770,12 +2185,12 @@
       "url": "https://bbs.hupu.com/642065034.html",
       "author": "氧气是个地铁",
       "publishedAt": "2026-08-24T11:57:50+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 240,
+      "viewCount": 244,
       "topComments": [],
-      "hotScore": 0.9145
+      "hotScore": 0.9135
     },
     {
       "id": "hupu-642054415",
@@ -2788,12 +2203,12 @@
       "url": "https://bbs.hupu.com/642054415.html",
       "author": "司南NBA",
       "publishedAt": "2026-08-24T02:12:40+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 1019,
+      "viewCount": 1026,
       "topComments": [],
-      "hotScore": 0.8874
+      "hotScore": 0.8865
     },
     {
       "id": "hupu-642054222",
@@ -2806,12 +2221,12 @@
       "url": "https://bbs.hupu.com/642054222.html",
       "author": "虎扑JR1493741004",
       "publishedAt": "2026-08-24T02:01:09+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 1137,
+      "viewCount": 1142,
       "topComments": [],
-      "hotScore": 0.8868
+      "hotScore": 0.8859
     },
     {
       "id": "hupu-642054636",
@@ -2824,10 +2239,10 @@
       "url": "https://bbs.hupu.com/642054636.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T02:24:37+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 19,
       "replyCount": 70,
-      "viewCount": 40735,
+      "viewCount": 40744,
       "topComments": [
         {
           "text": "因子挺关心啊",
@@ -2842,7 +2257,7 @@
           "score": 107
         }
       ],
-      "hotScore": 0.862
+      "hotScore": 0.8611
     },
     {
       "id": "hupu-642049040",
@@ -2855,43 +2270,12 @@
       "url": "https://bbs.hupu.com/642049040.html",
       "author": "辉煌银星",
       "publishedAt": "2026-08-23T16:44:50+00:00",
-      "collectedAt": "2026-08-24T21:45:23.000491+00:00",
+      "collectedAt": "2026-08-24T22:05:05.442205+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 499,
+      "viewCount": 503,
       "topComments": [],
-      "hotScore": 0.8611
-    },
-    {
-      "id": "hupu-642063413",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[流言板]Inspired：如果不是遇到巅峰DK，SofM那年就会轻松夺冠",
-      "excerpt": "虎扑08月24日讯 近日Inspired接受外媒视频访谈，其中关于SofM内容如下： Q：顺便说一下，我们上一次采访其实也聊过这个，你算是 SofM的粉丝。 有些人可能会觉得这个答案挺特别的，因为SofM并没有那么出名。但如果大家不了解的话，在LPL其实很多非常厉害的打野，Tian之类的选手都会认可SofM。他们觉得这个人在地图路线规划、打野理解这方面，可以说是一个非常有前瞻性的人。所以我能不能这么说：其实你的打法很大程度上是参考SofM建立起来的？某种程度上，就像你刚才说的",
-      "url": "https://bbs.hupu.com/642063413.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-08-24T10:25:54+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
-      "score": 49,
-      "replyCount": 202,
-      "viewCount": 88398,
-      "topComments": [
-        {
-          "text": "sf刚来LPL的时候，是真给LPL打野上了一课，后面开源后大家打他胜率才起来的",
-          "score": 794
-        },
-        {
-          "text": "当时我看到 Sofm 第四把有点摆烂似的玩男枪的时候我其实有点生气的，我在想好好打还是有机会的。 结果以现在的视角来看的话，我是知道为什么他那么生气的。别人 Canyon 配野核都是奥恩凯南辛德拉这样的，他玩个豹女配贾克斯配阿卡丽配什么船长之类的真的是没法玩，下路也不是一个等级，还要一直被 Berryl 辅助搞，真的心态早就崩了。玩野核的懂的都懂。",
-          "score": 508
-        },
-        {
-          "text": "典中典之小花生找不到宁王，是因为宁王刷的太慢了",
-          "score": 221
-        }
-      ],
-      "hotScore": 0.8606
+      "hotScore": 0.8602
     },
     {
       "id": "hupu-642053688",
@@ -2904,30 +2288,12 @@
       "url": "https://bbs.hupu.com/642053688.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T01:30:04+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 50,
       "replyCount": 174,
-      "viewCount": 424211,
+      "viewCount": 424788,
       "topComments": [],
-      "hotScore": 0.8516
-    },
-    {
-      "id": "hupu-642052831",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "赛后阿尔瓦雷斯没有和队友一起谢场，而是直接走回更衣室",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/642052831.html",
-      "author": "国足不进美加墨不改名",
-      "publishedAt": "2026-08-24T00:26:09+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
-      "score": 18,
-      "replyCount": 67,
-      "viewCount": 25499,
-      "topComments": [],
-      "hotScore": 0.7908
+      "hotScore": 0.8507
     },
     {
       "id": "hupu-642055035",
@@ -2940,30 +2306,30 @@
       "url": "https://bbs.hupu.com/642055035.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T02:47:59+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 47,
       "replyCount": 181,
-      "viewCount": 93723,
+      "viewCount": 93798,
       "topComments": [],
-      "hotScore": 0.7737
+      "hotScore": 0.7964
     },
     {
-      "id": "hupu-642059139",
+      "id": "hupu-642052831",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "这么夸张的吗，两人差距这么大是怎么双骄的？",
+      "title": "赛后阿尔瓦雷斯没有和队友一起谢场，而是直接走回更衣室",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/642059139.html",
-      "author": "狱卒123",
-      "publishedAt": "2026-08-24T06:35:45+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
-      "score": 17,
-      "replyCount": 50,
-      "viewCount": 7667,
+      "url": "https://bbs.hupu.com/642052831.html",
+      "author": "国足不进美加墨不改名",
+      "publishedAt": "2026-08-24T00:26:09+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
+      "score": 18,
+      "replyCount": 67,
+      "viewCount": 25500,
       "topComments": [],
-      "hotScore": 0.7658
+      "hotScore": 0.7899
     },
     {
       "id": "hupu-642057888",
@@ -2976,12 +2342,30 @@
       "url": "https://bbs.hupu.com/642057888.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T05:17:01+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 47,
       "replyCount": 180,
-      "viewCount": 84220,
+      "viewCount": 84331,
       "topComments": [],
-      "hotScore": 0.7621
+      "hotScore": 0.7849
+    },
+    {
+      "id": "hupu-642059139",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "这么夸张的吗，两人差距这么大是怎么双骄的？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/642059139.html",
+      "author": "狱卒123",
+      "publishedAt": "2026-08-24T06:35:45+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
+      "score": 17,
+      "replyCount": 50,
+      "viewCount": 7710,
+      "topComments": [],
+      "hotScore": 0.7649
     },
     {
       "id": "hupu-642058805",
@@ -2994,12 +2378,12 @@
       "url": "https://bbs.hupu.com/642058805.html",
       "author": "孤独的池塘",
       "publishedAt": "2026-08-24T06:15:43+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
-      "score": 49,
-      "replyCount": 158,
-      "viewCount": 71563,
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
+      "score": 47,
+      "replyCount": 159,
+      "viewCount": 72253,
       "topComments": [],
-      "hotScore": 0.757
+      "hotScore": 0.7324
     },
     {
       "id": "hupu-642053956",
@@ -3012,12 +2396,12 @@
       "url": "https://bbs.hupu.com/642053956.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T01:45:33+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 19,
       "replyCount": 29,
-      "viewCount": 18974,
+      "viewCount": 18975,
       "topComments": [],
-      "hotScore": 0.6944
+      "hotScore": 0.6935
     },
     {
       "id": "hupu-642058605",
@@ -3030,12 +2414,12 @@
       "url": "https://bbs.hupu.com/642058605.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T06:02:12+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 38,
       "replyCount": 170,
-      "viewCount": 79119,
+      "viewCount": 79301,
       "topComments": [],
-      "hotScore": 0.68
+      "hotScore": 0.6791
     },
     {
       "id": "hupu-642063070",
@@ -3048,12 +2432,12 @@
       "url": "https://bbs.hupu.com/642063070.html",
       "author": "虎扑足球",
       "publishedAt": "2026-08-24T10:05:36+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 14,
       "replyCount": 31,
-      "viewCount": 12551,
+      "viewCount": 12620,
       "topComments": [],
-      "hotScore": 0.6781
+      "hotScore": 0.6772
     },
     {
       "id": "hupu-642062904",
@@ -3066,12 +2450,12 @@
       "url": "https://bbs.hupu.com/642062904.html",
       "author": "JR不背锅",
       "publishedAt": "2026-08-24T09:56:39+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 14,
       "replyCount": 31,
-      "viewCount": 2014,
+      "viewCount": 2030,
       "topComments": [],
-      "hotScore": 0.6777
+      "hotScore": 0.6768
     },
     {
       "id": "hupu-642053570",
@@ -3084,12 +2468,12 @@
       "url": "https://bbs.hupu.com/642053570.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T01:22:32+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 13,
       "replyCount": 32,
-      "viewCount": 21082,
+      "viewCount": 21090,
       "topComments": [],
-      "hotScore": 0.6618
+      "hotScore": 0.6609
     },
     {
       "id": "hupu-642052887",
@@ -3102,12 +2486,12 @@
       "url": "https://bbs.hupu.com/642052887.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T00:30:42+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 13,
       "replyCount": 32,
-      "viewCount": 32398,
+      "viewCount": 32424,
       "topComments": [],
-      "hotScore": 0.6594
+      "hotScore": 0.6585
     },
     {
       "id": "hupu-642065871",
@@ -3120,12 +2504,12 @@
       "url": "https://bbs.hupu.com/642065871.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T12:44:38+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 35,
-      "replyCount": 137,
-      "viewCount": 203495,
+      "replyCount": 138,
+      "viewCount": 204814,
       "topComments": [],
-      "hotScore": 0.6197
+      "hotScore": 0.6188
     },
     {
       "id": "hupu-642053769",
@@ -3138,12 +2522,12 @@
       "url": "https://bbs.hupu.com/642053769.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T01:34:21+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 13,
       "replyCount": 31,
-      "viewCount": 14310,
+      "viewCount": 14323,
       "topComments": [],
-      "hotScore": 0.6071
+      "hotScore": 0.6062
     },
     {
       "id": "hupu-642068439",
@@ -3156,12 +2540,12 @@
       "url": "https://bbs.hupu.com/642068439.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T15:10:19+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 21,
-      "replyCount": 144,
-      "viewCount": 66250,
+      "replyCount": 145,
+      "viewCount": 67263,
       "topComments": [],
-      "hotScore": 0.5738
+      "hotScore": 0.5729
     },
     {
       "id": "hupu-642064019",
@@ -3174,12 +2558,12 @@
       "url": "https://bbs.hupu.com/642064019.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T11:00:33+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 34,
       "replyCount": 60,
-      "viewCount": 26585,
+      "viewCount": 26680,
       "topComments": [],
-      "hotScore": 0.5728
+      "hotScore": 0.5719
     },
     {
       "id": "hupu-642060320",
@@ -3192,12 +2576,12 @@
       "url": "https://bbs.hupu.com/642060320.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-08-24T07:39:40+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 12,
       "replyCount": 29,
-      "viewCount": 13221,
+      "viewCount": 13224,
       "topComments": [],
-      "hotScore": 0.4977
+      "hotScore": 0.4968
     },
     {
       "id": "hupu-642053997",
@@ -3210,12 +2594,12 @@
       "url": "https://bbs.hupu.com/642053997.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-08-24T01:48:19+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 8,
       "replyCount": 32,
-      "viewCount": 18550,
+      "viewCount": 18553,
       "topComments": [],
-      "hotScore": 0.4972
+      "hotScore": 0.4963
     },
     {
       "id": "hupu-642052759",
@@ -3228,12 +2612,12 @@
       "url": "https://bbs.hupu.com/642052759.html",
       "author": "用户59839817199",
       "publishedAt": "2026-08-24T00:18:55+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 22,
       "replyCount": 54,
-      "viewCount": 23873,
+      "viewCount": 24052,
       "topComments": [],
-      "hotScore": 0.4641
+      "hotScore": 0.4632
     },
     {
       "id": "hupu-642061043",
@@ -3246,12 +2630,12 @@
       "url": "https://bbs.hupu.com/642061043.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T08:18:24+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 21,
       "replyCount": 54,
-      "viewCount": 23688,
+      "viewCount": 23728,
       "topComments": [],
-      "hotScore": 0.4626
+      "hotScore": 0.4617
     },
     {
       "id": "hupu-642054355",
@@ -3264,12 +2648,12 @@
       "url": "https://bbs.hupu.com/642054355.html",
       "author": "用户59839817199",
       "publishedAt": "2026-08-24T02:09:18+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 15,
       "replyCount": 56,
-      "viewCount": 9770,
+      "viewCount": 9788,
       "topComments": [],
-      "hotScore": 0.3929
+      "hotScore": 0.392
     },
     {
       "id": "hupu-642059205",
@@ -3282,12 +2666,12 @@
       "url": "https://bbs.hupu.com/642059205.html",
       "author": "写球的牧子",
       "publishedAt": "2026-08-24T06:40:09+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 11,
       "replyCount": 25,
-      "viewCount": 13408,
+      "viewCount": 13412,
       "topComments": [],
-      "hotScore": 0.3923
+      "hotScore": 0.3914
     },
     {
       "id": "hupu-642051366",
@@ -3300,12 +2684,12 @@
       "url": "https://bbs.hupu.com/642051366.html",
       "author": "比诺托托沃尔夫",
       "publishedAt": "2026-08-23T20:13:49+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 12,
       "replyCount": 17,
-      "viewCount": 7225,
+      "viewCount": 7226,
       "topComments": [],
-      "hotScore": 0.3922
+      "hotScore": 0.3913
     },
     {
       "id": "hupu-642058949",
@@ -3318,12 +2702,12 @@
       "url": "https://bbs.hupu.com/642058949.html",
       "author": "devilseal",
       "publishedAt": "2026-08-24T06:25:01+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 10,
       "replyCount": 27,
-      "viewCount": 14657,
+      "viewCount": 14669,
       "topComments": [],
-      "hotScore": 0.3863
+      "hotScore": 0.3854
     },
     {
       "id": "hupu-642057964",
@@ -3336,12 +2720,12 @@
       "url": "https://bbs.hupu.com/642057964.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T05:20:34+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 12,
       "replyCount": 59,
-      "viewCount": 16753,
+      "viewCount": 16762,
       "topComments": [],
-      "hotScore": 0.3728
+      "hotScore": 0.3719
     },
     {
       "id": "hupu-642058629",
@@ -3354,12 +2738,12 @@
       "url": "https://bbs.hupu.com/642058629.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T06:04:18+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 16,
       "replyCount": 51,
-      "viewCount": 34434,
+      "viewCount": 34488,
       "topComments": [],
-      "hotScore": 0.3538
+      "hotScore": 0.3529
     },
     {
       "id": "hupu-642062569",
@@ -3372,12 +2756,12 @@
       "url": "https://bbs.hupu.com/642062569.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T09:39:24+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 8,
       "replyCount": 17,
-      "viewCount": 11297,
+      "viewCount": 11303,
       "topComments": [],
-      "hotScore": 0.3348
+      "hotScore": 0.3339
     },
     {
       "id": "hupu-642068330",
@@ -3390,12 +2774,12 @@
       "url": "https://bbs.hupu.com/642068330.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-08-24T15:04:03+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
-      "score": 13,
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
+      "score": 15,
       "replyCount": 46,
-      "viewCount": 115956,
+      "viewCount": 117988,
       "topComments": [],
-      "hotScore": 0.2946
+      "hotScore": 0.3173
     },
     {
       "id": "hupu-642058753",
@@ -3408,12 +2792,12 @@
       "url": "https://bbs.hupu.com/642058753.html",
       "author": "我只觉得他们吵闹",
       "publishedAt": "2026-08-24T06:12:09+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 4,
       "replyCount": 17,
-      "viewCount": 16408,
+      "viewCount": 16412,
       "topComments": [],
-      "hotScore": 0.2305
+      "hotScore": 0.2296
     },
     {
       "id": "hupu-642052901",
@@ -3426,12 +2810,12 @@
       "url": "https://bbs.hupu.com/642052901.html",
       "author": "小麦2024",
       "publishedAt": "2026-08-24T00:31:44+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 11,
       "replyCount": 47,
-      "viewCount": 10306,
+      "viewCount": 10332,
       "topComments": [],
-      "hotScore": 0.2252
+      "hotScore": 0.2243
     },
     {
       "id": "hupu-642049310",
@@ -3444,12 +2828,12 @@
       "url": "https://bbs.hupu.com/642049310.html",
       "author": "卧槽又归西",
       "publishedAt": "2026-08-23T16:59:36+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 10,
       "replyCount": 53,
-      "viewCount": 6443,
+      "viewCount": 6450,
       "topComments": [],
-      "hotScore": 0.2175
+      "hotScore": 0.2166
     },
     {
       "id": "hupu-642053798",
@@ -3462,12 +2846,12 @@
       "url": "https://bbs.hupu.com/642053798.html",
       "author": "我从不踢球",
       "publishedAt": "2026-08-24T01:36:18+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 6,
       "replyCount": 15,
-      "viewCount": 7607,
+      "viewCount": 7636,
       "topComments": [],
-      "hotScore": 0.2098
+      "hotScore": 0.2089
     },
     {
       "id": "hupu-642053331",
@@ -3480,12 +2864,12 @@
       "url": "https://bbs.hupu.com/642053331.html",
       "author": "国足不进美加墨不改名",
       "publishedAt": "2026-08-24T01:04:46+00:00",
-      "collectedAt": "2026-08-24T21:45:26.487807+00:00",
+      "collectedAt": "2026-08-24T22:05:07.912716+00:00",
       "score": 6,
       "replyCount": 15,
-      "viewCount": 12440,
+      "viewCount": 12443,
       "topComments": [],
-      "hotScore": 0.2083
+      "hotScore": 0.2074
     },
     {
       "id": "hupu-642056793",
@@ -3498,12 +2882,12 @@
       "url": "https://bbs.hupu.com/642056793.html",
       "author": "自己的日子过好",
       "publishedAt": "2026-08-24T04:13:53+00:00",
-      "collectedAt": "2026-08-24T21:45:28.615546+00:00",
+      "collectedAt": "2026-08-24T22:05:10.708905+00:00",
       "score": 7,
       "replyCount": 45,
-      "viewCount": 3956,
+      "viewCount": 4003,
       "topComments": [],
-      "hotScore": 0.1513
+      "hotScore": 0.1504
     }
   ]
 }
