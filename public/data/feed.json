@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:45:18.646656+00:00",
+  "updatedAt": "2026-11-28T05:00:41.034337+00:00",
   "matches": [
     {
       "id": "lol-115548681803406333",
@@ -237,41 +237,69 @@
   ],
   "articles": [
     {
-      "id": "b49523249c63c920",
-      "sport": "nba",
-      "title": "LeBron dusts 'off the cape' to save 76ers with triple-double",
-      "summary": "The soon-to-be 42-year-old LeBron James showed his ability to put the 76ers on his back with a 25-point triple-double in Wednesday's NBA Cup win over Miami.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50601303/lebron-dusts-cape-save-76ers-triple-double",
-      "publishedAt": "2026-11-25T23:00:31-05:00",
+      "id": "f3a97c37ebf505d7",
+      "sport": "football",
+      "title": "The USWNT are going to the World Cup. Now the real work begins",
+      "summary": "The U.S. women's national team's 8-0 demolition of El Salvador on Friday clinched its place in next summer's World Cup, but qualifying was the easy part.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50618473/uswnt-qualify-womens-world-cup",
+      "publishedAt": "2026-11-27T23:44:23-05:00",
       "featured": true
     },
     {
-      "id": "54e452fbcc15726a",
-      "sport": "nba",
-      "title": "76ers' Brown exits win over Heat with recurrence of hamstring issue",
-      "summary": "Jaylen Brown exited Philadelphia's NBA Cup game Wednesday night against Miami and was ruled out because of left hamstring tightness.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50599296/76ers-jaylen-brown-exits-recurrence-hamstring-issue",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
+      "id": "a8ef0fc152b82c76",
+      "sport": "football",
+      "title": "USWNT player ratings: Ashley Sanchez a 10/10 as Americans seal World Cup place",
+      "summary": "Ashley Sanchez netted a hat trick as the U.S. women's national team topped El Salvador on Friday.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50618277/uswnt-sanchez-hat-trick-world-cup",
+      "publishedAt": "2026-11-27T23:44:23-05:00"
     },
     {
-      "id": "7c36ddb67a1f0dbb",
+      "id": "fb19373e181b39d7",
       "sport": "nba",
-      "title": "Reaves rejoins Lakers for full practice, status for Spurs matchup TBD",
-      "summary": "Austin Reaves returned to his first full practice since suffering a left heel bruise, although his status for Friday's game vs. the Spurs is uncertain.",
+      "title": "Warriors rule Curry out for next three games with oblique injury",
+      "summary": "Golden State ruled Steph Curry out for the next three games, extending his absence for a torn oblique suffered earlier this month, saying he is making progress.",
       "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50597465/austin-reaves-rejoins-lakers-full-practice-tbd-face-spurs",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
+      "url": "https://www.espn.com/nba/story/_/id/50616740/golden-state-warriors-rule-steph-curry-next-3-games",
+      "publishedAt": "2026-11-27T23:38:54-05:00",
+      "featured": true
     },
     {
-      "id": "5223fc6e83a0a17b",
+      "id": "d5b10af592dac66a",
       "sport": "nba",
-      "title": "Knicks assistant coach Jent returns to team",
-      "summary": "Chris Jent was back on New York's bench for Wednesday night's NBA Cup win against Cleveland after a monthlong absence.",
+      "title": "Lakers' Reaves available vs. Spurs after missing 5 games with heel bruise",
+      "summary": "Lakers guard Austin Reaves is available to play in Friday night's NBA Cup matchup against the Spurs after missing the past five games with a heel bruise.",
       "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50600508/knicks-assistant-coach-chris-jent-returns-team",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
+      "url": "https://www.espn.com/nba/story/_/id/50613364/lakers-reaves-available-missing-5-games-heel-bruise",
+      "publishedAt": "2026-11-27T23:38:54-05:00"
+    },
+    {
+      "id": "addb54059bc5a8ae",
+      "sport": "nba",
+      "title": "Wizards rookie punches ex-Wolves guard Dillingham in G League tilt",
+      "summary": "Wizards two-way forward Felix Okpara threw a punch at Westchester Knicks guard Rob Dillingham, sparking a brief fight during a G League game Friday night.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50615568/wizards-rookie-okpara-punches-dillingham-g-league-tilt",
+      "publishedAt": "2026-11-27T23:38:54-05:00"
+    },
+    {
+      "id": "d64e56e540153541",
+      "sport": "nba",
+      "title": "76ers star Brown's MRI showed no new injury in 'positive sign'",
+      "summary": "An MRI on Philadelphia 76ers forward Jaylen Brown's left hamstring revealed no aggravation or new injury, the Sixers announced Friday.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50616033/mri-76ers-star-brown-hamstring-showed-no-new-injury",
+      "publishedAt": "2026-11-27T23:38:54-05:00"
+    },
+    {
+      "id": "b91a2709c48dfa0c",
+      "sport": "nba",
+      "title": "Timberwolves downgrade Ball to out vs. Grizzlies with ankle sprain",
+      "summary": "The Minnesota Timberwolves downgraded star guard LaMelo Ball to out for Friday night's NBA Cup game vs. the Memphis Grizzlies due to a left ankle sprain.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50613102/timberwolves-downgrade-lamelo-ball-ankle-sprain",
+      "publishedAt": "2026-11-27T23:38:54-05:00"
     },
     {
       "id": "7387b4693da338a4",
@@ -280,16 +308,7 @@
       "summary": "The long-planned NBA-backed league in Europe took another step toward becoming reality with the unveiling of a plan that targets nearly $11 billion in funding for the development and renovation of arenas around the continent.",
       "source": "ESPN NBA",
       "url": "https://www.espn.com/nba/story/_/id/50592672/nba-reveals-11b-initiative-arena-development-europe",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
-    },
-    {
-      "id": "33972d4c364d2179",
-      "sport": "nba",
-      "title": "Former Bucks guard Porter signs deal with Magic",
-      "summary": "Free agent guard Kevin Porter Jr. has signed with the Magic.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50595534/agent-kevin-porter-jr-finalizing-2-year-deal-magic",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
+      "publishedAt": "2026-11-27T23:38:54-05:00"
     },
     {
       "id": "a2635fab579bd4e8",
@@ -298,35 +317,196 @@
       "summary": "The couple wed in August after seven years of dating and announced the news that they're expecting on Instagram.",
       "source": "ESPN NBA",
       "url": "https://www.espn.com/nba/story/_/id/50586828/tyrese-jade-haliburton-expecting-first-child",
-      "publishedAt": "2026-11-25T23:00:31-05:00"
+      "publishedAt": "2026-11-27T23:38:54-05:00"
     },
     {
-      "id": "bca48fd8bd4cba5c",
+      "id": "61923790a816d9ca",
       "sport": "football",
-      "title": "Champions League talking points: Was this a good result for Man United?",
+      "title": "Ready for takeoff! U.S. scores 8 to clinch Women's World Cup spot",
+      "summary": "The U.S. pummeled El Salvador 8-0 at Texas Health Mansfield Stadium on Friday to qualify for the 2027 Women's World Cup in Brazil.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50616962/united-states-clinch-women-world-cup-spot",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "3e951b2180502f19",
+      "sport": "football",
+      "title": "Columbus dumps Miami, Messi from MLS playoffs with extra-time winner",
+      "summary": "Defending champions Inter Miami and Lionel Messi were eliminated from the 2026 MLS playoffs after a 1-0 loss against the Columbus Crew in the second game of the Round 1, best-of-three series Friday night.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50617897/columbus-eliminates-inter-miami-messi-mls-playoffs",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "221096ac8c96fa5e",
+      "sport": "football",
+      "title": "Fofana booed by Chelsea fans, then booked, subbed off amid ire over interview",
+      "summary": "Chelsea fans booed Wesley Fofana during the early stages of the visit to Nottingham Forest after his controversial unauthorised interview.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50614098/wesley-fofana-chelsea-nottingham-forest-booing",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "abcd32f414fbc2d3",
+      "sport": "football",
+      "title": "Arsenal split with Slegers by mutual consent after WSL slump",
+      "summary": "Arsenal have parted ways with Champions League-winning head coach Renée Slegers by mutual consent follorn g",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50071795/arsenal-women-coach-renee-slegers-wsl",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "662578592956eefb",
+      "sport": "football",
+      "title": "Sources: Man United lock in midfielder Fernandes until 2028",
+      "summary": "Manchester United have triggered an extension in Bruno Fernandes' contract, sources have told ESPN, but the midfielder remains a doubt for Brentford's visit to Old Trafford on Saturday.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "4c5f667e4b75af2e",
+      "sport": "football",
+      "title": "Arteta: Arsenal vs. City shouldn't be overshadowed by Premier League case",
+      "summary": "Arsenal boss Mikel Arteta said he hopes the wait to learn Man City's punishment for breaking Premier League rules does not overshadow Sunday's match.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50611692/arsenal-man-city-mikel-arteta-premier-league-case",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "e188e738314a63a1",
+      "sport": "football",
+      "title": "Brazil icon Ronaldo on Kane's 'deserved' Ballon d'Or: 'The No. 9 is back'",
+      "summary": "Ronaldo has said that Harry Kane's Ballon d'Or was \"well deserved\" and that he was delighted to see a fellow No. 9 win the award.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50610076/ronaldo-harry-kane-ballon-dor-stick-football-disney+",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "aea9b66c76611f30",
+      "sport": "football",
+      "title": "Lionel Messi to play in Carlos Tevez farewell match in Argentina",
+      "summary": "Lionel Messi will take part in Carlos Tevez's farewell match later this month in Buenos Aires.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50610683/lionel-messi-play-carlos-tevez-farewell-match-argentina",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "f3654eb0827a27e9",
+      "sport": "football",
+      "title": "🏆 Thrilling title races in Europe's 'summer' leagues",
+      "summary": "While the Premier League and LaLiga aren't even halfway through their seasons, elsewhere in Europe there are leagues building to a thrilling climax.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50594553/title-races-european-leagues-allsvenskan-eliteserien",
+      "publishedAt": "2026-11-27T22:53:07-05:00"
+    },
+    {
+      "id": "15e0738e1851c65f",
+      "sport": "football",
+      "title": "Is Arsenal-Man City still the biggest PL match? What's at stake for both teams",
+      "summary": "Arsenal vs. Man City was supposed to be the Premier League's marquee fixture, but it feels anything but in light of City's guilty verdict. What does Sunday's game really mean?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50612391/arsenal-man-city-preview-premier-league",
+      "publishedAt": "2026-11-27T21:54:22-05:00"
+    },
+    {
+      "id": "e60fb5c38a5f550d",
+      "sport": "football",
+      "title": "Soccer's main characters this week: Bellingham is in a new stratosphere",
+      "summary": "Why are goals trending up in Europe? Is it because Jude Bellingham can seemingly score them from anywhere? Bill Connelly takes a look at the week that was.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50599423/soccers-main-characters-champions-league-jude-bellingham-florian-wirtz",
+      "publishedAt": "2026-11-27T18:32:40-05:00"
+    },
+    {
+      "id": "1e147235ea338e64",
+      "sport": "football",
+      "title": "UCL talking points: Was this a good result for Man United?",
       "summary": "Gab Marcotti, Mark Ogden, Sam Tighe and Alex Kirkland run the rule over Man United's draw with Sporting, plus all the other moments that mattered from Matchday 5.",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/50594529/champions-league-talking-points-manchester-united-sporting-draw",
-      "publishedAt": "2026-11-25T21:04:22-05:00",
-      "featured": true
+      "publishedAt": "2026-11-27T18:32:40-05:00"
     },
     {
-      "id": "d13a189cab69b20c",
+      "id": "9bd05d3c3736e913",
       "sport": "football",
-      "title": "New coach, same chaos: Man United remain their own worst enemy",
-      "summary": "Man United showed signs of progress under Mauricio Pochettino, but familiar mistakes cost them a UCL win.",
+      "title": "Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return",
+      "summary": "Both Chelsea and Tottenham are reportedly looking at Wolfsburg's Saël Kumbedi as a possible new signing. Transfer Talk has the latest.",
       "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
-      "publishedAt": "2026-11-25T21:04:22-05:00"
+      "url": "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
+      "publishedAt": "2026-11-27T11:08:51-05:00"
     },
     {
-      "id": "c63a830887917156",
+      "id": "360144926056f898",
       "sport": "football",
-      "title": "Transfer rumors, news: Man United, Barcelona eye USMNT's Albert",
-      "summary": "Both Manchester United and Barcelona are reportedly looking at signing Borussia Dortmund's Mathis Albert. Transfer Talk has the latest.",
+      "title": "Arsenal sack Slegers amid WSL woes, but who could replace her?",
+      "summary": "Renee Slegers' successor will be leading one of the biggest clubs in Europe in one of the worst runs of form the club has ever seen.",
       "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-      "publishedAt": "2026-11-25T20:56:20-05:00"
+      "url": "https://www.espn.com/soccer/story/_/id/50573221/arsenal-renee-slegers-manager-wsl",
+      "publishedAt": "2026-11-27T10:32:38-05:00"
+    },
+    {
+      "id": "bc1f7e38a46e0bc5",
+      "sport": "nba",
+      "title": "'I wanted Walker': Why the new Lakers center is the X factor for the Luka Doncic era",
+      "summary": "Doncic's first request when he became a Laker? Get an 'A-list' big man. It took a year, but Kessler is that man in Los Angeles.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50599642/los-angeles-lakers-luka-doncic-walker-kessler-nba",
+      "publishedAt": "2026-11-27T10:16:14-05:00"
+    },
+    {
+      "id": "e4a377eff480dd7a",
+      "sport": "nba",
+      "title": "NBA Power Rankings: One player, coach or exec for whom each team is most thankful",
+      "summary": "Here's where all 30 teams rank this week -- and the one person each franchise should be thanking most.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50583781/nba-power-rankings-one-player-coach-exec-thanksgiving",
+      "publishedAt": "2026-11-27T10:16:07-05:00"
+    },
+    {
+      "id": "5da4d67569e51875",
+      "sport": "nba",
+      "title": "NBA Rookie Rankings: Which stars are rising early in season?",
+      "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class.",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50544296/nba-rookie-rankings-early-stats",
+      "publishedAt": "2026-11-27T09:54:08-05:00"
+    },
+    {
+      "id": "634fa114eebd0ce6",
+      "sport": "nba",
+      "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
+      "summary": "How has the first month unfolded for nine first-year stars?",
+      "source": "ESPN NBA",
+      "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel",
+      "publishedAt": "2026-11-27T09:54:08-05:00"
+    },
+    {
+      "id": "0cda53da157d51fc",
+      "sport": "football",
+      "title": "How do MLS' European-bred stars adjust to the playoffs? 'It's a challenge'",
+      "summary": "For MLS' biggest stars, they've spent their careers crowning champions based on the table. For them, adapting to the idea of the playoffs isn't easy.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50604609/mls-cup-playoffs-european-soccer-stars",
+      "publishedAt": "2026-11-27T05:39:07-05:00"
+    },
+    {
+      "id": "4440f0bfc90548aa",
+      "sport": "football",
+      "title": "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
+      "summary": "Your favorite team isn't going to win MLS Cup, so we dug into our catalog of statistics to pinpoint three chaos clubs to follow for the postseason.",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50585229/mls-cup-playoffs-chaos-clubs",
+      "publishedAt": "2026-11-27T05:39:06-05:00"
+    },
+    {
+      "id": "a334f1d29df0a5a7",
+      "sport": "football",
+      "title": "Everyone keeps linking USMNT players to Man United: Could an American help the club?",
+      "summary": "Now that USMNT manager Mauricio Pochettino has taken over Man United, would it make sense for USMNT players to join their ex-coach?",
+      "source": "ESPN Football",
+      "url": "https://www.espn.com/soccer/story/_/id/50607825/usmnt-man-united-pochettino-transfers-sign-premier-league-usa",
+      "publishedAt": "2026-11-27T04:02:01-05:00"
     },
     {
       "id": "6ad8e393c9660410",
@@ -335,97 +515,25 @@
       "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
-      "publishedAt": "2026-11-25T20:56:20-05:00"
+      "publishedAt": "2026-11-27T03:58:03-05:00"
     },
     {
-      "id": "3d2e17bed8d46ea9",
+      "id": "eb4452c3eb047f80",
       "sport": "football",
-      "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
-      "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach.",
+      "title": "Athletic wing backs and back threes: Explaining women's soccer's latest tactical trends",
+      "summary": "Women's soccer is evolving all the time, and this season is no different. Here are the new ideas that top teams are using to outsmart opponents.",
       "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
+      "url": "https://www.espn.com/soccer/story/_/id/50592901/women-soccer-tactics-arsenal-chelsea-barcelona-ol-lyonnes",
+      "publishedAt": "2026-11-26T12:48:24-05:00"
     },
     {
-      "id": "638081de0aa40253",
+      "id": "3e12af32ab6a6d8f",
       "sport": "football",
-      "title": "Luis Enrique calls Roma PSG's toughest test of the season after winning streak ends",
-      "summary": "Paris Saint-Germain coach Luis Enrique said Roma was his team's \"toughest match of this season\" after a hard-fought 2-2 Champions League draw on Wednesday.",
+      "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
+      "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?",
       "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50599458/luis-enrique-praises-roma-draw-halts-psg-winning-streak",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "75fd3c70713a86b8",
-      "sport": "football",
-      "title": "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
-      "summary": "MLS team owners have agreed on a new playoff format for the 2027-28 season featuring 16 teams, a source confirmed to ESPN.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50595745/mls-playoff-format-new-2027-2028-change-owners",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "a52bdb347af09f81",
-      "sport": "football",
-      "title": "Fernandes' 'strange' divot-assisted goal left even Man United star confused",
-      "summary": "Bruno Fernandes said even he was caught out by his bizarre divot-assisted goal in Manchester United's Champions League draw at Sporting CP on Wednesday.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50598666/bruno-fernandes-goal-man-united-sporting-divot-champions-league",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "661ef1b5ab494c57",
-      "sport": "football",
-      "title": "'He's in a great moment': Iraola praises Isak after brace in Liverpool rout",
-      "summary": "Liverpool boss Andoni Iraola believes striker Alexander Isak is in a \"great moment\" after he scored twice in the 3-0 victory over Club Brugge.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50598768/andoni-iraola-alexander-isak-great-moment-liverpool",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "7d19f71b757e6906",
-      "sport": "football",
-      "title": "Pep 'embarrassed' to turn down Italy job, says national team 'next step'",
-      "summary": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "f3b1c3b6af35563e",
-      "sport": "football",
-      "title": "Gordon enjoys 'very special' Baku again to lead Barcelona rout",
-      "summary": "Baku brought the best out of Anthony Gordon once again as the England forward netted twice in Barcelona's 4-1 Champions League victory over Sabah.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50597280/anthony-gordon-barcelona-baku-sabah-fk-champions-league",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "e5f9dbdaf5034676",
-      "sport": "football",
-      "title": "Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
-      "summary": "Luis Suárez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50594966/inter-miami-mls-playoffs-columbus-crews-luis-suarez",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "ae0b7869dc4d6f00",
-      "sport": "football",
-      "title": "⚽ 'Ted Lasso' to return for Season 5 on Apple TV",
-      "summary": "A release date for the upcoming season of the award-winning show has yet to be announced.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50583598/ted-lasso-season-5-apple-tv",
-      "publishedAt": "2026-11-25T20:00:51-05:00"
-    },
-    {
-      "id": "03c8e1db049763d9",
-      "sport": "football",
-      "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
-      "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
-      "publishedAt": "2026-11-25T19:40:56-05:00"
+      "url": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
+      "publishedAt": "2026-11-26T12:47:55-05:00"
     },
     {
       "id": "a37ae3edb87e8693",
@@ -434,34 +542,7 @@
       "summary": "The uproar over Bayern Munich's callous attitude toward Jamal Musiala's health issues has shown a nasty side of the club when it comes to how they care for their players.",
       "source": "ESPN Football",
       "url": "https://www.espn.com/soccer/story/_/id/50595091/bayern-munich-jamal-musiala-fainting-injuries",
-      "publishedAt": "2026-11-25T19:12:34-05:00"
-    },
-    {
-      "id": "c2caab228a69dd80",
-      "sport": "football",
-      "title": "Liverpool are all smiles as Wirtz, Isak start to click",
-      "summary": "Another match, another fine set of displays. Is investment in Liverpool's forward line beginning to pay off?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50598544/liverpool-all-smiles-wirtz-isak-start-click",
-      "publishedAt": "2026-11-25T19:12:34-05:00"
-    },
-    {
-      "id": "5c2e2e446fe0b8de",
-      "sport": "football",
-      "title": "Who are Sabah? Barça's Champions League opponents from near Iranian border",
-      "summary": "Sabah, a club near the Iranian border that didn't exist a decade ago, with a coach who owes his career to a Lithuanian quiz show, are in this season Champions League. How did they make it?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
-      "publishedAt": "2026-11-25T17:18:51-05:00"
-    },
-    {
-      "id": "90519e67a1283dc0",
-      "sport": "football",
-      "title": "Meet Brazilian soccer star who's played for clubs on six continents",
-      "summary": "null",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
-      "publishedAt": "2026-11-25T17:18:51-05:00"
+      "publishedAt": "2026-11-26T02:25:05-05:00"
     },
     {
       "id": "149bc17294281f95",
@@ -471,33 +552,6 @@
       "source": "ESPN NBA",
       "url": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds",
       "publishedAt": "2026-11-25T15:33:19-05:00"
-    },
-    {
-      "id": "2c5df072f5b38543",
-      "sport": "nba",
-      "title": "Winning time: Tracy Morgan bought Knicks Rolexes after Finals victory",
-      "summary": "Morgan also discussed in an appearance on \"Live with Kelly and Mark\" his experience traveling to Knicks road playoff games -- seven private jets and all.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50585929/tracy-morgan-new-york-knicks-rolexes",
-      "publishedAt": "2026-11-25T15:31:20-05:00"
-    },
-    {
-      "id": "4440f0bfc90548aa",
-      "sport": "football",
-      "title": "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
-      "summary": "Your favorite team isn't going to win MLS Cup, so we dug into our catalog of statistics to pinpoint three chaos clubs to follow for the postseason.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50585229/mls-cup-playoffs-chaos-clubs",
-      "publishedAt": "2026-11-25T08:22:06-05:00"
-    },
-    {
-      "id": "aeaeed208b3d371c",
-      "sport": "football",
-      "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
-      "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach",
-      "publishedAt": "2026-11-25T08:22:06-05:00"
     },
     {
       "id": "63fdebb3863502d3",
@@ -518,69 +572,6 @@
       "publishedAt": "2026-11-25T07:49:22-05:00"
     },
     {
-      "id": "e4a377eff480dd7a",
-      "sport": "nba",
-      "title": "NBA Power Rankings: One player, coach or exec for whom each team is most thankful",
-      "summary": "Here's where all 30 teams rank this week -- and the one person each franchise should be thanking most.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50583781/nba-power-rankings-one-player-coach-exec-thanksgiving",
-      "publishedAt": "2026-11-25T07:45:00-05:00"
-    },
-    {
-      "id": "3e12af32ab6a6d8f",
-      "sport": "football",
-      "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
-      "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
-      "publishedAt": "2026-11-25T04:14:07-05:00"
-    },
-    {
-      "id": "6b17a8c9a6ecb959",
-      "sport": "football",
-      "title": "Another U.S.-held Copa América is great for USMNT but not South America",
-      "summary": "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
-      "publishedAt": "2026-11-24T13:05:13-05:00"
-    },
-    {
-      "id": "089f5b5374a8069c",
-      "sport": "football",
-      "title": "Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway",
-      "summary": "Arsenal won the Premier League in controversial fashion last season, but the set-piece goals they counted on have disappeared. Why?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50576776/premier-league-set-piece-goal-arsenal-standings-table",
-      "publishedAt": "2026-11-24T12:17:00-05:00"
-    },
-    {
-      "id": "634fa114eebd0ce6",
-      "sport": "nba",
-      "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
-      "summary": "How has the first month unfolded for nine first-year stars?",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel",
-      "publishedAt": "2026-11-24T10:57:04-05:00"
-    },
-    {
-      "id": "5da4d67569e51875",
-      "sport": "nba",
-      "title": "NBA Rookie Rankings: Which stars are rising early in season?",
-      "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class.",
-      "source": "ESPN NBA",
-      "url": "https://www.espn.com/nba/story/_/id/50544296/nba-rookie-rankings-early-stats",
-      "publishedAt": "2026-11-24T10:57:03-05:00"
-    },
-    {
-      "id": "3e6f14ffff67d0c2",
-      "sport": "football",
-      "title": "Lazio are top of Serie A despite their fans boycotting the team's owner",
-      "summary": "Lazio's success this season has been one of the big stories in Serie A, made more remarkable by the fact that their fans won't attend home games until the club is sold.",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50575536/lazio-serie-fan-protests-claudio-lotito",
-      "publishedAt": "2026-11-24T09:18:42-05:00"
-    },
-    {
       "id": "7d2fa87b61911137",
       "sport": "nba",
       "title": "Golliver's too-early NBA All-Star picks: The 24 most deserving players right now",
@@ -588,18 +579,40 @@
       "source": "ESPN NBA",
       "url": "https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey",
       "publishedAt": "2026-11-24T07:38:32-05:00"
-    },
-    {
-      "id": "630d0efad0306274",
-      "sport": "football",
-      "title": "Liga MX playoff preview: Will Cruz Azul win back-to-back titles?",
-      "summary": "The Liga MX playoffs are back to close out 2026! Who are some of the favorites and who can cause a surprise in the Liguilla?",
-      "source": "ESPN Football",
-      "url": "https://www.espn.com/soccer/story/_/id/50575980/liga-mx-playoff-2026-apertura-preview-cruz-azul",
-      "publishedAt": "2026-11-24T03:44:26-05:00"
     }
   ],
   "communityPosts": [
+    {
+      "id": "hupu-644248069",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[JR热议]爆料：杰克工资帽顶薪650万，JDG/BLG/AL都愿意给顶薪，看他自己怎么考虑",
+      "excerpt": "除了Viper点赞KRX，KRX在等着BLG官宣，WE这边围绕中野建队了，辅助Moham，上单和AD还在试训，JackeyLove工资帽顶薪650万，JDG、AL、BLG等等这些队伍都愿意给JackeyLove顶薪，就看杰克自己怎么考虑吧，他优先级很高的，其实我感觉哥哥和TheShy挺像的，都不是那么在意钱了，就看阵容，还要和队伍细聊。 小奶油也很抢手啊，有可能签给Knight和Elk的经纪人，好队伍和高工资不愁，主要还是看阵容，希望小奶油明年出成绩，该兑现天赋了林坚！",
+      "url": "https://bbs.hupu.com/644248069.html",
+      "author": "张电视Zzz",
+      "publishedAt": "2026-11-27T08:06:08+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 921,
+      "viewCount": 396542,
+      "topComments": [
+        {
+          "text": "塔赞搞这一出不是休息就是留在AL卖不出去，jkl大概率去blg了",
+          "score": 2144
+        },
+        {
+          "text": "一样的工资我感觉他就是去BLG",
+          "score": 1216
+        },
+        {
+          "text": "去blg我估计许多人很高兴，也有许多人慌了。",
+          "score": 880
+        }
+      ],
+      "hotScore": 0.9419
+    },
     {
       "id": "hupu-644247329",
       "sport": "nba",
@@ -611,25 +624,25 @@
       "url": "https://bbs.hupu.com/644247329.html",
       "author": "悉达多的内心世界",
       "publishedAt": "2026-11-27T07:22:06+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
-      "score": 33,
-      "replyCount": 100,
-      "viewCount": 32118,
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 32,
+      "replyCount": 116,
+      "viewCount": 45861,
       "topComments": [
         {
           "text": "但是实话实说，他带队能力真是差的可以，雷霆伤病多，但剩下的也有哈腾，卡鲁索，米切尔，这三个在哪个队也都是首发球员，马拉也是即战力新人，麦凯恩打个主力轮换也够的，再加上sga，这阵容连输了多少场了，输到附加赛都进不去，早知道你是两届mvp，联盟大小王的人物，带队能力差成这样？伤病不是借口，你还是得看现有阵容跟别人比，就是里弗斯也多少场没打了，东契奇身边那几个真比雷霆现在阵容强多少？东契奇什么档次？连mvp都不是",
-          "score": 424
+          "score": 602
         },
         {
           "text": "罚球潮水褪去裸泳的人",
-          "score": 199
+          "score": 235
         },
         {
           "text": "巅峰哈登平替现在亚历山大，我觉得战绩会高一些",
-          "score": 85
+          "score": 127
         }
       ],
-      "hotScore": 0.9545
+      "hotScore": 0.9399
     },
     {
       "id": "hupu-644246961",
@@ -642,87 +655,25 @@
       "url": "https://bbs.hupu.com/644246961.html",
       "author": "阿诺阿诺阿诺德",
       "publishedAt": "2026-11-27T07:00:32+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
       "score": 50,
-      "replyCount": 261,
-      "viewCount": 93044,
+      "replyCount": 270,
+      "viewCount": 105683,
       "topComments": [
         {
           "text": "能不能封杀他啊",
-          "score": 1623
+          "score": 1770
         },
         {
           "text": "喜事丧办？",
-          "score": 710
+          "score": 726
         },
         {
           "text": "乐子不懂在装什么大款",
-          "score": 356
+          "score": 376
         }
       ],
-      "hotScore": 0.9535
-    },
-    {
-      "id": "hupu-644243939",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[情报站]韩媒：国税厅计划向在中国活动的选手李某征收35亿韩元税款",
-      "excerpt": "虎扑11月27日讯 韩媒税务日报发布“在中国联赛效力的知名LoL职业选手，被“重锤”35亿韩元（折合人民币约1739万）税款”一文，原文部分内容翻译如下： 世界级人气游戏英雄联盟职业选手李某主张“自己是中国居民，不属于韩国所得税征收对象”，但韩国国税厅并未采纳。李某在4年间平均每年有313天待在中国，但国税厅以其家人在韩国国内依靠其收入维持生计、且资产也在韩国为由，判定其为“大韩民国居民”，预告向李某征收的综合所得税高达35亿韩元（折合人民币约1739万）左右。 韩国国税厅于",
-      "url": "https://bbs.hupu.com/644243939.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-11-27T03:41:27+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 888,
-      "viewCount": 699034,
-      "topComments": [
-        {
-          "text": "也就是说塔赞一共拿了3000万人民币，自己领了450万，其他2600万是这个家族公司拿的，现在要把这块收1800万的顶额个税",
-          "score": 5354
-        },
-        {
-          "text": "这避税也避的有点睿智了，以后还是找个专业的来指导怎么避税吧 /quality/70/ignore-error/1?x-oss-process=image/resize,w_225/qulity,Q_60\"/>",
-          "score": 2783
-        },
-        {
-          "text": "按法律来说其实是两边都要交，但是一般是不用重复交的，这种搞了一些拆分就变得很复杂",
-          "score": 1895
-        }
-      ],
-      "hotScore": 0.9443
-    },
-    {
-      "id": "hupu-644248069",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[JR热议]爆料：杰克工资帽顶薪650万，JDG/BLG/AL都愿意给顶薪，看他自己怎么考虑",
-      "excerpt": "除了Viper点赞KRX，KRX在等着BLG官宣，WE这边围绕中野建队了，辅助Moham，上单和AD还在试训，JackeyLove工资帽顶薪650万，JDG、AL、BLG等等这些队伍都愿意给JackeyLove顶薪，就看杰克自己怎么考虑吧，他优先级很高的，其实我感觉哥哥和TheShy挺像的，都不是那么在意钱了，就看阵容，还要和队伍细聊。 小奶油也很抢手啊，有可能签给Knight和Elk的经纪人，好队伍和高工资不愁，主要还是看阵容，希望小奶油明年出成绩，该兑现天赋了林坚！",
-      "url": "https://bbs.hupu.com/644248069.html",
-      "author": "张电视Zzz",
-      "publishedAt": "2026-11-27T08:06:08+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 867,
-      "viewCount": 352479,
-      "topComments": [
-        {
-          "text": "塔赞搞这一出不是休息就是留在AL卖不出去，jkl大概率去blg了",
-          "score": 2028
-        },
-        {
-          "text": "一样的工资我感觉他就是去BLG",
-          "score": 994
-        },
-        {
-          "text": "去blg我估计许多人很高兴，也有许多人慌了。",
-          "score": 846
-        }
-      ],
-      "hotScore": 0.9381
+      "hotScore": 0.9389
     },
     {
       "id": "hupu-644252976",
@@ -735,10 +686,10 @@
       "url": "https://bbs.hupu.com/644252976.html",
       "author": "西兰花体育说",
       "publishedAt": "2026-11-27T13:21:42+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
-      "replyCount": 3,
-      "viewCount": 1809,
+      "replyCount": 4,
+      "viewCount": 2499,
       "topComments": [
         {
           "text": "詹姆斯、克莱、米豆、浓眉、魔兽",
@@ -753,7 +704,38 @@
           "score": 0
         }
       ],
-      "hotScore": 0.9178
+      "hotScore": 0.9145
+    },
+    {
+      "id": "hupu-644243939",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[情报站]韩媒：国税厅计划向在中国活动的选手李某征收35亿韩元税款",
+      "excerpt": "虎扑11月27日讯 韩媒税务日报发布“在中国联赛效力的知名LoL职业选手，被“重锤”35亿韩元（折合人民币约1739万）税款”一文，原文部分内容翻译如下： 世界级人气游戏英雄联盟职业选手李某主张“自己是中国居民，不属于韩国所得税征收对象”，但韩国国税厅并未采纳。李某在4年间平均每年有313天待在中国，但国税厅以其家人在韩国国内依靠其收入维持生计、且资产也在韩国为由，判定其为“大韩民国居民”，预告向李某征收的综合所得税高达35亿韩元（折合人民币约1739万）左右。 韩国国税厅于",
+      "url": "https://bbs.hupu.com/644243939.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-11-27T03:41:27+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 903,
+      "viewCount": 709428,
+      "topComments": [
+        {
+          "text": "也就是说塔赞一共拿了3000万人民币，自己领了450万，其他2600万是这个家族公司拿的，现在要把这块收1800万的顶额个税",
+          "score": 5417
+        },
+        {
+          "text": "这避税也避的有点睿智了，以后还是找个专业的来指导怎么避税吧 /quality/70/ignore-error/1?x-oss-process=image/resize,w_225/qulity,Q_60\"/>",
+          "score": 2836
+        },
+        {
+          "text": "按法律来说其实是两边都要交，但是一般是不用重复交的，这种搞了一些拆分就变得很复杂",
+          "score": 1911
+        }
+      ],
+      "hotScore": 0.9113
     },
     {
       "id": "hupu-644246749",
@@ -766,56 +748,97 @@
       "url": "https://bbs.hupu.com/644246749.html",
       "author": "影无殇",
       "publishedAt": "2026-11-27T06:45:53+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 642,
-      "viewCount": 306707,
+      "replyCount": 664,
+      "viewCount": 338790,
       "topComments": [
         {
           "text": "这比scout恶劣多了，两边逃税，签阴阳合同，另外塔赞打了这么没几年居然赚了三千多万，真离谱啊",
-          "score": 2810
-        },
-        {
-          "text": "关键他在中国逃税，在韩国应该交的税也没交啊。。。报的是哪个国？",
-          "score": 1336
+          "score": 3103
         },
         {
           "text": "他在中国为了规避工资帽，实际工资只有10%-20%，另外全部转移去韩国公司，通过公司给亲戚朋友发钱还购置韩国房产。这就是少交了",
-          "score": 1329
+          "score": 1465
+        },
+        {
+          "text": "关键他在中国逃税，在韩国应该交的税也没交啊。。。报的是哪个国？",
+          "score": 1385
         }
       ],
-      "hotScore": 0.916
+      "hotScore": 0.9014
     },
     {
-      "id": "hupu-644246403",
-      "sport": "football",
+      "id": "hupu-644266087",
+      "sport": "nba",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "谁是在中国最知名的阿拉伯球员？来看看龙之队球迷的回答",
-      "excerpt": "来源：X",
-      "url": "https://bbs.hupu.com/644246403.html",
-      "author": "阿诺阿诺阿诺德",
-      "publishedAt": "2026-11-27T06:22:10+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 23,
-      "replyCount": 43,
-      "viewCount": 17976,
-      "topComments": [
-        {
-          "text": "还得是阿菲夫啊",
-          "score": 82
-        },
-        {
-          "text": "萨拉赫",
-          "score": 60
-        },
-        {
-          "text": "阿菲夫踢中国队次次爆发，看他拿球就怕",
-          "score": 32
-        }
-      ],
-      "hotScore": 0.9096
+      "board": "虎扑篮球场",
+      "title": "221公分大中锋伤停！雷霆队没人打球了，亚历山大都麻了",
+      "excerpt": "俄克拉荷马城雷霆队可能是本赛季NBA最惨的球队，别的战绩不好的队伍，还可以说自己是在摆烂，在重建，在有计划地走完本赛季的流程，但雷霆队不一样，他们是真的做了准备，但硬是被伤病所摧毁。 从赛季一开始，雷霆队就在遭遇的伤病，他们所经历的伤病潮简直难以想象：今夏续约5年1.35亿美元合同的卡森-华莱士做了左肩手术，归期未定；去年续约5年2.39亿美元的杰伦-威廉姆斯做了左踝手术，基本上赛季报销；去年续约5年2.39亿美元的切特-霍姆格伦出现右膝伤病，还没有具体的复出时间。 而在最新",
+      "url": "https://bbs.hupu.com/644266087.html",
+      "author": "虎扑JR1977763382",
+      "publishedAt": "2026-11-28T03:39:43+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 673,
+      "topComments": [],
+      "hotScore": 0.8805
+    },
+    {
+      "id": "hupu-644262872",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "考验罚球了！",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644262872.html",
+      "author": "吉祥律师",
+      "publishedAt": "2026-11-28T02:46:49+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 26,
+      "topComments": [],
+      "hotScore": 0.878
+    },
+    {
+      "id": "hupu-644260995",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "卡斯尔说优势变不成助攻，野球局里队友空位铁了还继续分吗",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644260995.html",
+      "author": "半场缺个人喊我",
+      "publishedAt": "2026-11-28T01:38:21+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 51,
+      "topComments": [],
+      "hotScore": 0.8749
+    },
+    {
+      "id": "hupu-644259871",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "里夫斯缺阵东契奇掉6分，野球局少个搭档你也掉吗",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644259871.html",
+      "author": "半场缺个人喊我",
+      "publishedAt": "2026-11-28T00:45:41+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 147,
+      "topComments": [],
+      "hotScore": 0.8724
     },
     {
       "id": "hupu-644242936",
@@ -828,30 +851,43 @@
       "url": "https://bbs.hupu.com/644242936.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-11-27T02:46:38+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 628,
-      "viewCount": 535617,
+      "replyCount": 636,
+      "viewCount": 553842,
       "topComments": [],
-      "hotScore": 0.8865
+      "hotScore": 0.8719
     },
     {
-      "id": "hupu-644243226",
-      "sport": "lol",
+      "id": "hupu-644246403",
+      "sport": "football",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[流言板]WBG发布人员变动公告：下路选手Elk即日起正式离队",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644243226.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-11-27T03:01:48+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 586,
-      "viewCount": 339737,
-      "topComments": [],
-      "hotScore": 0.8688
+      "board": "虎扑足球话题区",
+      "title": "谁是在中国最知名的阿拉伯球员？来看看龙之队球迷的回答",
+      "excerpt": "来源：X",
+      "url": "https://bbs.hupu.com/644246403.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-11-27T06:22:10+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 23,
+      "replyCount": 44,
+      "viewCount": 18665,
+      "topComments": [
+        {
+          "text": "还得是阿菲夫啊",
+          "score": 84
+        },
+        {
+          "text": "萨拉赫",
+          "score": 60
+        },
+        {
+          "text": "阿菲夫踢中国队次次爆发，看他拿球就怕",
+          "score": 32
+        }
+      ],
+      "hotScore": 0.8713
     },
     {
       "id": "hupu-644242723",
@@ -860,79 +896,16 @@
       "region": "china",
       "board": "虎扑篮球场",
       "title": "文班亚马44分16篮板还输，野球局别只怪他独",
-      "excerpt": "上一场文班亚马砍了44分16篮板，马刺还是输了球。野球局里也常有这种局，队里一个人明显强出一档，球大半时间在他手里，数据好看，最后还是输。 这种时候最容易冒出一句“他太独”。可野球局没什么战术，强的那个人要是也收着不出手，这队得分更没着落。我觉得问题多半不在他投得多，而在旁边的人。他被包夹时，其他人站着看、不切也不跑，球传出来也是死球。 所以跟这种强一档的人一队，别光指望他把球一个个喂好，自己先跑到位、卡好位置。 当然，他要明知被包夹还硬上、完全不看人，那就是另一回事。",
+      "excerpt": "",
       "url": "https://bbs.hupu.com/644242723.html",
       "author": "半场缺个人喊我",
       "publishedAt": "2026-11-27T02:36:40+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 2,
-      "viewCount": 341,
-      "topComments": [
-        {
-          "text": "哈珀是不会坐以待毙站着看着文班一个人打的，他会自己找机会，也是马刺为数不多这样的人，但上一场因伤没打，所以马刺输了",
-          "score": 0
-        },
-        {
-          "text": "哈珀那种不站桩、自己找机会的，正好是我说的那类人。伤停没法算态度问题，但少他一个，包夹一来其他人更容易僵住。",
-          "score": 0
-        }
-      ],
-      "hotScore": 0.8646
-    },
-    {
-      "id": "hupu-644250214",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "【直播】Knight：AD谁来我真不知道，AD不就那么几个人么？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644250214.html",
-      "author": "张电视Zzz",
-      "publishedAt": "2026-11-27T10:15:36+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 281,
-      "viewCount": 142458,
+      "viewCount": 359,
       "topComments": [],
-      "hotScore": 0.852
-    },
-    {
-      "id": "hupu-644244771",
-      "sport": "nba",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑篮球场",
-      "title": "原创 | 如果你经常为了剪进球集锦烦恼，我搞的这个免费剪辑集锦软件你别错过",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644244771.html",
-      "author": "虎扑JR0115424619",
-      "publishedAt": "2026-11-27T04:35:21+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
-      "score": 0,
-      "replyCount": 1,
-      "viewCount": 249,
-      "topComments": [],
-      "hotScore": 0.8468
-    },
-    {
-      "id": "hupu-644243535",
-      "sport": "nba",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑篮球场",
-      "title": "原创 | 名记：历史第一人是詹姆斯！独一档！不需要说服别人！",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644243535.html",
-      "author": "氧气是个地铁",
-      "publishedAt": "2026-11-27T03:18:40+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
-      "score": 0,
-      "replyCount": 1,
-      "viewCount": 316,
-      "topComments": [],
-      "hotScore": 0.8432
+      "hotScore": 0.8662
     },
     {
       "id": "hupu-644257426",
@@ -945,43 +918,66 @@
       "url": "https://bbs.hupu.com/644257426.html",
       "author": "待着了我就不动",
       "publishedAt": "2026-11-27T18:15:00+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 232,
+      "viewCount": 324,
       "topComments": [],
-      "hotScore": 0.8381
+      "hotScore": 0.8543
     },
     {
-      "id": "hupu-644241725",
-      "sport": "football",
+      "id": "hupu-644243226",
+      "sport": "lol",
       "platform": "hupu",
       "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "巴萨要是拿下这赛季欧冠，就彻底忘记梅西了吧",
-      "excerpt": "亚马尔已经每周给巴萨带来新的快乐了，巴萨球迷已经基本都忘了梅西了，要是这赛季拿下欧冠，可以说已经没有梅西存在过的痕迹了。以后巴萨的最佳就是亚马尔了。 反观曼联，在c罗离开之后，接近20年没有欧冠，对一个俱乐部的影响大到这种程度，说一句曼联历史上最伟大的球员都不为过的。",
-      "url": "https://bbs.hupu.com/644241725.html",
-      "author": "nico_cr7_999",
-      "publishedAt": "2026-11-27T01:44:00+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 21,
-      "replyCount": 35,
-      "viewCount": 6814,
-      "topComments": [
-        {
-          "text": "现在认跌能认到巴萨头上了",
-          "score": 376
-        },
-        {
-          "text": "巴萨赢也是罗赢？还算梅西、曼联输？ 罗哥赢几次？",
-          "score": 164
-        },
-        {
-          "text": "认完西班牙，接着认巴萨，哈哈！ /quality/70/ignore-error/1?x-oss-process=image/resize,w_800/format,webp\"/>",
-          "score": 110
-        }
-      ],
-      "hotScore": 0.8362
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]WBG发布人员变动公告：下路选手Elk即日起正式离队",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644243226.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-11-27T03:01:48+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 590,
+      "viewCount": 347778,
+      "topComments": [],
+      "hotScore": 0.8542
+    },
+    {
+      "id": "hupu-644244771",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 如果你经常为了剪进球集锦烦恼，我搞的这个免费剪辑集锦软件你别错过",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644244771.html",
+      "author": "虎扑JR0115424619",
+      "publishedAt": "2026-11-27T04:35:21+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 273,
+      "topComments": [],
+      "hotScore": 0.8532
+    },
+    {
+      "id": "hupu-644243535",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "原创 | 名记：历史第一人是詹姆斯！独一档！不需要说服别人！",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644243535.html",
+      "author": "氧气是个地铁",
+      "publishedAt": "2026-11-27T03:18:40+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 1,
+      "viewCount": 337,
+      "topComments": [],
+      "hotScore": 0.8497
     },
     {
       "id": "hupu-644254388",
@@ -994,48 +990,61 @@
       "url": "https://bbs.hupu.com/644254388.html",
       "author": "虎扑JR0549722768",
       "publishedAt": "2026-11-27T14:39:42+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 158,
+      "viewCount": 231,
       "topComments": [],
-      "hotScore": 0.8281
+      "hotScore": 0.8444
     },
     {
-      "id": "hupu-644239572",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "C罗更衣室喊话：丢球后要做反应，做到这点相信百分百能赢",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644239572.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-11-26T21:57:43+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 18,
-      "replyCount": 39,
-      "viewCount": 10805,
-      "topComments": [],
-      "hotScore": 0.8205
-    },
-    {
-      "id": "hupu-644236389",
+      "id": "hupu-644250214",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "如果把最近8年的s赛亚军放在一起打淘汰赛，谁能圆梦?",
+      "title": "【直播】Knight：AD谁来我真不知道，AD不就那么几个人么？",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644236389.html",
-      "author": "虎扑JR1399916373",
-      "publishedAt": "2026-11-26T16:11:24+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "url": "https://bbs.hupu.com/644250214.html",
+      "author": "张电视Zzz",
+      "publishedAt": "2026-11-27T10:15:36+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 532,
-      "viewCount": 147800,
+      "replyCount": 307,
+      "viewCount": 157133,
       "topComments": [],
-      "hotScore": 0.8202
+      "hotScore": 0.8374
+    },
+    {
+      "id": "hupu-644251559",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "网上看的所有人都在巅峰，你会选择哪一个组合？",
+      "excerpt": "😉",
+      "url": "https://bbs.hupu.com/644251559.html",
+      "author": "虎扑JR1867422232",
+      "publishedAt": "2026-11-27T11:47:06+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 24,
+      "replyCount": 34,
+      "viewCount": 22266,
+      "topComments": [
+        {
+          "text": "国米这组最猛",
+          "score": 52
+        },
+        {
+          "text": "选马钞奔马",
+          "score": 9
+        },
+        {
+          "text": "感觉米兰这组更均衡一点",
+          "score": 8
+        }
+      ],
+      "hotScore": 0.8364
     },
     {
       "id": "hupu-644251508",
@@ -1048,12 +1057,12 @@
       "url": "https://bbs.hupu.com/644251508.html",
       "author": "红烧海鲜大虾",
       "publishedAt": "2026-11-27T11:44:13+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 170,
+      "viewCount": 195,
       "topComments": [],
-      "hotScore": 0.82
+      "hotScore": 0.8363
     },
     {
       "id": "hupu-644251461",
@@ -1066,12 +1075,12 @@
       "url": "https://bbs.hupu.com/644251461.html",
       "author": "阿俊篮球6",
       "publishedAt": "2026-11-27T11:41:05+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 172,
+      "viewCount": 190,
       "topComments": [],
-      "hotScore": 0.8198
+      "hotScore": 0.8361
     },
     {
       "id": "hupu-644251393",
@@ -1084,12 +1093,12 @@
       "url": "https://bbs.hupu.com/644251393.html",
       "author": "虎扑JR1795195665",
       "publishedAt": "2026-11-27T11:37:26+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 148,
+      "viewCount": 174,
       "topComments": [],
-      "hotScore": 0.8197
+      "hotScore": 0.8359
     },
     {
       "id": "hupu-644250813",
@@ -1102,12 +1111,12 @@
       "url": "https://bbs.hupu.com/644250813.html",
       "author": "虎扑JR1546248356",
       "publishedAt": "2026-11-27T10:55:26+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 108,
+      "viewCount": 128,
       "topComments": [],
-      "hotScore": 0.8177
+      "hotScore": 0.834
     },
     {
       "id": "hupu-644249333",
@@ -1120,30 +1129,12 @@
       "url": "https://bbs.hupu.com/644249333.html",
       "author": "德拉蒙德安德森",
       "publishedAt": "2026-11-27T09:20:05+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 377,
+      "viewCount": 400,
       "topComments": [],
-      "hotScore": 0.8133
-    },
-    {
-      "id": "hupu-644249548",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[流言板]JDG发布人员变动公告：下路选手GALA正式断开连接",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644249548.html",
-      "author": "虎扑游戏电竞资讯",
-      "publishedAt": "2026-11-27T09:32:04+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 252,
-      "viewCount": 156038,
-      "topComments": [],
-      "hotScore": 0.8132
+      "hotScore": 0.8296
     },
     {
       "id": "hupu-644248605",
@@ -1156,12 +1147,12 @@
       "url": "https://bbs.hupu.com/644248605.html",
       "author": "小记观球",
       "publishedAt": "2026-11-27T08:38:28+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 192,
+      "viewCount": 209,
       "topComments": [],
-      "hotScore": 0.8114
+      "hotScore": 0.8277
     },
     {
       "id": "hupu-644247582",
@@ -1174,66 +1165,12 @@
       "url": "https://bbs.hupu.com/644247582.html",
       "author": "虎扑JR1030357468",
       "publishedAt": "2026-11-27T07:38:10+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 124,
+      "viewCount": 136,
       "topComments": [],
-      "hotScore": 0.8086
-    },
-    {
-      "id": "hupu-644240972",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "BLG网传的三位AD们Rank对比viper（elk JKL 大菠萝和viper）",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644240972.html",
-      "author": "小羊兰姆",
-      "publishedAt": "2026-11-27T00:54:31+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 273,
-      "viewCount": 224096,
-      "topComments": [],
-      "hotScore": 0.8076
-    },
-    {
-      "id": "hupu-644245606",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[韩网翻译]Deft：理想型是Ruler，自己依然是能与最顶尖选手竞争的水平",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644245606.html",
-      "author": "影无殇",
-      "publishedAt": "2026-11-27T05:26:16+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 252,
-      "viewCount": 97355,
-      "topComments": [],
-      "hotScore": 0.8018
-    },
-    {
-      "id": "hupu-644242101",
-      "sport": "nba",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑篮球场",
-      "title": "17分大胜76人！5分险胜马刺！NBA最被低估球队诞生，杨瀚森太难了",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644242101.html",
-      "author": "虎扑JR1977763382",
-      "publishedAt": "2026-11-27T02:06:15+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
-      "score": 0,
-      "replyCount": 0,
-      "viewCount": 527,
-      "topComments": [],
-      "hotScore": 0.7932
+      "hotScore": 0.8249
     },
     {
       "id": "hupu-644250885",
@@ -1246,120 +1183,66 @@
       "url": "https://bbs.hupu.com/644250885.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-11-27T11:01:43+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 249,
-      "viewCount": 109601,
+      "replyCount": 293,
+      "viewCount": 131979,
       "topComments": [],
-      "hotScore": 0.7805
+      "hotScore": 0.8211
     },
     {
-      "id": "hupu-644237245",
+      "id": "hupu-644261239",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "灾难级发挥！切尔西球迷喊话福法纳：滚吧！这不欢迎你",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644261239.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-11-28T01:50:32+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 11,
+      "replyCount": 41,
+      "viewCount": 20395,
+      "topComments": [],
+      "hotScore": 0.8123
+    },
+    {
+      "id": "hupu-644242101",
       "sport": "nba",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑篮球场",
-      "title": "我用 76人 打出 68-14",
+      "title": "17分大胜76人！5分险胜马刺！NBA最被低估球队诞生，杨瀚森太难了",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644237245.html",
-      "author": "Dracula_Green",
-      "publishedAt": "2026-11-26T16:50:52+00:00",
-      "collectedAt": "2026-11-27T23:44:45.002297+00:00",
+      "url": "https://bbs.hupu.com/644242101.html",
+      "author": "虎扑JR1977763382",
+      "publishedAt": "2026-11-27T02:06:15+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
       "score": 0,
       "replyCount": 0,
-      "viewCount": 346,
+      "viewCount": 551,
       "topComments": [],
-      "hotScore": 0.7675
+      "hotScore": 0.8095
     },
     {
-      "id": "hupu-644251559",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "网上看的所有人都在巅峰，你会选择哪一个组合？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644251559.html",
-      "author": "虎扑JR1867422232",
-      "publishedAt": "2026-11-27T11:47:06+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 8,
-      "replyCount": 19,
-      "viewCount": 12428,
-      "topComments": [],
-      "hotScore": 0.7431
-    },
-    {
-      "id": "hupu-644242785",
+      "id": "hupu-644236389",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "Tarzan?LPL韩援自认“中国居民”避税被拒，国税厅追征35亿韩元！",
+      "title": "如果把最近8年的s赛亚军放在一起打淘汰赛，谁能圆梦?",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644242785.html",
-      "author": "一叶之秋qwe",
-      "publishedAt": "2026-11-27T02:39:53+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "url": "https://bbs.hupu.com/644236389.html",
+      "author": "虎扑JR1399916373",
+      "publishedAt": "2026-11-26T16:11:24+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 242,
-      "viewCount": 195081,
+      "replyCount": 546,
+      "viewCount": 155491,
       "topComments": [],
-      "hotScore": 0.7388
-    },
-    {
-      "id": "hupu-644247509",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "[JR热议]Viper点赞两条自己加入KRX的帖子",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644247509.html",
-      "author": "虎扑JR2091447413",
-      "publishedAt": "2026-11-27T07:33:18+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 240,
-      "viewCount": 179754,
-      "topComments": [],
-      "hotScore": 0.734
-    },
-    {
-      "id": "hupu-644252118",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "【直播】369：22年我是超级上单，那会上单没人能打过我，22年宙斯也打不过我",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644252118.html",
-      "author": "张电视Zzz",
-      "publishedAt": "2026-11-27T12:27:54+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 222,
-      "viewCount": 110828,
-      "topComments": [],
-      "hotScore": 0.7292
-    },
-    {
-      "id": "hupu-644252885",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "内维尔：肯定哈兰德会在18个月内加盟皇马，维尼修斯将离队",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644252885.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-11-27T13:15:35+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 7,
-      "replyCount": 20,
-      "viewCount": 8247,
-      "topComments": [],
-      "hotScore": 0.7182
+      "hotScore": 0.8056
     },
     {
       "id": "hupu-644253097",
@@ -1372,30 +1255,174 @@
       "url": "https://bbs.hupu.com/644253097.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-11-27T13:30:24+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 221,
-      "viewCount": 154701,
+      "replyCount": 276,
+      "viewCount": 207562,
       "topComments": [],
-      "hotScore": 0.7137
+      "hotScore": 0.7912
     },
     {
-      "id": "hupu-644246456",
+      "id": "hupu-644237245",
+      "sport": "nba",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑篮球场",
+      "title": "我用 76人 打出 68-14",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644237245.html",
+      "author": "Dracula_Green",
+      "publishedAt": "2026-11-26T16:50:52+00:00",
+      "collectedAt": "2026-11-28T04:59:59.430991+00:00",
+      "score": 0,
+      "replyCount": 0,
+      "viewCount": 353,
+      "topComments": [],
+      "hotScore": 0.7838
+    },
+    {
+      "id": "hupu-644241725",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "对手门将懵了！阿贾克斯的博古伊斯似传似射，完成吊射破门",
+      "title": "巴萨要是拿下这赛季欧冠，就彻底忘记梅西了吧",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644246456.html",
-      "author": "阿诺阿诺阿诺德",
-      "publishedAt": "2026-11-27T06:25:11+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 5,
-      "replyCount": 22,
-      "viewCount": 7674,
+      "url": "https://bbs.hupu.com/644241725.html",
+      "author": "nico_cr7_999",
+      "publishedAt": "2026-11-27T01:44:00+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 20,
+      "replyCount": 39,
+      "viewCount": 7884,
       "topComments": [],
-      "hotScore": 0.694
+      "hotScore": 0.7795
+    },
+    {
+      "id": "hupu-644240972",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "BLG网传的三位AD们Rank对比viper（elk JKL 大菠萝和viper）",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644240972.html",
+      "author": "小羊兰姆",
+      "publishedAt": "2026-11-27T00:54:31+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 278,
+      "viewCount": 229672,
+      "topComments": [],
+      "hotScore": 0.7746
+    },
+    {
+      "id": "hupu-644252118",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "【直播】369：22年我是超级上单，那会上单没人能打过我，22年宙斯也打不过我",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644252118.html",
+      "author": "张电视Zzz",
+      "publishedAt": "2026-11-27T12:27:54+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 275,
+      "viewCount": 142686,
+      "topComments": [],
+      "hotScore": 0.7699
+    },
+    {
+      "id": "hupu-644262290",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "波切蒂诺：我不是好好先生，别把nice和good弄混",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644262290.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-11-28T02:31:27+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 12,
+      "replyCount": 28,
+      "viewCount": 12984,
+      "topComments": [],
+      "hotScore": 0.7642
+    },
+    {
+      "id": "hupu-644239572",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "C罗更衣室喊话：丢球后要做反应，做到这点相信百分百能赢",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644239572.html",
+      "author": "内马尔的妹妹",
+      "publishedAt": "2026-11-26T21:57:43+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 17,
+      "replyCount": 40,
+      "viewCount": 11040,
+      "topComments": [],
+      "hotScore": 0.7638
+    },
+    {
+      "id": "hupu-644249548",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[流言板]JDG发布人员变动公告：下路选手GALA正式断开连接",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644249548.html",
+      "author": "虎扑游戏电竞资讯",
+      "publishedAt": "2026-11-27T09:32:04+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 261,
+      "viewCount": 169249,
+      "topComments": [],
+      "hotScore": 0.7433
+    },
+    {
+      "id": "hupu-644247509",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[JR热议]Viper点赞两条自己加入KRX的帖子",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644247509.html",
+      "author": "虎扑JR2091447413",
+      "publishedAt": "2026-11-27T07:33:18+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 260,
+      "viewCount": 196745,
+      "topComments": [],
+      "hotScore": 0.7194
+    },
+    {
+      "id": "hupu-644245606",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[韩网翻译]Deft：理想型是Ruler，自己依然是能与最顶尖选手竞争的水平",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644245606.html",
+      "author": "影无殇",
+      "publishedAt": "2026-11-27T05:26:16+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 260,
+      "viewCount": 107497,
+      "topComments": [],
+      "hotScore": 0.7135
     },
     {
       "id": "hupu-644252070",
@@ -1408,48 +1435,30 @@
       "url": "https://bbs.hupu.com/644252070.html",
       "author": "张电视Zzz",
       "publishedAt": "2026-11-27T12:24:48+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 217,
-      "viewCount": 139590,
+      "replyCount": 259,
+      "viewCount": 172720,
       "topComments": [],
-      "hotScore": 0.6922
+      "hotScore": 0.696
     },
     {
-      "id": "hupu-644244501",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "说实话，梅西的过人，看直播时，还算可以，但是如果只看集锦，就不太漂亮了，只有普通的花式和幅度",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644244501.html",
-      "author": "疾苦了没",
-      "publishedAt": "2026-11-27T04:18:17+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 8,
-      "replyCount": 16,
-      "viewCount": 2600,
-      "topComments": [],
-      "hotScore": 0.6855
-    },
-    {
-      "id": "hupu-644244986",
+      "id": "hupu-644242785",
       "sport": "lol",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑英雄联盟",
-      "title": "[虎扑TOP10]LPL历史TOP10评选：谁是你心中的TOP5",
+      "title": "Tarzan?LPL韩援自认“中国居民”避税被拒，国税厅追征35亿韩元！",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644244986.html",
-      "author": "虎扑电竞",
-      "publishedAt": "2026-11-27T04:46:06+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "url": "https://bbs.hupu.com/644242785.html",
+      "author": "一叶之秋qwe",
+      "publishedAt": "2026-11-27T02:39:53+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 201,
-      "viewCount": 53507,
+      "replyCount": 247,
+      "viewCount": 198574,
       "topComments": [],
-      "hotScore": 0.6525
+      "hotScore": 0.6505
     },
     {
       "id": "hupu-644246616",
@@ -1462,12 +1471,102 @@
       "url": "https://bbs.hupu.com/644246616.html",
       "author": "最有人情味的粉丝",
       "publishedAt": "2026-11-27T06:35:20+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
       "score": 50,
-      "replyCount": 195,
-      "viewCount": 216549,
+      "replyCount": 234,
+      "viewCount": 273753,
       "topComments": [],
-      "hotScore": 0.6392
+      "hotScore": 0.643
+    },
+    {
+      "id": "hupu-644253099",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "为什么Viper在观感上没多强，却能双冠，他是作用大于数据的选手，LOL界的隆多吗？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644253099.html",
+      "author": "Himeo",
+      "publishedAt": "2026-11-27T13:30:30+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 180,
+      "viewCount": 132520,
+      "topComments": [],
+      "hotScore": 0.6254
+    },
+    {
+      "id": "hupu-644244986",
+      "sport": "lol",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑英雄联盟",
+      "title": "[虎扑TOP10]LPL历史TOP10评选：谁是你心中的TOP5",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644244986.html",
+      "author": "虎扑电竞",
+      "publishedAt": "2026-11-27T04:46:06+00:00",
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 50,
+      "replyCount": 207,
+      "viewCount": 58763,
+      "topComments": [],
+      "hotScore": 0.6195
+    },
+    {
+      "id": "hupu-644252885",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "内维尔：肯定哈兰德会在18个月内加盟皇马，维尼修斯将离队",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644252885.html",
+      "author": "内马尔的妹妹",
+      "publishedAt": "2026-11-27T13:15:35+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 7,
+      "replyCount": 20,
+      "viewCount": 8822,
+      "topComments": [],
+      "hotScore": 0.601
+    },
+    {
+      "id": "hupu-644264661",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "梅西对阵哥伦布机衣炸裂表现",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644264661.html",
+      "author": "虎扑JR114037219",
+      "publishedAt": "2026-11-28T03:17:12+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 7,
+      "replyCount": 15,
+      "viewCount": 1430,
+      "topComments": [],
+      "hotScore": 0.5663
+    },
+    {
+      "id": "hupu-644244501",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "说实话，梅西的过人，看直播时，还算可以，但是如果只看集锦，就不太漂亮了，只有普通的花式和幅度",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644244501.html",
+      "author": "疾苦了没",
+      "publishedAt": "2026-11-27T04:18:17+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 8,
+      "replyCount": 17,
+      "viewCount": 2931,
+      "topComments": [],
+      "hotScore": 0.563
     },
     {
       "id": "hupu-644246922",
@@ -1480,48 +1579,48 @@
       "url": "https://bbs.hupu.com/644246922.html",
       "author": "虎扑JR1071583363",
       "publishedAt": "2026-11-27T06:57:27+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 4,
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 6,
       "replyCount": 18,
-      "viewCount": 865,
+      "viewCount": 1213,
       "topComments": [],
-      "hotScore": 0.6165
+      "hotScore": 0.5177
     },
     {
-      "id": "hupu-644244046",
-      "sport": "lol",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑英雄联盟",
-      "title": "【直播】Viper下播前，ON不舍地看着弹幕“26年最强下路以后常联系”",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644244046.html",
-      "author": "黑心波比",
-      "publishedAt": "2026-11-27T03:48:30+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 50,
-      "replyCount": 162,
-      "viewCount": 263678,
-      "topComments": [],
-      "hotScore": 0.5946
-    },
-    {
-      "id": "hupu-644245134",
+      "id": "hupu-644261503",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "大家发现没，C罗退役后，葡萄牙后场先不说，前场那几个除了倒脚传安全球还会啥？？？",
+      "title": "波兰联赛，有人骑着电动滑板车大摇大摆的在球场转了一圈",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644245134.html",
-      "author": "虎扑JR0740589382",
-      "publishedAt": "2026-11-27T04:55:28+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 4,
-      "replyCount": 16,
-      "viewCount": 1389,
+      "url": "https://bbs.hupu.com/644261503.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-11-28T02:02:24+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 6,
+      "replyCount": 15,
+      "viewCount": 9964,
       "topComments": [],
-      "hotScore": 0.5925
+      "hotScore": 0.5155
+    },
+    {
+      "id": "hupu-644246456",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "对手门将懵了！阿贾克斯的博古伊斯似传似射，完成吊射破门",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644246456.html",
+      "author": "阿诺阿诺阿诺德",
+      "publishedAt": "2026-11-27T06:25:11+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 5,
+      "replyCount": 23,
+      "viewCount": 7867,
+      "topComments": [],
+      "hotScore": 0.5057
     },
     {
       "id": "hupu-644253292",
@@ -1534,12 +1633,48 @@
       "url": "https://bbs.hupu.com/644253292.html",
       "author": "虎扑足球",
       "publishedAt": "2026-11-27T13:40:52+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
       "score": 2,
       "replyCount": 28,
-      "viewCount": 1660,
+      "viewCount": 2079,
       "topComments": [],
-      "hotScore": 0.5668
+      "hotScore": 0.4206
+    },
+    {
+      "id": "hupu-644259828",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "迈阿密想晋级，必须梅西替补",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644259828.html",
+      "author": "nico_cr7_999",
+      "publishedAt": "2026-11-28T00:44:15+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 5,
+      "replyCount": 11,
+      "viewCount": 2612,
+      "topComments": [],
+      "hotScore": 0.4092
+    },
+    {
+      "id": "hupu-644245134",
+      "sport": "football",
+      "platform": "hupu",
+      "region": "china",
+      "board": "虎扑足球话题区",
+      "title": "大家发现没，C罗退役后，葡萄牙后场先不说，前场那几个除了倒脚传安全球还会啥？？？",
+      "excerpt": "",
+      "url": "https://bbs.hupu.com/644245134.html",
+      "author": "虎扑JR0740589382",
+      "publishedAt": "2026-11-27T04:55:28+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 4,
+      "replyCount": 16,
+      "viewCount": 1526,
+      "topComments": [],
+      "hotScore": 0.3805
     },
     {
       "id": "hupu-644247944",
@@ -1552,102 +1687,12 @@
       "url": "https://bbs.hupu.com/644247944.html",
       "author": "虎扑JR0083178619",
       "publishedAt": "2026-11-27T07:59:26+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
       "score": 3,
-      "replyCount": 13,
-      "viewCount": 362,
+      "replyCount": 15,
+      "viewCount": 433,
       "topComments": [],
-      "hotScore": 0.5168
-    },
-    {
-      "id": "hupu-644244262",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "梅西到底是从什么时候开始真正超过C罗？？？？？？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644244262.html",
-      "author": "虎扑JR1071583363",
-      "publishedAt": "2026-11-27T04:01:18+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 3,
-      "replyCount": 9,
-      "viewCount": 864,
-      "topComments": [],
-      "hotScore": 0.4873
-    },
-    {
-      "id": "hupu-644245529",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "矿工vs费内巴切欧冠赛前仪式上，格林伍德身前没安排球童",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644245529.html",
-      "author": "内马尔的妹妹",
-      "publishedAt": "2026-11-27T05:21:13+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 3,
-      "replyCount": 5,
-      "viewCount": 4004,
-      "topComments": [],
-      "hotScore": 0.4357
-    },
-    {
-      "id": "hupu-644241171",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "盖德穆勒奖，按现有规则往前追溯，获奖最多的也是梅西",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644241171.html",
-      "author": "爱珠宝爱翡翠",
-      "publishedAt": "2026-11-27T01:09:17+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 3,
-      "replyCount": 4,
-      "viewCount": 864,
-      "topComments": [],
-      "hotScore": 0.3688
-    },
-    {
-      "id": "hupu-644244978",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "你认为最假的足球联赛是哪个？",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644244978.html",
-      "author": "梅川酷子的风",
-      "publishedAt": "2026-11-27T04:45:43+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 2,
-      "replyCount": 6,
-      "viewCount": 644,
-      "topComments": [],
-      "hotScore": 0.3578
-    },
-    {
-      "id": "hupu-644246740",
-      "sport": "football",
-      "platform": "hupu",
-      "region": "china",
-      "board": "虎扑足球话题区",
-      "title": "周五早场组合推荐",
-      "excerpt": "",
-      "url": "https://bbs.hupu.com/644246740.html",
-      "author": "趣心看足球",
-      "publishedAt": "2026-11-27T06:45:04+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 0,
-      "replyCount": 7,
-      "viewCount": 747,
-      "topComments": [],
-      "hotScore": 0.3107
+      "hotScore": 0.3232
     },
     {
       "id": "hupu-644256875",
@@ -1660,48 +1705,48 @@
       "url": "https://bbs.hupu.com/644256875.html",
       "author": "深聊之声",
       "publishedAt": "2026-11-27T17:14:00+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 0,
-      "replyCount": 5,
-      "viewCount": 1003,
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 4,
+      "replyCount": 8,
+      "viewCount": 1519,
       "topComments": [],
-      "hotScore": 0.303
+      "hotScore": 0.3042
     },
     {
-      "id": "hupu-644244107",
+      "id": "hupu-644244262",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "赵松源、邝兆雷2打5轰入本场最佳进球，淘汰赛还得看他俩的关键发挥",
+      "title": "梅西到底是从什么时候开始真正超过C罗？？？？？？",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644244107.html",
-      "author": "男人所爱",
-      "publishedAt": "2026-11-27T03:52:02+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
-      "score": 2,
-      "replyCount": 4,
-      "viewCount": 1185,
+      "url": "https://bbs.hupu.com/644244262.html",
+      "author": "虎扑JR1071583363",
+      "publishedAt": "2026-11-27T04:01:18+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
+      "score": 3,
+      "replyCount": 9,
+      "viewCount": 864,
       "topComments": [],
-      "hotScore": 0.2816
+      "hotScore": 0.2385
     },
     {
-      "id": "hupu-644237911",
+      "id": "hupu-644246740",
       "sport": "football",
       "platform": "hupu",
       "region": "china",
       "board": "虎扑足球话题区",
-      "title": "感觉u17这场还是暴露出来了不少问题",
+      "title": "周五早场组合推荐",
       "excerpt": "",
-      "url": "https://bbs.hupu.com/644237911.html",
-      "author": "枫花柠檬",
-      "publishedAt": "2026-11-26T17:25:59+00:00",
-      "collectedAt": "2026-11-27T23:44:47.640917+00:00",
+      "url": "https://bbs.hupu.com/644246740.html",
+      "author": "趣心看足球",
+      "publishedAt": "2026-11-27T06:45:04+00:00",
+      "collectedAt": "2026-11-28T05:00:02.330653+00:00",
       "score": 0,
-      "replyCount": 5,
-      "viewCount": 3978,
+      "replyCount": 7,
+      "viewCount": 747,
       "topComments": [],
-      "hotScore": 0.2368
+      "hotScore": 0.1382
     },
     {
       "id": "hupu-644244269",
@@ -1714,12 +1759,12 @@
       "url": "https://bbs.hupu.com/644244269.html",
       "author": "虎扑游戏电竞资讯",
       "publishedAt": "2026-11-27T04:01:33+00:00",
-      "collectedAt": "2026-11-27T23:44:51.322891+00:00",
-      "score": 33,
-      "replyCount": 167,
-      "viewCount": 97206,
+      "collectedAt": "2026-11-28T05:00:05.996444+00:00",
+      "score": 32,
+      "replyCount": 172,
+      "viewCount": 100942,
       "topComments": [],
-      "hotScore": 0.1636
+      "hotScore": 0.1306
     }
   ]
 }
